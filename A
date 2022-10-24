@@ -1,0 +1,540 @@
+Algoritmo Juego
+	/// Variables:
+	ni <- 'Por favor ingrese el numero segun la respuesta'
+	/// Definir Respuesta0,RespuestaD1 Como Numerico
+	/// Juego
+	Escribir '' 
+	Escribir ''
+	Escribir ''
+	Escribir ''
+	Escribir ''
+	Escribir ''
+	Escribir ''
+	Escribir ''
+	Escribir ''
+	Escribir 'BBBBBBBBBBBBBBBBB   UUUUUUUU     UUUUUUUULLLLLLLLLLL             BBBBBBBBBBBBBBBBB   HHHHHHHHH     HHHHHHHHHEEEEEEEEEEEEEEEEEEEEEE               AAA               DDDDDDDDDDDDD        '
+	Escribir 'B::::::::::::::::B  U::::::U     U::::::UL:::::::::L             B::::::::::::::::B  H:::::::H     H:::::::HE::::::::::::::::::::E              A:::A              D::::::::::::DDD     '
+	Escribir 'B::::::BBBBBB:::::B U::::::U     U::::::UL:::::::::L             B::::::BBBBBB:::::B H:::::::H     H:::::::HE::::::::::::::::::::E             A:::::A             D:::::::::::::::DD   '
+	Escribir 'BB:::::B     B:::::BUU:::::U     U:::::UULL:::::::LL             BB:::::B     B:::::BHH::::::H     H::::::HHEE::::::EEEEEEEEE::::E            A:::::::A            DDD:::::DDDDD:::::D  '
+	Escribir '  B::::B     B:::::B U:::::U     U:::::U   L:::::L                 B::::B     B:::::B  H:::::H     H:::::H    E:::::E       EEEEEE           A:::::::::A             D:::::D    D:::::D '
+	Escribir '  B::::B     B:::::B U:::::D     D:::::U   L:::::L                 B::::B     B:::::B  H:::::H     H:::::H    E:::::E                       A:::::A:::::A            D:::::D     D:::::D'
+	Escribir '  B::::BBBBBB:::::B  U:::::D     D:::::U   L:::::L                 B::::BBBBBB:::::B   H::::::HHHHH::::::H    E::::::EEEEEEEEEE            A:::::A A:::::A           D:::::D     D:::::D'
+	Escribir '  B:::::::::::::BB   U:::::D     D:::::U   L:::::L                 B:::::::::::::BB    H:::::::::::::::::H    E:::::::::::::::E           A:::::A   A:::::A          D:::::D     D:::::D'
+	Escribir '  B::::BBBBBB:::::B  U:::::D     D:::::U   L:::::L                 B::::BBBBBB:::::B   H:::::::::::::::::H    E:::::::::::::::E          A:::::A     A:::::A         D:::::D     D:::::D'
+	Escribir '  B::::B     B:::::B U:::::D     D:::::U   L:::::L                 B::::B     B:::::B  H::::::HHHHH::::::H    E::::::EEEEEEEEEE         A:::::AAAAAAAAA:::::A        D:::::D     D:::::D'
+	Escribir '  B::::B     B:::::B U:::::D     D:::::U   L:::::L                 B::::B     B:::::B  H:::::H     H:::::H    E:::::E                  A:::::::::::::::::::::A       D:::::D     D:::::D'
+	Escribir '  B::::B     B:::::B U::::::U   U::::::U   L:::::L         LLLLLL  B::::B     B:::::B  H:::::H     H:::::H    E:::::E       EEEEEE    A:::::AAAAAAAAAAAAA:::::A      D:::::D    D:::::D '
+	Escribir 'BB:::::BBBBBB::::::B U:::::::UUU:::::::U LL:::::::LLLLLLLLL:::::LBB:::::BBBBBB::::::BHH::::::H     H::::::HHEE::::::EEEEEEEE:::::E   A:::::A             A:::::A   DDD:::::DDDDD:::::D  '
+	Escribir 'B:::::::::::::::::B   UU:::::::::::::UU  L::::::::::::::::::::::LB:::::::::::::::::B H:::::::H     H:::::::HE::::::::::::::::::::E  A:::::A               A:::::A  D:::::::::::::::DD   '
+	Escribir 'B::::::::::::::::B      UU:::::::::UU    L::::::::::::::::::::::LB::::::::::::::::B  H:::::::H     H:::::::HE::::::::::::::::::::E A:::::A                 A:::::A D::::::::::::DDD     '
+	Escribir 'BBBBBBBBBBBBBBBBB         UUUUUUUUU      LLLLLLLLLLLLLLLLLLLLLLLLBBBBBBBBBBBBBBBBB   HHHHHHHHH     HHHHHHHHHEEEEEEEEEEEEEEEEEEEEEEAAAAAAA                   AAAAAAADDDDDDDDDDDDD        '
+	Esperar 1 segundos
+	Borrar pantalla
+	
+	///Creación de castillo con luces con vector
+	
+	Dimension Casti(41)
+	Casti[1]<- ''
+	Casti[2]<-  ''
+	Casti[3]<-  ''
+	Casti[4]<-  '                                 *           ´              *         .              *            _.---._       *       ´             *        '
+	Casti[5]<-  '                                                     .              _____[LLL]______________[LLL]_____     \                            *         *'
+	Casti[6]<-  '                                             *                     /     [LLL]              [LLL]     \     |      *               .         '     
+	Casti[7]<-  '                            *                          *          /____________________________________\    |    .          *               *    '
+	Casti[8]<-  '                                                                   )==================================(    /          .                *     '
+	Casti[9]<-  '                                      *           .      *          |I .-. I .-. I .--. I .-. I .-. I |   /                   .                   *'
+	Casti[10]<-  '                                                               *    |I |+| I |+| I |. | I |+| I |+| I |-      *                  *                '
+	Casti[11]<-  '                            *               *                       |I_|+|_I_|+|_I_|__|_I_|+|_I_|+|_I|      .          *                *       ´ '
+	Casti[12]<-  '                                 .                         .       /_I_____I_____I______I_____I_____I_\                     .                         *'
+	Casti[13]<-  '                                      *             *         _     |I .-. I .-. I .--. I .-. I .-. I|          *                           *'
+	Casti[14]<-  '                                                             |u|  __|I |+| I |+| I |<>| I |+| I |+| I|    _           .           *          '
+	Casti[15]<-  '                                  *     .       *       __   |u|_|uu|I |+| I |+| I |~ | I |+| I |+| I| _ |U|     _             .        ´     '
+	Casti[16]<-  '                                                    .  |uu|__|u|u|u,|I_|+|_I_|+|_I_|__|_I_|+|_I_|+|_I||n|| |____|u|     *                   * '
+	Casti[17]<-  '                                                       |uu|uu|_,.- /I_____I_____I______I_____I____ _I\`-. |uu u|u|__               *      '
+	Casti[18]<-  '                                            *          |uu.- `      #############(______)#############    `-. u|u|uu|       .            '
+	Casti[19]<-  '                                                      _.´`              ~*^*~   (________)   ~*^*^~           `´-.|uu|                   '
+	Casti[20]<-  '                                                   ,´´          .´    _                             _ `´-.        `´-.                   '
+	Casti[21]<-  '                                               ~*^*~    _,´~*^*~    _( )_                         _( )_   `´-.        ~*^*~ '
+	Casti[22]<-  '                                                   _  .´            |___|                         |___|      ~*^*~     _    '
+	Casti[23]<-  '                                                 _( )_              |_|_|          () ()          |_|_|              _( )_  '
+	Casti[24]<-  '                                                 |___|/\/\/\/\/\/\/\|___|/\/\/\/\/\|| ||/\/\/\/\/\|___|/\/\/\/\/\/\/\|___|  '
+	Casti[25]<-  '                                                 |_|_|\/\/\/\/\/\/\/|_|_|\/\/\/\/\/|| ||\/\/\/\/\/|_|_|\/\/\/\/\/\/\/|_|_|  '
+	Casti[26]<-  '                                                 |___|/\/\/\/\/\/\/\|___|/\/\/\/\/\|| ||/\/\/\/\/\|___|/\/\/\/\/\/\/\|___|  '
+	Casti[27]<-  '                                                 |_|_|\/\/\/\/\/\/\/|_|_|\/\/\/\/\/[===]\/\/\/\/\/|_|_|\/\/\/\/\/\/\/|_|_|  '
+	Casti[28]<-  '                                                 |___|/\/\/\/\/\/\/\|___|/\/\/\/\/\|| ||/\/\/\/\/\|___|/\/\/\/\/\/\/\|___|  '
+	Casti[29]<-  '                                                 |_|_|\/\/\/\/\/\/\/|_|_|\/\/\/\/\/|| ||\/\/\/\/\/|_|_|\/\/\/\/\/\/\/|_|_|  '
+	Casti[30]<-  '                                                 |___|/\/\/\/\/\/\/\|___|/\/\/\/\/\|| ||/\/\/\/\/\|___|/\/\/\/\/\/\/\|___|  '
+	Casti[31]<- '                                             ~**~|_|_|\/\/\/\/\/\/\/|_|_|\/\/\/\/\/|| ||\/\/\/\/\/|_|_|\/\/\/\/\/\/\/|_|_|  '
+	Casti[32]<- '                                                [_____]            [_____]                       [_____]            [_____]  '
+	Casti[33]<- ''
+	Casti[34]<- ''
+	Casti[35]<- '                                                                                  1 - JUGAR'
+	Casti[36]<- ''
+	Casti[37]<- '                                                                              2 - INSTRUCCIONES'
+	Casti[38]<- ''
+	Casti[39]<- '                                                                              3 - VER CRÉDITOS'
+	Casti[40]<- ''
+	Casti[41]<- '                                                                        4 - VOLVER AL MENÚ PRINCIPAL'
+	
+	///Creacion de castillo sin luces con vector
+	
+	Dimension Castillo(41)
+	Castillo[1] <-''
+	Castillo[2] <- ''
+	Castillo[3] <- ''
+	Castillo[4] <- '                                                 ´                    .                           _.---._       ´                    ´      '
+	Castillo[5] <- '                                      ´              .        ´     _____[LLL]______________[LLL]_____     \              ´                '
+	Castillo[6] <- '                                                                   /     [LLL]              [LLL]     \     |                     .       '     
+	Castillo[7] <- '                                                                  /____________________________________\    |    .                        '
+	Castillo[8] <- '                                ´      ´                           )==================================(    /          .                   '
+	Castillo[9] <- '                                                  .        ´        |I .-. I .-. I .--. I .-. I .-. I |   /      ´             .      ´     '
+	Castillo[10] <- '                                                                    |I |+| I |+| I |. | I |+| I |+| I |-                                 '
+	Castillo[11] <- '                                           ´                        |I_|+|_I_|+|_I_|__|_I_|+|_I_|+|_I|      .          ´                  '
+	Castillo[12] <- '                                 .                         .       /_I_____I_____I______I_____I_____I_\                     .      ´      '
+	Castillo[13] <- '                                                  ´           _     |I .-. I .-. I .--. I .-. I .-. I|           ´                        '
+	Castillo[14] <- '                                                             |u|  __|I |+| I |+| I |<>| I |+| I |+| I|    _           .               ´   '
+	Castillo[15] <- '                                ´        .              __   |u|_|uu|I |+| I |+| I |~ | I |+| I |+| I| _ |U|     _             .         '
+	Castillo[16] <- '                                                    .  |uu|__|u|u|u,|I_|+|_I_|+|_I_|__|_I_|+|_I_|+|_I||n|| |____|u|      ´                '
+	Castillo[17] <- '                                                       |uu|uu|_,.- /I_____I_____I______I_____I____ _I\`-. |uu u|u|__                ´     '
+	Castillo[18] <- '                                    ´                  |uu.- `      #############(______)#############    `-. u|u|uu|       .            '
+	Castillo[19] <- '                                                      _.´`              ~*^*~   (________)   ~*^*^~           `´-.|uu|                ´   '
+	Castillo[20] <- '                                                   ,´´          .´    _                             _ `´-.        `´-.                   '
+	Castillo[21] <- '                                               ~*^*~    _,´~*^*~    _( )_                         _( )_   `´-.        ~*^*~ '
+	Castillo[22] <- '                                                   _  .´            |___|                         |___|      ~*^*~     _    '
+	Castillo[23] <- '                                                 _( )_              |_|_|          () ()          |_|_|              _( )_  '
+	Castillo[24] <- '                                                 |___|/\/\/\/\/\/\/\|___|/\/\/\/\/\|| ||/\/\/\/\/\|___|/\/\/\/\/\/\/\|___|  '
+	Castillo[25] <- '                                                 |_|_|\/\/\/\/\/\/\/|_|_|\/\/\/\/\/|| ||\/\/\/\/\/|_|_|\/\/\/\/\/\/\/|_|_|  '
+	Castillo[26] <- '                                                 |___|/\/\/\/\/\/\/\|___|/\/\/\/\/\|| ||/\/\/\/\/\|___|/\/\/\/\/\/\/\|___|  '
+	Castillo[27] <- '                                                 |_|_|\/\/\/\/\/\/\/|_|_|\/\/\/\/\/[===]\/\/\/\/\/|_|_|\/\/\/\/\/\/\/|_|_|  '
+	Castillo[28] <- '                                                 |___|/\/\/\/\/\/\/\|___|/\/\/\/\/\|| ||/\/\/\/\/\|___|/\/\/\/\/\/\/\|___|  '
+	Castillo[29] <- '                                                 |_|_|\/\/\/\/\/\/\/|_|_|\/\/\/\/\/|| ||\/\/\/\/\/|_|_|\/\/\/\/\/\/\/|_|_|  '
+	Castillo[30] <- '                                                 |___|/\/\/\/\/\/\/\|___|/\/\/\/\/\|| ||/\/\/\/\/\|___|/\/\/\/\/\/\/\|___|  '
+	Castillo[31] <- '                                             ~**~|_|_|\/\/\/\/\/\/\/|_|_|\/\/\/\/\/|| ||\/\/\/\/\/|_|_|\/\/\/\/\/\/\/|_|_|  '
+	Castillo[32] <- '                                                [_____]            [_____]                       [_____]            [_____] '
+	Castillo[33] <- ''
+	Castillo[34] <- ''
+	Castillo[35] <- '                                                                                  1 - JUGAR'
+	Castillo[36] <- ''
+	Castillo[37] <- '                                                                              2 - INSTRUCCIONES'
+	Castillo[38] <- ''
+	Castillo[39] <- '                                                                              3 - VER CRÉDITOS'
+	Castillo[40] <- ''
+	Castillo[41] <- '                                                                        4 - VOLVER AL MENÚ PRINCIPAL'
+	
+	///Vectores usados 
+	
+	dimension ventana(2)
+	ventana[1] <-'Te aproximas a la ventana. Los vidrios están sucios y el interior oscuro. Es casi imposible discernir nada.'
+	ventana[2] <-'Sin embargo, de pronto una sombra se mueve en el interior y desaparece. ¿Qué decides?'
+	
+	///Creación de pantalla de carga (3 vectores)
+	
+	Dimension Cargando1(21)
+	Cargando1[1] <-''
+	Cargando1[2] <- ''
+	Cargando1[3] <- ''
+	Cargando1[4] <- ''
+	Cargando1[5] <- ''
+	Cargando1[6] <- ''
+	Cargando1[7] <- ''
+	Cargando1[8] <- ''
+	Cargando1[9] <- ''
+	Cargando1[10] <- ''
+	Cargando1[11] <- ''
+	Cargando1[12] <- ''
+	Cargando1[13] <- ''
+	Cargando1[14] <- ''
+	Cargando1[15] <- ''
+	Cargando1[16] <- '                                                                      ______                                 __                   '
+	Cargando1[17] <- '                                                                     / ____/___ __________ _____ _____  ____/ /___                '
+	Cargando1[18] <- '                                                                    / /   / __ `/ ___/ __ `/ __ `/ __ \/ __  / __ \               '
+	Cargando1[19] <- '                                                                   / /___/ /_/ / /  / /_/ / /_/ / / / / /_/ / /_/ /  _  '
+	Cargando1[20] <- '                                                                   \____/\__,_/_/   \__, /\__,_/_/ /_/\__,_/\____/  (_) '
+	Cargando1[21] <- '                                                                                   /____/                               '
+	
+	Dimension Cargando2(21)
+	Cargando2[1] <-''
+	Cargando2[2] <- ''
+	Cargando2[3] <- ''
+	Cargando2[4] <- ''
+	Cargando2[5] <- ''
+	Cargando2[6] <- ''
+	Cargando2[7] <- ''
+	Cargando2[8] <- ''
+	Cargando2[9] <- ''
+	Cargando2[10] <- ''
+	Cargando2[11] <- ''
+	Cargando2[12] <- ''
+	Cargando2[13] <- ''
+	Cargando2[14] <- ''
+	Cargando2[15]<- ''
+	Cargando2[16] <- '                                                                      ______                                 __                   '
+	Cargando2[17] <- '                                                                     / ____/___ __________ _____ _____  ____/ /___                '
+	Cargando2[18] <- '                                                                    / /   / __ `/ ___/ __ `/ __ `/ __ \/ __  / __ \               '
+	Cargando2[19] <- '                                                                   / /___/ /_/ / /  / /_/ / /_/ / / / / /_/ / /_/ /  _     _ '
+	Cargando2[20] <- '                                                                   \____/\__,_/_/   \__, /\__,_/_/ /_/\__,_/\____/  (_)   (_)'
+	Cargando2[21] <- '                                                                                   /____/                               '
+	
+	Dimension Cargando3(21)
+	Cargando3[1] <-''
+	Cargando3[2] <- ''
+	Cargando3[3] <- ''
+	Cargando3[4] <- ''
+	Cargando3[5] <- ''
+	Cargando3[6] <- ''
+	Cargando3[7] <- ''
+	Cargando3[8] <- ''
+	Cargando3[9] <- ''
+	Cargando3[10] <- ''
+	Cargando3[11] <- ''
+	Cargando3[12] <- ''
+	Cargando3[13] <- ''
+	Cargando3[14] <- ''
+	Cargando3[15] <- ''
+	Cargando3[16] <- '                                                                      ______                                 __                   '
+	Cargando3[17] <- '                                                                     / ____/___ __________ _____ _____  ____/ /___                '
+	Cargando3[18] <- '                                                                    / /   / __ `/ ___/ __ `/ __ `/ __ \/ __  / __ \               '
+	Cargando3[19] <- '                                                                   / /___/ /_/ / /  / /_/ / /_/ / / / / /_/ / /_/ /  _     _     _'
+	Cargando3[20] <- '                                                                   \____/\__,_/_/   \__, /\__,_/_/ /_/\__,_/\____/  (_)   (_)   (_)'
+	Cargando3[21] <- '                                                                                   /____/                               '
+	
+	///Muestra como titilan las estrellas en el menu principal
+	
+	Repetir
+		Repetir 
+			Para i<-1 Hasta 41 Con Paso 1 Hacer
+				Escribir Casti[i]
+			Fin Para
+			Esperar 1 Segundos
+			Borrar Pantalla
+			Para i<-1 Hasta 41 Con Paso 1 Hacer
+				Escribir Castillo[i]
+			Fin Para
+			Esperar 1 Segundos
+			Borrar Pantalla
+			Para i<-1 Hasta 41 Con Paso 1 Hacer
+				Escribir Casti[i]
+			Fin Para
+			Esperar 1 Segundos
+			Borrar Pantalla
+			Para i<-1 Hasta 41 Con Paso 1 Hacer
+				Escribir Castillo[i]
+			Fin Para
+			Esperar 1 Segundos
+			Borrar Pantalla
+			Para i<-1 Hasta 41 Con Paso 1 Hacer
+				Escribir Casti[i]
+			Fin Para
+			Esperar 1 Segundos
+			Borrar Pantalla
+			Para i<-1 Hasta 41 Con Paso 1 Hacer
+				Escribir Castillo[i]
+			Fin Para
+			Esperar 1 segundos
+			Borrar Pantalla
+			Para i<-1 Hasta 41 Con Paso 1 Hacer
+				Escribir Casti[i]
+			Fin Para
+			Esperar 1 Segundos
+			Borrar Pantalla
+			Para i<-1 Hasta 41 Con Paso 1 Hacer
+				Escribir Castillo[i]
+			Fin Para
+			Esperar 1 Segundos
+			Borrar Pantalla
+			Para i<-1 Hasta 41 Con Paso 1 Hacer
+				Escribir Casti[i]
+			Fin Para
+			Leer Menu
+		Hasta que Menu=1 o Menu=2 o Menu=3 o Menu=4
+		
+		
+		Si Menu = 3 Entonces
+			Borrar pantalla
+			Repetir
+				Escribir '                                               MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+				Escribir '                                               MW     !         !         !         !         !         !         !     WM'
+				Escribir '                                               MW   -~*~-     -~*~-     -~*~-     -~*~-     -~*~-     -~*~-     -~*~-   WM'
+				Escribir '                                               MW    /!\       /!\       /!\       /!\       /!\       /!\       /!\    WM'
+				Escribir '                                               MW   /%;@\     /%;@\     /%;@\     /%;@\     /%;@\     /%;@\     /%;@\   WM'
+				Escribir '                                               MW  o/@,%\o   o/@,%\o   o/@,%\o   o/@,%\o   o/@,%\o   o/@,%\o   o/@,%\o  WM'
+				Escribir '                                               MW  /%;`@,\   /%;`@,\   /%;`@,\   /%;`@,\   /%;`@,\   /%;`@,\   /%;`@,\  WM'
+				Escribir '                                               MW o/@´%´,\o o/@´%´,\o o/@´%´,\o o/@´%´,\o o/@´%´,\o o/@´%´,\o o/@´%´,\o WM'
+				Escribir '                                               MW ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ WM'
+				Escribir '                                               MW     !     WMWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWMW     !     WM'
+				Escribir '                                               MW   -~*~-   WM                                             MW   -~*~-   WM'
+				Escribir '                                               MW    /!\    WM                                             MW    /!\    WM'
+				Escribir '                                               MW   /%;@\   WM               Denise Decima                 MW   /%;@\   WM'
+				Escribir '                                               MW  o/@,%\o  WM                                             MW  o/@,%\o  WM'
+				Escribir '                                               MW  /%;`@,\  WM                                             MW  /%;`@,\  WM'
+				Escribir '                                               MW o/@´%´,\o WM               Sofia Cordoba                 MW  /@´%´,\o WM'
+				Escribir '                                               MW ´^^^=^^^´ WM                                             MW ´^^^=^^^´ WM'
+				Escribir '                                               MW     !     WM                                             MW     !     WM'
+				Escribir '                                               MW   -~*~-   WM                 Yair Asef                   MW   -~*~-   WM'
+				Escribir '                                               MW    /!\    WM                                             MW    /!\    WM'
+				Escribir '                                               MW   /%;@\   WM                                             MW   /%;@\   WM'
+				Escribir '                                               MW  o/@,%\o  WM               Luciano Peluso                MW  o/@,%\o  WM'
+				Escribir '                                               MW  /%;`@,\  WM                                             MW  /%;`@,\  WM'
+				Escribir '                                               MW o/@´%´,\o WM                                             MW  /@´%´,\o WM'
+				Escribir '                                               MW ´^^^=^^^´ WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW ´^^^=^^^´ WM'
+				Escribir '                                               MW     !         !         !         !         !         !         !     WM'
+				Escribir '                                               MW   -~*~-     -~*~-     -~*~-     -~*~-     -~*~-     -~*~-     -~*~-   WM'
+				Escribir '                                               MW    /!\       /!\       /!\       /!\       /!\       /!\       /!\    WM'
+				Escribir '                                               MW   /%;@\     /%;@\     /%;@\     /%;@\     /%;@\     /%;@\     /%;@\   WM'
+				Escribir '                                               MW  o/@,%\o   o/@,%\o   o/@,%\o   o/@,%\o   o/@,%\o   o/@,%\o   o/@,%\o  WM'
+				Escribir '                                               MW  /%;`@,\   /%;`@,\   /%;`@,\   /%;`@,\   /%;`@,\   /%;`@,\   /%;`@,\  WM'
+				Escribir '                                               MW o/@´%´,\o o/@´%´,\o o/@´%´,\o o/@´%´,\o o/@´%´,\o o/@´%´,\o o/@´%´,\o WM'
+				Escribir '                                               MW ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ WM'
+				Escribir '                                               WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW'
+				Escribir '                                                                                     Codigo creado para Laboratorio (2022)'
+				Escribir ' 0 = Atras'
+				Leer Atras
+			Hasta Que Atras=0
+		Finsi
+		Si Menu = 2 Entonces
+			Borrar pantalla
+			Repetir
+				Escribir '                               /$$$$$$                       /$$                                             /$$                                        '
+				Escribir '                                |_  $$_/                      | $$                                            |__/                                        '
+				Escribir '                                | $$   /$$$$$$$   /$$$$$$$ /$$$$$$    /$$$$$$  /$$   /$$  /$$$$$$$  /$$$$$$$ /$$  /$$$$$$  /$$$$$$$   /$$$$$$   /$$$$$$$'
+				Escribir '                                | $$  | $$__  $$ /$$_____/|_  $$_/   /$$__  $$| $$  | $$ /$$_____/ /$$_____/| $$ /$$__  $$| $$__  $$ /$$__  $$ /$$_____/'
+				Escribir '                                | $$  | $$  \ $$|  $$$$$$   | $$    | $$  \__/| $$  | $$| $$      | $$      | $$| $$  \ $$| $$  \ $$| $$$$$$$$|  $$$$$$ '
+				Escribir '                                | $$  | $$  | $$ \____  $$  | $$ /$$| $$      | $$  | $$| $$      | $$      | $$| $$  | $$| $$  | $$| $$_____/ \____  $$'
+				Escribir '                               /$$$$$$| $$  | $$ /$$$$$$$/  |  $$$$/| $$      |  $$$$$$/|  $$$$$$$|  $$$$$$$| $$|  $$$$$$/| $$  | $$|  $$$$$$$ /$$$$$$$/'
+				Escribir '                               |______/|__/  |__/|_______/    \___/  |__/       \______/  \_______/ \_______/|__/ \______/ |__/  |__/ \_______/|_______/ '
+				Escribir ''
+				Escribir ''
+				Escribir ''
+				Escribir '				 Bienvenido a Bulbhead'
+				Escribir ''
+				Escribir 'Bulbhead es un juego de rol narrativo donde el usuario debera asumir el papel principal a lo largo de la historia. '
+				Escribir 'No hay un guion a seguir, ya que el desarrollo de la historia queda por completo sujeto a las decisiones del jugador.'
+				Escribir 'El concepto básico es persiguir un fin común, resolver un misterio.'
+				Escribir 'Para poder interactuar deberás elegir mediante las teclas numerales, dependiendo de lo que desees.'
+				Escribir 'Pero recuerda: '
+				Escribir '!  ______/\\\______________/\\\\\\\\\___________________/\\\\\\\\\\_______________________/\\\____        '
+				Escribir '!   __/\\\\\\\____________/\\\///////\\\_______________/\\\///////\\\____________________/\\\\\____       '
+				Escribir '!    _\/////\\\___________\///______\//\\\_____________\///______/\\\___________________/\\\/\\\____      '
+				Escribir '!     _____\/\\\_____________________/\\\/_____________________/\\\//__________________/\\\/\/\\\____     '
+				Escribir '!      _____\/\\\__________________/\\\//______________________\////\\\_______________/\\\/__\/\\\____    '
+				Escribir '!       _____\/\\\_______________/\\\//____________________________\//\\\____________/\\\\\\\\\\\\\\\\_   '
+				Escribir '!        _____\/\\\_____________/\\\/______________________/\\\______/\\\____________\///////////\\\//__  '
+				Escribir '!         _____\/\\\____________/\\\\\\\\\\\\\\\___________\///\\\\\\\\\/_______________________\/\\\____ '
+				Escribir '!          _____\///____________\///////////////______________\/////////_________________________\///_____'
+				Escribir ' 0 = Atras'
+				Leer Atras
+			Hasta Que Atras=0
+		FinSi
+		Si Menu = 1 Entonces
+			Borrar Pantalla
+			
+			///Uso de vectores de pantalla de carga (Línea 130)
+			
+			Para i<-1 Hasta 21 Con Paso 1 Hacer
+				Escribir Cargando1(i)
+			FinPara
+			
+			Esperar 1 Segundos
+			Borrar Pantalla
+			
+			Para i<-1 Hasta 21 Con Paso 1 Hacer
+				Escribir Cargando2(i)
+			FinPara
+			
+			Esperar 1 Segundos
+			Borrar Pantalla
+			
+			
+			Para i<-1 Hasta 21 Con Paso 1 Hacer
+				Escribir Cargando3(i)
+			FinPara
+			
+			Esperar 1 Segundos
+			Borrar Pantalla
+			
+			Para i<-1 Hasta 21 Con Paso 1 Hacer
+				Escribir Cargando1(i)
+			FinPara
+			
+			Esperar 1 Segundos
+			Borrar Pantalla
+			
+			Para i<-1 Hasta 21 Con Paso 1 Hacer
+				Escribir Cargando2(i)
+			FinPara
+			
+			Esperar 1 Segundos
+			Borrar Pantalla
+			
+			Para i<-1 Hasta 21 Con Paso 1 Hacer
+				Escribir Cargando3(i)
+			FinPara
+			
+			Esperar 1 Segundos
+			Borrar Pantalla
+			
+			///Inicia el juego
+			
+			Escribir ' Iniciando ...'
+			Escribir ''
+			Esperar 2 Segundos
+			Escribir ' Es una noche oscura y tormentosa.'
+			Escribir ' Tú eres el detective Bulbhead, quien ha sido asignado para investigar extrañas ocurrencias en una mansión que hasta ahora se creía deshabitada.'
+			Escribir ' Vecinos del área reportan extrañas luces y gritos fantasmagóricos.'
+			Escribir ''
+			Escribir 'Acabas de llegar frente a la mansión. ¿Qué decides?'
+			Esperar 2 Segundos
+			Escribir ' 1 = Golpear la puerta | 2 = Mirar por la ventana | 3 = Llorar'//mirar por la ventanta es la correcta//
+			Leer Respuesta0 
+			
+			Mientras (Respuesta0 > 3 o Respuesta0 < 1)
+				Escribir "Respuesta fuera de parametro"
+				Leer Respuesta0
+			FinMientras
+			Si Respuesta0 = 1
+				estado <- 1
+			sino si Respuesta0 = 2
+					estado <- 2
+				Sino si Respuesta0 = 3
+						estado <- 4
+					FinSi
+				FinSi
+			FinSi
+			
+			Mientras estado <> 4 
+				segun estado hacer
+					1: 
+						//Mostrar opc 2 y 3
+						Escribir 'Golpeas, pero nadie atiende'
+						Escribir ' 2 = Abrir la ventana | 3 = Mirar alrededor'
+						Leer Respuesta1
+						Si Respuesta1 = 2 Entonces
+							estado <- 3
+							Escribir 'La ventana no parece poder abrirse'
+						Sino si Respuesta1 = 3 entonces
+								estado <- 4
+							FinSi
+						FinSi
+					2: 
+						//Mostrar opc 1 y 3 
+						Escribir 'La ventana no parece poder abrirse'
+						Escribir "1 = Golpear por la puerta | 3 = Mirar alrededor"
+						Leer Respuesta1
+						Si Respuesta1 = 1 Entonces
+							Escribir 'Golpeas, pero nadie atiende'
+							estado <- 3
+						Sino si Respuesta1 = 3
+								estado <- 4
+							FinSi
+						FinSi
+						
+					3: 
+						//Mostrar opc 3 
+						Escribir 'MIRA ALREDEDOR!!!!!'
+						Escribir "3 = Mirar alrededor"
+						Leer Respuesta1
+						Si Respuesta1 = 3 entonces
+							estado <- 4
+						FinSi
+				FinSegun
+			FinMientras
+			Escribir 'Encontras una llave tirada detras de un arbol.'
+			Escribir 'Vuelves hacia la puerta de la mansion, y logras abrir la ventana'
+			Escribir 'Al entrar encuentras todo oscurito, buscas una lintercilla en tu bolsillo, la enciendes y decides inspeccionar las habitaciones'
+			Escribir '1 = Ir a la cocina | 2 = Ir a la habitacion a ver la camita | 3 = Ir al comedor'
+			Leer Respuesta2
+			
+			Mientras (Respuesta2 > 3 o Respuesta2 < 1)
+				Escribir "Respuesta fuera de parametro"
+				Leer Respuesta2
+			FinMientras
+			
+			Si Respuesta2 = 1
+				estado <- 1
+			sino si Respuesta2 = 2
+					estado <- 2
+				Sino si Respuesta2 = 3
+						estado <- 4
+					FinSi
+				FinSi
+			FinSi
+			
+			Mientras estado <> 4 
+				segun estado hacer
+					1: 
+						//Mostrar opc 2 y 3
+						Escribir 'La cocina esta sucia'
+						Escribir '2 = Ir a la habitacion a ver la camita | 3 = Ir al comedor'
+						Leer Respuesta1
+						Si Respuesta1 = 2 Entonces
+							estado <- 3
+							Escribir 'La cama no esta hecha'
+						Sino si Respuesta1 = 3 entonces
+								estado <- 4
+							FinSi
+						FinSi
+					2: 
+						//Mostrar opc 1 y 3 
+						Escribir 'La cama no esta hecha'
+						Escribir "1 = Ir a la cocina | 3 = Ir al comedor"
+						Leer Respuesta1
+						Si Respuesta1 = 1 Entonces
+							Escribir 'La cocina esta sucia'
+							estado <- 3
+						Sino si Respuesta1 = 3
+								estado <- 4
+							FinSi
+						FinSi
+						
+					3: 
+						//Mostrar opc 3 
+						Escribir 'Solo te queda ir al comedor!!!!!'
+						Escribir "3 = Ir al comedor"
+						Leer Respuesta1
+						Si Respuesta1 = 3 entonces
+							estado <- 4
+						FinSi
+				FinSegun
+			FinMientras
+			Escribir 'Sigue continuando la historia..¿Que decides?'
+			
+			Mientras estado <> 4 
+				segun estado hacer
+					1: 
+						//Mostrar opc 2 y 3
+						Escribir 'Golpeas, pero nadie atiende'
+						Escribir ' 2 = Abrir la ventana | 3 = Mirar alrededor'
+						Leer Respuesta1
+						Si Respuesta1 = 2 Entonces
+							estado <- 3
+							Escribir 'La ventana no parece poder abrirse'
+						Sino si Respuesta1 = 3 entonces
+								estado <- 4
+							FinSi
+						FinSi
+					2: 
+						//Mostrar opc 1 y 3 
+						Escribir 'La ventana no parece poder abrirse'
+						Escribir "1 = Golpear por la puerta | 3 = Mirar alrededor"
+						Leer Respuesta1
+						Si Respuesta1 = 1 Entonces
+							Escribir 'Golpeas, pero nadie atiende'
+							estado <- 3
+						Sino si Respuesta1 = 3
+								estado <- 4
+							FinSi
+						FinSi
+						
+					3: 
+						//Mostrar opc 3 
+						Escribir 'MIRA ALREDEDOR!!!!!'
+						Escribir "3 = Mirar alrededor"
+						Leer Respuesta1
+						Si Respuesta1 = 3 entonces
+							estado <- 4
+						FinSi
+				FinSegun
+			FinMientras
+		Finsi
+	Hasta Que Menu=999
+FinAlgoritmo
