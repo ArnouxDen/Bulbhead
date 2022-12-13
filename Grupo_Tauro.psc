@@ -1,30 +1,30 @@
 SubProceso paso1
 	Escribir "                                                                                                                           .-.        .-."
-	Escribir "                                                                                                                          -  )      .´  )"
+	Escribir "                                                                                                                          -  )      .Â´  )"
 	Escribir "                                                                                                               __        /  /      /   /"
-	Escribir "                                                                                     .--.                   .-´  ´´´´-._/__(_____.´   /"
-	Escribir "                                                                                  .-´  _)          __     .´  ___.--´                J"
-	Escribir "                                                                                 /  ´-.,   .------´  `--.J---´                      /"
-	Escribir "                                                                                 F      `-<                                       .´"
-	Escribir "                                                                                 `.        `.                                 .--´"
-	Escribir "                                                                                 .´|         \                              .´"
-	Escribir "                                                                               .´            J                             /"
+	Escribir "                                                                                     .--.                   .-Â´  Â´Â´Â´Â´-._/__(_____.Â´   /"
+	Escribir "                                                                                  .-Â´  _)          __     .Â´  ___.--Â´                J"
+	Escribir "                                                                                 /  Â´-.,   .------Â´  `--.J---Â´                      /"
+	Escribir "                                                                                 F      `-<                                       .Â´"
+	Escribir "                                                                                 `.        `.                                 .--Â´"
+	Escribir "                                                                                 .Â´|         \                              .Â´"
+	Escribir "                                                                               .Â´            J                             /"
 	Escribir "                                                                              /              /                            /"
-	Escribir "                                                                             /              ´                           -´"
-	Escribir "                                                                           .´                                          ("
-	Escribir "                                                                          /                               __.----´      \"
-	Escribir "                                                                         /                         __.---´       `.      L"
-	Escribir "                                                                      .-´     _.              .--´´                \     \"
-	Escribir "                                                                     /       ´             .-´                      \     \"
-	Escribir "                                                                     `--.       /`  __.---´                          \     \"
-	Escribir "                                                                         \     /  .´                                  \     \"
+	Escribir "                                                                             /              Â´                           -Â´"
+	Escribir "                                                                           .Â´                                          ("
+	Escribir "                                                                          /                               __.----Â´      \"
+	Escribir "                                                                         /                         __.---Â´       `.      L"
+	Escribir "                                                                      .-Â´     _.              .--Â´Â´                \     \"
+	Escribir "                                                                     /       Â´             .-Â´                      \     \"
+	Escribir "                                                                     `--.       /`  __.---Â´                          \     \"
+	Escribir "                                                                         \     /  .Â´                                  \     \"
 	Escribir "                                                                         -`.    _/                                     \     \"
-	Escribir "                                                                          ´ \_,-´-._                                    \     L"
+	Escribir "                                                                          Â´ \_,-Â´-._                                    \     L"
 	Escribir "                                                                                \`.`-                                    `.    L"
 	Escribir "                                                                                                                            \   |"
 	Escribir "                                                                                                                            L   L"
 	Escribir "                                                                                                                            L   L"
-	Escribir "                                                                                                                             ´´"
+	Escribir "                                                                                                                             Â´Â´"
 FinSubProceso
 
 SubProceso paso2
@@ -33,26 +33,26 @@ SubProceso paso2
 	Escribir "                                                                                                                 (   )      "
 	Escribir "                                                                                                                 J   (       "
 	Escribir "                                                                                                                  \   \      "
-	Escribir "                                                                                                              .´)_.F   \      "
-	Escribir "                                                                                                              (_)´      \       "
-	Escribir "                                                                                                             .´         /"
+	Escribir "                                                                                                              .Â´)_.F   \      "
+	Escribir "                                                                                                              (_)Â´      \       "
+	Escribir "                                                                                                             .Â´         /"
 	Escribir "                                                                                                            /          /"
 	Escribir "                                                                                 F-.                       /           `."
-	Escribir "                                                                                 )  `._                 _.´/             \"
-	Escribir "                                                                                /  -   `-------.___´`-´`                  L"
+	Escribir "                                                                                 )  `._                 _.Â´/             \"
+	Escribir "                                                                                /  -   `-------.___Â´`-Â´`                  L"
 	Escribir "                                                                               /                  )                       |"
 	Escribir "                                                                              /_.-.                                       )"
-	Escribir "                                                                             --._                                    .´ .-.`."
-	Escribir "                                                                              \  ´                                   | /   \ )"
-	Escribir "                                                                            -´´`.                                    \ |    Y"
-	Escribir "                                                                          .´.´/| `--´                               .´`.\__/"
-	Escribir "                                                                           ´ ´      J                            .-´"
-	Escribir "                                                                                     \                         .´"
-	Escribir "                                                                                  _.-´--.           ___     _.´"
-	Escribir "                                                                               .-´       `-    )--´``  ````` "
-	Escribir "                                                                             .´    ._    __.--´"
-	Escribir "                                                                             (  _.´  ´´´´"
-	Escribir "                                                                              ´´                                "
+	Escribir "                                                                             --._                                    .Â´ .-.`."
+	Escribir "                                                                              \  Â´                                   | /   \ )"
+	Escribir "                                                                            -Â´Â´`.                                    \ |    Y"
+	Escribir "                                                                          .Â´.Â´/| `--Â´                               .Â´`.\__/"
+	Escribir "                                                                           Â´ Â´      J                            .-Â´"
+	Escribir "                                                                                     \                         .Â´"
+	Escribir "                                                                                  _.-Â´--.           ___     _.Â´"
+	Escribir "                                                                               .-Â´       `-    )--Â´``  ````` "
+	Escribir "                                                                             .Â´    ._    __.--Â´"
+	Escribir "                                                                             (  _.Â´  Â´Â´Â´Â´"
+	Escribir "                                                                              Â´Â´                                "
 FinSubProceso
 
 SubProceso paso3
@@ -62,24 +62,24 @@ SubProceso paso3
 	Escribir ""
 	Escribir ""
 	Escribir "                                                                                                               _.,._./)"
-	Escribir "                                                                                                           .-´´        `-."
-	Escribir "                                                                                ___                      .´               `."
-	Escribir "                                                                         ____.-´   `--.____             /                 <)"
-	Escribir "                                                                       <_.  /__---.    `.  `-´´------.-´                   L"
+	Escribir "                                                                                                           .-Â´Â´        `-."
+	Escribir "                                                                                ___                      .Â´               `."
+	Escribir "                                                                         ____.-Â´   `--.____             /                 <)"
+	Escribir "                                                                       <_.  /__---.    `.  `-Â´Â´------.-Â´                   L"
 	Escribir "                                                                        `. //  `,                                        -.|"
 	Escribir "                                                                          \ \    )                                         `._"
 	Escribir "                                                                           | )                                                `-."
 	Escribir "                                                                           J                                                     `-."
 	Escribir "                                                                            L  _.      /         \                      _           `--.__"
 	Escribir "                                                                            `. \)     /           `.                     `-._             `-.___"
-	Escribir "                                                                              \    .´              |                   _.´   `-._               `-."
-	Escribir "                                                                               |´-´\`-._    \      |     .--._    _.--´          ``-.___           )"
-	Escribir "                                                                               J  J\`.  `-._ \     |_.--´     ´´´´                      `----.___.´"
-	Escribir "                                                                                L  )        ´J    J"
-	Escribir "                                                                                 `´           L   |"
+	Escribir "                                                                              \    .Â´              |                   _.Â´   `-._               `-."
+	Escribir "                                                                               |Â´-Â´\`-._    \      |     .--._    _.--Â´          ``-.___           )"
+	Escribir "                                                                               J  J\`.  `-._ \     |_.--Â´     Â´Â´Â´Â´                      `----.___.Â´"
+	Escribir "                                                                                L  )        Â´J    J"
+	Escribir "                                                                                 `Â´           L   |"
 	Escribir "                                                                                              ( ...\"
-	Escribir "                                                                                               \\\\´"
-	Escribir "                                                                                                `-´"
+	Escribir "                                                                                               \\\\Â´"
+	Escribir "                                                                                                `-Â´"
 FinSubProceso
 
 SubProceso paso4
@@ -89,22 +89,22 @@ SubProceso paso4
 	Escribir ""
 	Escribir ""
 	Escribir "                                                                                                     ______  .----.___"
-	Escribir "                                                                                                 .--´      `´ `-      `-."
-	Escribir "                                                                                              .-´                        `."
-	Escribir "                                                                                          __.´-                            `."
-	Escribir "                                                                                        .´                                   `."
+	Escribir "                                                                                                 .--Â´      `Â´ `-      `-."
+	Escribir "                                                                                              .-Â´                        `."
+	Escribir "                                                                                          __.Â´-                            `."
+	Escribir "                                                                                        .Â´                                   `."
 	Escribir "                                                                             _.---._   /                                       `."
-	Escribir "                                                                           .´       ´-´                                          `."
-	Escribir "                                                                       .--´                                              .         `."
-	Escribir "                                                                       `._.-´                                             \._        `."
-	Escribir "                                                                         <_`-.                            .´              |  `.        `."
-	Escribir "                                                                          |`                   .´     .--´._            .´     `-.       `."
-	Escribir "                                                                          |         |/         |   .-´      `---.__.---´          `.       `."
-	Escribir "                                                                           \``    _.-          | .´                                 `.       `."
+	Escribir "                                                                           .Â´       Â´-Â´                                          `."
+	Escribir "                                                                       .--Â´                                              .         `."
+	Escribir "                                                                       `._.-Â´                                             \._        `."
+	Escribir "                                                                         <_`-.                            .Â´              |  `.        `."
+	Escribir "                                                                          |`                   .Â´     .--Â´._            .Â´     `-.       `."
+	Escribir "                                                                          |         |/         |   .-Â´      `---.__.---Â´          `.       `."
+	Escribir "                                                                           \``    _.-          | .Â´                                 `.       `."
 	Escribir "                                                                            L   //F `.         |/                                     `-.      \"
-	Escribir "                                                                            |´´´\J    \        |                                         `-.    \"
-	Escribir "                                                                             |||\F   .´\       |                                            `-._/"
-	Escribir "                                                                              |`J  .´   \|     F"
+	Escribir "                                                                            |Â´Â´Â´\J    \        |                                         `-.    \"
+	Escribir "                                                                             |||\F   .Â´\       |                                            `-._/"
+	Escribir "                                                                              |`J  .Â´   \|     F"
 	Escribir "                                                                              ` F |      )    J"
 	Escribir "                                                                               J  F      |    J"
 	Escribir "                                                                               |  F      |    F"
@@ -112,10 +112,10 @@ SubProceso paso4
 	Escribir "                                                                                         |   )"
 	Escribir "                                                                                         F  J"
 	Escribir "                                                                                        J   |"
-	Escribir "                                                                                       ´)   F"
+	Escribir "                                                                                       Â´)   F"
 	Escribir "                                                                                       /.   |   "
-	Escribir "                                                                                       ´, J´  "
-	Escribir "                                                                                       ´-´´  "
+	Escribir "                                                                                       Â´, JÂ´  "
+	Escribir "                                                                                       Â´-Â´Â´  "
 FinSubProceso
 
 SubProceso paso5
@@ -126,13 +126,13 @@ SubProceso paso5
 	Escribir""
 	Escribir""
 	Escribir""
-	Escribir "                                                                                                      .-´´-.__"
-	Escribir "                                                                                    _.--´´´--._____.-´        `-._"
-	Escribir "                                                                                .-´                              `."
-	Escribir "                                                                              .´                        _.._       `."
-	Escribir "                                                                             /                       J´´    `-.      \"
+	Escribir "                                                                                                      .-Â´Â´-.__"
+	Escribir "                                                                                    _.--Â´Â´Â´--._____.-Â´        `-._"
+	Escribir "                                                                                .-Â´                              `."
+	Escribir "                                                                              .Â´                        _.._       `."
+	Escribir "                                                                             /                       JÂ´Â´    `-.      \"
 	Escribir "                                                                            /                         \        `-.    `."
-	Escribir "                                                                          .´          |               F           \     \"
+	Escribir "                                                                          .Â´          |               F           \     \"
 	Escribir "                                                                          F           |              /             `.    \"
 	Escribir "                                                                    _.---<_           J             J                `-._/"
 	Escribir "                                                                  ./`.     `.          \          J F"
@@ -141,12 +141,12 @@ SubProceso paso5
 	Escribir "                                                              `-.                    |  J  `-.      )"
 	Escribir "                                                                J         |          | /      `-    F"
 	Escribir "                                                                 \  o     /         (|/        //  /"
-	Escribir "                                                                  `.    )´.          |        /´  /"
-	Escribir "                                                                   `---´`\ `.        |        /  /"
-	Escribir "                                                                   ´|\\ \ `. `.      |       /( /"
-	Escribir "                                                                      `` `  \  \     |       \_´"
-	Escribir "                                                                             L  L    |     .´ /"
-	Escribir "                                                                             |  |    |    (_.´"
+	Escribir "                                                                  `.    )Â´.          |        /Â´  /"
+	Escribir "                                                                   `---Â´`\ `.        |        /  /"
+	Escribir "                                                                   Â´|\\ \ `. `.      |       /( /"
+	Escribir "                                                                      `` `  \  \     |       \_Â´"
+	Escribir "                                                                             L  L    |     .Â´ /"
+	Escribir "                                                                             |  |    |    (_.Â´"
 	Escribir "                                                                             J  J    F"
 	Escribir "                                                                             J  J   J"
 	Escribir "                                                                             J  J   J"
@@ -154,7 +154,7 @@ SubProceso paso5
 	Escribir "                                                                             |  |  J"
 	Escribir "                                                                             |  F  F"
 	Escribir "                                                                             F /L  |"
-	Escribir "                                                                             `´ \_)´"
+	Escribir "                                                                             `Â´ \_)Â´"
 FinSubProceso
 
 SubProceso paso6
@@ -171,19 +171,19 @@ SubProceso paso6
 	Escribir "                                                                                                                   J    J"
 	Escribir "                                                                                                                  /    /"
 	Escribir "                                                                                                                 /    /"
-	Escribir "                                                                                                               .´    /"
-	Escribir "                                                                                       .--´´--._              /     /"
-	Escribir "                                                                                   _.-´         `-.          /     /"
-	Escribir "                                                                        __       .´                `.       /     /"
-	Escribir "                                                                     _-´-.´`-.  J                    \     /     /"
-	Escribir "                                                                .---(  `, _   `´|                     `.  J     /"
-	Escribir "                                                                  `. )                                  ´´     /"
+	Escribir "                                                                                                               .Â´    /"
+	Escribir "                                                                                       .--Â´Â´--._              /     /"
+	Escribir "                                                                                   _.-Â´         `-.          /     /"
+	Escribir "                                                                        __       .Â´                `.       /     /"
+	Escribir "                                                                     _-Â´-.Â´`-.  J                    \     /     /"
+	Escribir "                                                                .---(  `, _   `Â´|                     `.  J     /"
+	Escribir "                                                                  `. )                                  Â´Â´     /"
 	Escribir "                                                                   F                                          J"
 	Escribir "                                                                   L                  |                      J"
 	Escribir "                                                                   ` (/     /         |                      F"
-	Escribir "                                                                    |    ._´          |                      |"
-	Escribir "                                                                   /´`--´`.           |                      J"
-	Escribir "                                                                    ´|\   |-._        `.  ___.               |"
+	Escribir "                                                                    |    ._Â´          |                      |"
+	Escribir "                                                                   /Â´`--Â´`.           |                      J"
+	Escribir "                                                                    Â´|\   |-._        `.  ___.               |"
 	Escribir "                                                                     `     \  `.        |/    `-            J"
 	Escribir "                                                                            F   L       /       J           /"
 	Escribir "                                                                            |   J      J         F         J"
@@ -195,11 +195,11 @@ SubProceso paso6
 	Escribir "                                                                            F  F   |   |           | L   |"
 	Escribir "                                                                           J  J    |   |           | |   F"
 	Escribir "                                                                           /  )    F  J            F F  J"
-	Escribir "                                                                          ( .´    )   F           J J  F"
-	Escribir "                                                                          `´     (   J           /.´  J"
-	Escribir "                                                                                  `-´           	||-´ |)"
-	Escribir "                                                                                                  ´-´"
-	Escribir "                                                        ____________________________________________________________________________.-------------´"
+	Escribir "                                                                          ( .Â´    )   F           J J  F"
+	Escribir "                                                                          `Â´     (   J           /.Â´  J"
+	Escribir "                                                                                  `-Â´           	||-Â´ |)"
+	Escribir "                                                                                                  Â´-Â´"
+	Escribir "                                                        ____________________________________________________________________________.-------------Â´"
 FinSubProceso
 
 SubProceso gata
@@ -226,18 +226,18 @@ SubProceso gata
 	Escribir "                                                      (                                              `---."
 	Escribir "                                                      /o                                                  `."
 	Escribir "                                                     (                                                      \"
-	Escribir "                                                   _.´`.  _                                                  L"
-	Escribir "                                                   .´/| ´´ ´´´´._                                            |"
+	Escribir "                                                   _.Â´`.  _                                                  L"
+	Escribir "                                                   .Â´/| Â´Â´ Â´Â´Â´Â´._                                            |"
 	Escribir "                                                      |          \             |                             J"
 	Escribir "                                                                  \-._          \                             L"
 	Escribir "                                                                  /   `-.        \                            J"
 	Escribir "                                                                 /      /`-.      )_                           `"
-	Escribir "                                                                /    .-´    `    J  ´´´´-----.`-._             |\          "
-	Escribir "                                                              .´   .´        L   F            `-. `-.___        \`."
-	Escribir "                                                           ._/   .´          )  )                `-    .´´´´´`.  \)"
-	Escribir "                                                __________((  _.´__       .-´  J              _.-´   .´        `. \"
-	Escribir "                                                                   ´´´´´´´((  .´--.__________(   _.-´___________)..|----------------._____"
-	Escribir "                                                            ´´                ´´´               ``U´"
+	Escribir "                                                                /    .-Â´    `    J  Â´Â´Â´Â´-----.`-._             |\          "
+	Escribir "                                                              .Â´   .Â´        L   F            `-. `-.___        \`."
+	Escribir "                                                           ._/   .Â´          )  )                `-    .Â´Â´Â´Â´Â´`.  \)"
+	Escribir "                                                __________((  _.Â´__       .-Â´  J              _.-Â´   .Â´        `. \"
+	Escribir "                                                                   Â´Â´Â´Â´Â´Â´Â´((  .Â´--.__________(   _.-Â´___________)..|----------------._____"
+	Escribir "                                                            Â´Â´                Â´Â´Â´               ``UÂ´"
 FinSubProceso
 SubProceso wor
 	escribir'               /$$      /$$  /$$$$$$  /$$$$$$$  /$$$$$$$  /$$       /$$$$$$$$                                                              $$$$$$$$$$$$$$$$$$$$$$$$$$$$$:           .'
@@ -287,7 +287,7 @@ SubProceso juegos
 	Escribir""
 	escribir"                                                                   ___             _   _      _         _      _____      _      _  __                                            "
 	escribir"                                                                  |___ \          | | | |    / \       / \    |_   _|    / \    | |/ /                                            "
-	escribir"                                                                    __) |  _____  | |_| |   / _ \     / _ \     | |     / _ \   | ´ /                                             "
+	escribir"                                                                    __) |  _____  | |_| |   / _ \     / _ \     | |     / _ \   | Â´ /                                             "
 	escribir"                                                                   / __/  |_____| |  _  |  / ___ \   / ___ \    | |    / ___ \  | . \                                             "
 	escribir"                                                                  |_____|         |_| |_| /_/   \_\ /_/   \_\   |_|   /_/   \_\ |_|\_\  "
 	Escribir""
@@ -340,13 +340,13 @@ SubProceso nave_1
 	Escribir"                                                        \______________________________________________________/"
 	Escribir ""
 	Escribir"                                                             _______________________________________________"
-	Escribir"                                                          _-´    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_"
-	Escribir"                                                       _-´.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_"
-	Escribir"                                                    _-´.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_"
-	Escribir"                                                 _-´.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_"
-	Escribir"                                              _-´.-.-.-.-.-. .---.-. .-----------------------------. .-.---. .---.-.-.-.`-_"
+	Escribir"                                                          _-Â´    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_"
+	Escribir"                                                       _-Â´.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_"
+	Escribir"                                                    _-Â´.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_"
+	Escribir"                                                 _-Â´.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_"
+	Escribir"                                              _-Â´.-.-.-.-.-. .---.-. .-----------------------------. .-.---. .---.-.-.-.`-_"
 	Escribir"                                             :-----------------------------------------------------------------------------:"
-	Escribir"                                             `---._.-----------------------------------------------------------------._.---´´"
+	Escribir"                                             `---._.-----------------------------------------------------------------._.---Â´Â´"
 FinSubProceso
 
 SubProceso casa
@@ -377,13 +377,13 @@ SubProceso casa
 	Escribir"                                                        \______________________________________________________/"
 	Escribir ""
 	Escribir"                                                             _______________________________________________"
-	Escribir"                                                          _-´    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_"
-	Escribir"                                                       _-´.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_"
-	Escribir"                                                    _-´.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_"
-	Escribir"                                                 _-´.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_"
-	Escribir"                                              _-´.-.-.-.-.-. .---.-. .-----------------------------. .-.---. .---.-.-.-.`-_"
+	Escribir"                                                          _-Â´    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_"
+	Escribir"                                                       _-Â´.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_"
+	Escribir"                                                    _-Â´.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_"
+	Escribir"                                                 _-Â´.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_"
+	Escribir"                                              _-Â´.-.-.-.-.-. .---.-. .-----------------------------. .-.---. .---.-.-.-.`-_"
 	Escribir"                                             :-----------------------------------------------------------------------------:"
-	Escribir"                                             `---._.-----------------------------------------------------------------._.---´´"
+	Escribir"                                             `---._.-----------------------------------------------------------------._.---Â´Â´"
 FinSubProceso
 
 SubProceso caballo
@@ -394,16 +394,16 @@ SubProceso caballo
 	Escribir"                                      |   |  YAIR ASEF                                                                               |   |"
 	Escribir"                                      |   |                                                                                        |   |"
 	Escribir"                                      |   |                                        ~~%%%%%%%%_,_,                                  |   |"
-	Escribir"                                      |   |                                      ~~%%%%%%%%%-´/./                                  |   |"
-	Escribir"                                      |   |                                    ~~%%%%%%%-´   /  `.                                 |   |"
-	Escribir"                                      |   |                                  ~~%%%%%%%%´  .     ,__;                               |   |"
+	Escribir"                                      |   |                                      ~~%%%%%%%%%-Â´/./                                  |   |"
+	Escribir"                                      |   |                                    ~~%%%%%%%-Â´   /  `.                                 |   |"
+	Escribir"                                      |   |                                  ~~%%%%%%%%Â´  .     ,__;                               |   |"
 	Escribir"                                      |   |                                 ~~%%%%%%%%   :        \O\                              |   |"
-	Escribir"                                      |   |                               ~~%%%%%%%%´    :          `.                             |   |"
-	Escribir"                                      |   |                             ~~%%%%%%%%´       `. _,       ´ .                          |   |"
-	Escribir"                                      |   |                           ~~%%%%%%%%´          .´`-._        `.                        |   |"
-	Escribir"                                      |   |                        ~~%%%%%%%%%´           :     `-.     (,;                        |   |"
-	Escribir"                                      |   |                       ~~%%%%%%%%´             :         `._\_.´                        |   |"
-	Escribir"                                      |   |                       ~~%%jgs%%´              ;                                        |   |"
+	Escribir"                                      |   |                               ~~%%%%%%%%Â´    :          `.                             |   |"
+	Escribir"                                      |   |                             ~~%%%%%%%%Â´       `. _,       Â´ .                          |   |"
+	Escribir"                                      |   |                           ~~%%%%%%%%Â´          .Â´`-._        `.                        |   |"
+	Escribir"                                      |   |                        ~~%%%%%%%%%Â´           :     `-.     (,;                        |   |"
+	Escribir"                                      |   |                       ~~%%%%%%%%Â´             :         `._\_.Â´                        |   |"
+	Escribir"                                      |   |                       ~~%%jgs%%Â´              ;                                        |   |"
 	Escribir"                                      |   |                                                                                        |   |"
 	Escribir"                                      |   |                                G R U P O     T A U R O                                 |   |"
 	Escribir"                                      |   |                                                                                        |   |"
@@ -414,13 +414,13 @@ SubProceso caballo
 	Escribir"                                                        \______________________________________________________/"
 	Escribir ""
 	Escribir"                                                             _______________________________________________"
-	Escribir"                                                          _-´    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_"
-	Escribir"                                                       _-´.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_"
-	Escribir"                                                    _-´.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_"
-	Escribir"                                                 _-´.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_"
-	Escribir"                                              _-´.-.-.-.-.-. .---.-. .-----------------------------. .-.---. .---.-.-.-.`-_"
+	Escribir"                                                          _-Â´    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_"
+	Escribir"                                                       _-Â´.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_"
+	Escribir"                                                    _-Â´.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_"
+	Escribir"                                                 _-Â´.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_"
+	Escribir"                                              _-Â´.-.-.-.-.-. .---.-. .-----------------------------. .-.---. .---.-.-.-.`-_"
 	Escribir"                                             :-----------------------------------------------------------------------------:"
-	Escribir"                                             `---._.-----------------------------------------------------------------._.---´´"
+	Escribir"                                             `---._.-----------------------------------------------------------------._.---Â´Â´"
 FinSubProceso
 
 SubProceso word
@@ -428,19 +428,19 @@ SubProceso word
 	Escribir"                                       /                                                                                              \"
 	Escribir"                                      |    ________________________________________________________________________________________    |"
 	Escribir"                                      |   |                                                                                        |   |"
-	Escribir"                                      |   |  SOFÍA CORDOBA                                                                         |   |"
+	Escribir"                                      |   |  SOFÃA CORDOBA                                                                         |   |"
 	Escribir"                                      |   |                                          1                                             |   |"
 	Escribir"                                      |   |                                        .---.---.---.                                   |   |"
 	Escribir"                                      |   |                                      2 |   |   |   |                                   |   |"
-	Escribir"                                      |   |                                    .---´---´---´---´                                   |   |"
+	Escribir"                                      |   |                                    .---Â´---Â´---Â´---Â´                                   |   |"
 	Escribir"                                      |   |                                  3 |   |   |   |   |                                   |   |"
-	Escribir"                                      |   |                                ´---´---´---.---.---.                                   |   |"
+	Escribir"                                      |   |                                Â´---Â´---Â´---.---.---.                                   |   |"
 	Escribir"                                      |   |                              4 |   |   |   |   |.                                      |   |"
-	Escribir"                                      |   |                                .---´---´---´---´                                       |   |"
+	Escribir"                                      |   |                                .---Â´---Â´---Â´---Â´                                       |   |"
 	Escribir"                                      |   |                              5 |   |   |   |                                           |   |"
-	Escribir"                                      |   |                                ´---´---.---´                                           |   |"
+	Escribir"                                      |   |                                Â´---Â´---.---Â´                                           |   |"
 	Escribir"                                      |   |                                |   |   |                                               |   |"
-	Escribir"                                      |   |                                ´---´---´                                               |   |"
+	Escribir"                                      |   |                                Â´---Â´---Â´                                               |   |"
 	Escribir"                                      |   |                                                                                        |   |"
 	Escribir"                                      |   |                                G R U P O     T A U R O                                 |   |"
 	Escribir"                                      |   |                                                                                        |   |"
@@ -451,13 +451,13 @@ SubProceso word
 	Escribir"                                                        \______________________________________________________/"
 	Escribir ""
 	Escribir"                                                             _______________________________________________"
-	Escribir"                                                          _-´    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_"
-	Escribir"                                                       _-´.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_"
-	Escribir"                                                    _-´.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_"
-	Escribir"                                                 _-´.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_"
-	Escribir"                                              _-´.-.-.-.-.-. .---.-. .-----------------------------. .-.---. .---.-.-.-.`-_"
+	Escribir"                                                          _-Â´    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_"
+	Escribir"                                                       _-Â´.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_"
+	Escribir"                                                    _-Â´.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_"
+	Escribir"                                                 _-Â´.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_"
+	Escribir"                                              _-Â´.-.-.-.-.-. .---.-. .-----------------------------. .-.---. .---.-.-.-.`-_"
 	Escribir"                                             :-----------------------------------------------------------------------------:"
-	Escribir"                                             `---._.-----------------------------------------------------------------._.---´´"
+	Escribir"                                             `---._.-----------------------------------------------------------------._.---Â´Â´"
 FinSubProceso
 SubProceso Toro
 	Escribir"                                        ______________________________________________________________________________________________"
@@ -470,12 +470,12 @@ SubProceso Toro
 	Escribir"                                      |   |                                      ,           ,                                     |   |"
 	Escribir"                                      |   |                                     /             \                                    |   |"
 	Escribir"                                      |   |                                    ((__-^^-,-^^-__))                                   |   |"
-	Escribir"                                      |   |                                     `-_---´ `---_-´                                    |   |"
-	Escribir"                                      |   |                                     <__|o` ´o|__>                                      |   |"
+	Escribir"                                      |   |                                     `-_---Â´ `---_-Â´                                    |   |"
+	Escribir"                                      |   |                                     <__|o` Â´o|__>                                      |   |"
 	Escribir"                                      |   |                                        \  `  /                                         |   |"
 	Escribir"                                      |   |                                         ): :(                                          |   |"
 	Escribir"                                      |   |                                         :o_o:                                          |   |"
-	Escribir"                                      |   |                                          ´-´                                           |   |"
+	Escribir"                                      |   |                                          Â´-Â´                                           |   |"
 	Escribir"                                      |   |                                                                                        |   |"
 	Escribir"                                      |   |                                                                                        |   |"
 	Escribir"                                      |   |                                G R U P O     T A U R O                                 |   |"
@@ -487,13 +487,13 @@ SubProceso Toro
 	Escribir"                                                        \______________________________________________________/"
 	Escribir ""
 	Escribir"                                                             _______________________________________________"
-	Escribir"                                                          _-´    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_"
-	Escribir"                                                       _-´.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_"
-	Escribir"                                                    _-´.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_"
-	Escribir"                                                 _-´.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_"
-	Escribir"                                              _-´.-.-.-.-.-. .---.-. .-----------------------------. .-.---. .---.-.-.-.`-_"
+	Escribir"                                                          _-Â´    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_"
+	Escribir"                                                       _-Â´.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_"
+	Escribir"                                                    _-Â´.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_"
+	Escribir"                                                 _-Â´.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_"
+	Escribir"                                              _-Â´.-.-.-.-.-. .---.-. .-----------------------------. .-.---. .---.-.-.-.`-_"
 	Escribir"                                             :-----------------------------------------------------------------------------:"
-	Escribir"                                             `---._.-----------------------------------------------------------------._.---´´"
+	Escribir"                                             `---._.-----------------------------------------------------------------._.---Â´Â´"
 FinSubProceso
 
 SubProceso carita
@@ -524,13 +524,13 @@ SubProceso carita
 	Escribir"                                                        \______________________________________________________/"
 	Escribir ""
 	Escribir"                                                             _______________________________________________"
-	Escribir"                                                          _-´    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_"
-	Escribir"                                                       _-´.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_"
-	Escribir"                                                    _-´.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_"
-	Escribir"                                                 _-´.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_"
-	Escribir"                                              _-´.-.-.-.-.-. .---.-. .-----------------------------. .-.---. .---.-.-.-.`-_"
+	Escribir"                                                          _-Â´    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_"
+	Escribir"                                                       _-Â´.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_"
+	Escribir"                                                    _-Â´.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_"
+	Escribir"                                                 _-Â´.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_"
+	Escribir"                                              _-Â´.-.-.-.-.-. .---.-. .-----------------------------. .-.---. .---.-.-.-.`-_"
 	Escribir"                                             :-----------------------------------------------------------------------------:"
-	Escribir"                                             `---._.-----------------------------------------------------------------._.---´´"
+	Escribir"                                             `---._.-----------------------------------------------------------------._.---Â´Â´"
 FinSubProceso
 //________________________________________________________________________________________________________________________________________________________
 Algoritmo new_menu
@@ -561,26 +561,26 @@ Algoritmo new_menu
 	CabaMenu[2]<-  "                            ,::::::<          "
 	CabaMenu[3]<-  "                           ,::/^\ ``.         "
 	CabaMenu[4]<-  "                          ,::/, `   e`.       "
-	CabaMenu[5]<-  "                         ,::; |        ´.        ___                              _      _   _____       _           _ _       "
+	CabaMenu[5]<-  "                         ,::; |        Â´.        ___                              _      _   _____       _           _ _       "
 	CabaMenu[6]<-  "                         ,::|  \___,-.  c)      |_  |                            | |    | | /  __ \     | |         | | |      "
-	CabaMenu[7]<-  "                         ;::|     \   ´-´         | |_   _  ___  __ _  ___     __| | ___| | | /  \/ __ _| |__   __ _| | | ___  "
+	CabaMenu[7]<-  "                         ;::|     \   Â´-Â´         | |_   _  ___  __ _  ___     __| | ___| | | /  \/ __ _| |__   __ _| | | ___  "
 	CabaMenu[8]<-  "                         ;::|      \              | | | | |/ _ \/ _` |/ _ \   / _` |/ _ \ | | |    / _` |  _ \ / _  | | |/ _ \ "
 	CabaMenu[9]<-  "                         ;::|   _.=`\         /\__/ / |_| |  __/ (_| | (_) | | (_| |  __/ | | \__/\ (_| | |_) | (_| | | | (_) |"
 	CabaMenu[10]<- "                         `;:|.=` _.=`\        \____/ \__,_|\___|\__, |\___/   \__,_|\___|_|  \____/\__,_|_.__/ \__,_|_|_|\___/ "
 	CabaMenu[11]<- "                            |_.=`   __\                          __/ |       "
 	CabaMenu[12]<- "                            `\_..==`` /                         |___/        "
-	CabaMenu[13]<- "                             .´.___.-´.        "
+	CabaMenu[13]<- "                             .Â´.___.-Â´.        "
 	CabaMenu[14]<- "                            /          \       "
-	CabaMenu[15]<- "                           (´--......--´)      "
-	CabaMenu[16]<- "                           /´--......--´\      "
+	CabaMenu[15]<- "                           (Â´--......--Â´)      "
+	CabaMenu[16]<- "                           /Â´--......--Â´\      "
 	CabaMenu[17]<- "                           ` --......--        "
 	CabaMenu[18]<- "                                                                                  1 - JUGAR"
 	CabaMenu[19]<- " "
 	CabaMenu[20]<- "                                                                              2 - INSTRUCCIONES"
 	CabaMenu[21]<- " "
-	CabaMenu[22]<- "                                                                              3 - VER CRÉDITOS"
+	CabaMenu[22]<- "                                                                              3 - VER CRÃ‰DITOS"
 	CabaMenu[23]<- " "
-	CabaMenu[24]<- "                                                                        4 - VOLVER AL MENÚ PRINCIPAL"
+	CabaMenu[24]<- "                                                                        4 - VOLVER AL MENÃš PRINCIPAL"
 	
 	//variables hataak________________________________________________________________________________________________________________________________________________
 	Dimension Parpadeo[32]
@@ -593,7 +593,7 @@ Algoritmo new_menu
 	Parpadeo[6] <-"                                                                                                   /___/_/ /_/____/\__/_/   \__,_/\___/\___/_/\____/_/ /_/\___/____/  "
 	Parpadeo[7] <-"                .     .       .  .   . .   .   . .    +  .                                                                                     "
 	Parpadeo[8] <-"                  .     .  :     .    .. :. .___---------___.                                                                             "
-	Parpadeo[9] <-"                       .  .   .    .  :.:. _´.^ .^ ^.  ´.. :´-_. .                                                                             "
+	Parpadeo[9] <-"                       .  .   .    .  :.:. _Â´.^ .^ ^.  Â´.. :Â´-_. .                                                                             "
 	Parpadeo[10] <-"                    .  :       .  .  .:../:            . .^  :.:\.                                                                             "
 	Parpadeo[11] <-"                        .   . :: +. :.:/: .   .    .        . . .:\                                                                             "
 	Parpadeo[12] <-"                 .  :    .     . _ :::/:               .  ^ .  . .:\                                                                             "
@@ -601,14 +601,14 @@ Algoritmo new_menu
 	Parpadeo[14] <-"                  .      .     . :..|:                    .  .  ^. .:|                                                                             "
 	Parpadeo[15] <-"                    .       . : : ..||        .                . . !:|                                                                             "
 	Parpadeo[16] <-"                  .     . . . ::. ::\(                           . :)/                                                                             "
-	Parpadeo[17] <-"                 .   .     : . : .:.|.                     .       ::|                                            Aquí te enseñaremos como jugar"
+	Parpadeo[17] <-"                 .   .     : . : .:.|.                     .       ::|                                            AquÃ­ te enseÃ±aremos como jugar"
 	Parpadeo[18] <-"                  :.. .  :-  : .:  ::|.                  ..        :|                                                y aunque te olvides como,"
 	Parpadeo[19] <-"                 .  .  .  ..  .  .. :\ ########          :######## :/                                       te dejaremos un ayuda-memoria durante el juego."
 	Parpadeo[20] <-"                  .        .+ :: : -.:\                .         .:/                                                                             "
 	Parpadeo[21] <-"                    .  .+   . . . . :.:\.                      ..:/                                                                             "
 	Parpadeo[22] <-"                      :: . . . . ::.:..:.\           .   .    ..:/                                             Haatak es un juego de naves espaciales;"
 	Parpadeo[23] <-"                   .   .   .  .. :  -::::.\.       | |     . .:/                                     donde tendrias que escribir tu instruccion y luego presionar ENTER."
-	Parpadeo[24] <-"                      .  :  .  .  .-:´:.::.\              ..:/                                                                             "
+	Parpadeo[24] <-"                      .  :  .  .  .-:Â´:.::.\              ..:/                                                                             "
 	Parpadeo[25] <-"                 .      -.   . . . .: .:::.:.\.           .:/                                                                             "
 	Parpadeo[26] <-"                .   .   .  :      : ....::_:..:\   ___.  :/                                                              A: Moverse a la izquierda   "
 	Parpadeo[27] <-"                   .   .  .   .:. .. .  .: :.:.:\       :/                                                                             "
@@ -628,7 +628,7 @@ Algoritmo new_menu
 	Parpadeo_Ab[6] <-"                                                                                                   /___/_/ /_/____/\__/_/   \__,_/\___/\___/_/\____/_/ /_/\___/____/  "
 	Parpadeo_Ab[7] <-"                .     .       .  .   . .   .   . .    +  .                                                                                     "
 	Parpadeo_Ab[8] <-"                  .     .  :     .    .. :. .___---------___.                                                                             "
-	Parpadeo_Ab[9] <-"                       .  .   .    .  :.:. _´.^ .^ ^.  ´.. :´-_. .                                                                             "
+	Parpadeo_Ab[9] <-"                       .  .   .    .  :.:. _Â´.^ .^ ^.  Â´.. :Â´-_. .                                                                             "
 	Parpadeo_Ab[10] <-"                    .  :       .  .  .:../:            . .^  :.:\.                                                                             "
 	Parpadeo_Ab[11] <-"                        .   . :: +. :.:/: .   .    .        . . .:\                                                                             "
 	Parpadeo_Ab[12] <-"                 .  :    .     . _ :::/:               .  ^ .  . .:\                                                                             "
@@ -636,14 +636,14 @@ Algoritmo new_menu
 	Parpadeo_Ab[14] <-"                  .      .     . :..|:                    .  .  ^. .:|                                                                             "
 	Parpadeo_Ab[15] <-"                    .       . : : ..||        .                . . !:|                                                                             "
 	Parpadeo_Ab[16] <-"                  .     . . . ::. ::\(                           . :)/                                                                             "
-	Parpadeo_Ab[17] <-"                 .   .     : . : .:.|. ######              .#######::|                                            Aquí te enseñaremos como jugar"
+	Parpadeo_Ab[17] <-"                 .   .     : . : .:.|. ######              .#######::|                                            AquÃ­ te enseÃ±aremos como jugar"
 	Parpadeo_Ab[18] <-"                  :.. .  :-  : .:  ::|.#######           ..########:|                                                y aunque te olvides como,"
 	Parpadeo_Ab[19] <-"                 .  .  .  ..  .  .. :\ ########          :######## :/                                       te dejaremos un ayuda-memoria durante el juego."
 	Parpadeo_Ab[20] <-"                  .        .+ :: : -.:\  ########      . ########.:/                                                                             "
 	Parpadeo_Ab[21] <-"                    .  .+   . . . . :.:\. #######       #######..:/                                                                             "
 	Parpadeo_Ab[22] <-"                      :: . . . . ::.:..:.\           .   .    ..:/                                             Haatak es un juego de naves espaciales;"
 	Parpadeo_Ab[23] <-"                   .   .   .  .. :  -::::.\.       | |     . .:/                                     donde tendrias que escribir tu instruccion y luego presionar ENTER."
-	Parpadeo_Ab[24] <-"                      .  :  .  .  .-:´:.::.\              ..:/                                                                             "
+	Parpadeo_Ab[24] <-"                      .  :  .  .  .-:Â´:.::.\              ..:/                                                                             "
 	Parpadeo_Ab[25] <-"                 .      -.   . . . .: .:::.:.\.           .:/                                                                             "
 	Parpadeo_Ab[26] <-"                .   .   .  :      : ....::_:..:\   ___.  :/                                                              A: Moverse a la izquierda   "
 	Parpadeo_Ab[27] <-"                   .   .  .   .:. .. .  .: :.:.:\       :/                                                                             "
@@ -675,7 +675,7 @@ Algoritmo new_menu
 	helic[1]<- "================--+--================="
 	helic[2]<- "                 ~|~                        ,-~~-."
 	helic[3]<- "         ____/~~~~~~~======-=              :  /~> :"
-	helic[4]<- "       /´~~|~| |== == |-- ~-________________/  /"
+	helic[4]<- "       /Â´~~|~| |== == |-- ~-________________/  /"
 	helic[5]<- "     _/_|__||_| ||_||_||     TAU              <"
 	helic[6]<- "   (-+|    |    |______|     ___-----```````\__\"
 	helic[7]<- "    `-+._____ ___________ _-~"
@@ -725,10 +725,10 @@ Algoritmo new_menu
 	cohete[8]<-" |@| |@| "
 	
 	Dimension enemAlien[5]
-	enemAlien[1]<-"   .-´´´`´´´-.   "
+	enemAlien[1]<-"   .-Â´Â´Â´`Â´Â´Â´-.   "
 	enemAlien[2]<-" _/`oOoOoOoOo`\_ "
-	enemAlien[3]<-"´.-=-=-=-=-=-=-.´"
-	enemAlien[4]<-"  `-=.=-.-=.=-´  "
+	enemAlien[3]<-"Â´.-=-=-=-=-=-=-.Â´"
+	enemAlien[4]<-"  `-=.=-.-=.=-Â´  "
 	enemAlien[5]<-"     ^  ^  ^     "
 	
 	Definir puntos, puntosAcum, selecMenu, repe Como Entero
@@ -754,25 +754,25 @@ Algoritmo new_menu
 	Casti[1]<- ''
 	Casti[2]<-  ''
 	Casti[3]<-  ''
-	Casti[4]<-  '                                 *           ´              *         .              *            _.---._       *       ´             *        '
+	Casti[4]<-  '                                 *           Â´              *         .              *            _.---._       *       Â´             *        '
 	Casti[5]<-  '                                                     .              _____[LLL]______________[LLL]_____     \                            *         *'
 	Casti[6]<-  '                                             *                     /     [LLL]              [LLL]     \     |      *               .         '     
 	Casti[7]<-  '                            *                          *          /____________________________________\    |    .          *               *    '
 	Casti[8]<-  '                                                                   )==================================(    /          .                *     '
 	Casti[9]<-  '                                      *           .      *          |I .-. I .-. I .--. I .-. I .-. I |   /                   .                   *'
 	Casti[10]<-  '                                                               *    |I |+| I |+| I |. | I |+| I |+| I |-      *                  *                '
-	Casti[11]<-  '                            *               *                       |I_|+|_I_|+|_I_|__|_I_|+|_I_|+|_I|      .          *                *       ´ '
+	Casti[11]<-  '                            *               *                       |I_|+|_I_|+|_I_|__|_I_|+|_I_|+|_I|      .          *                *       Â´ '
 	Casti[12]<-  '                                 .                         .       /_I_____I_____I______I_____I_____I_\                     .                         *'
 	Casti[13]<-  '                                      *             *         _     |I .-. I .-. I .--. I .-. I .-. I|          *                           *'
 	Casti[14]<-  '                                                             |u|  __|I |+| I |+| I |<>| I |+| I |+| I|    _           .           *          '
-	Casti[15]<-  '                                  *     .       *       __   |u|_|uu|I |+| I |+| I |~ | I |+| I |+| I| _ |U|     _             .        ´     '
+	Casti[15]<-  '                                  *     .       *       __   |u|_|uu|I |+| I |+| I |~ | I |+| I |+| I| _ |U|     _             .        Â´     '
 	Casti[16]<-  '                                                    .  |uu|__|u|u|u,|I_|+|_I_|+|_I_|__|_I_|+|_I_|+|_I||n|| |____|u|     *                   * '
 	Casti[17]<-  '                                                       |uu|uu|_,.- /I_____I_____I______I_____I____ _I\`-. |uu u|u|__               *      '
 	Casti[18]<-  '                                            *          |uu.- `      #############(______)#############    `-. u|u|uu|       .            '
-	Casti[19]<-  '                                                      _.´`              ~*^*~   (________)   ~*^*^~           `´-.|uu|                   '
-	Casti[20]<-  '                                                   ,´´          .´    _                             _ `´-.        `´-.                   '
-	Casti[21]<-  '                                               ~*^*~    _,´~*^*~    _( )_                         _( )_   `´-.        ~*^*~ '
-	Casti[22]<-  '                                                   _  .´            |___|                         |___|      ~*^*~     _    '
+	Casti[19]<-  '                                                      _.Â´`              ~*^*~   (________)   ~*^*^~           `Â´-.|uu|                   '
+	Casti[20]<-  '                                                   ,Â´Â´          .Â´    _                             _ `Â´-.        `Â´-.                   '
+	Casti[21]<-  '                                               ~*^*~    _,Â´~*^*~    _( )_                         _( )_   `Â´-.        ~*^*~ '
+	Casti[22]<-  '                                                   _  .Â´            |___|                         |___|      ~*^*~     _    '
 	Casti[23]<-  '                                                 _( )_              |_|_|          () ()          |_|_|              _( )_  '
 	Casti[24]<-  '                                                 |___|/\/\/\/\/\/\/\|___|/\/\/\/\/\|| ||/\/\/\/\/\|___|/\/\/\/\/\/\/\|___|  '
 	Casti[25]<-  '                                                 |_|_|\/\/\/\/\/\/\/|_|_|\/\/\/\/\/|| ||\/\/\/\/\/|_|_|\/\/\/\/\/\/\/|_|_|  '
@@ -789,9 +789,9 @@ Algoritmo new_menu
 	Casti[36]<- ''
 	Casti[37]<- '                                                                              2 - INSTRUCCIONES'
 	Casti[38]<- ''
-	Casti[39]<- '                                                                              3 - VER CRÉDITOS'
+	Casti[39]<- '                                                                              3 - VER CRÃ‰DITOS'
 	Casti[40]<- ''
-	Casti[41]<- '                                                                        4 - VOLVER AL MENÚ PRINCIPAL'
+	Casti[41]<- '                                                                        4 - VOLVER AL MENÃš PRINCIPAL'
 	
 	///Creacion de castillo sin luces con vector
 	
@@ -799,25 +799,25 @@ Algoritmo new_menu
 	Castillo[1] <-''
 	Castillo[2] <- ''
 	Castillo[3] <- ''
-	Castillo[4] <- '                                                 ´                    .                           _.---._       ´                    ´      '
-	Castillo[5] <- '                                      ´              .        ´     _____[LLL]______________[LLL]_____     \              ´                '
+	Castillo[4] <- '                                                 Â´                    .                           _.---._       Â´                    Â´      '
+	Castillo[5] <- '                                      Â´              .        Â´     _____[LLL]______________[LLL]_____     \              Â´                '
 	Castillo[6] <- '                                                                   /     [LLL]              [LLL]     \     |                     .       '     
 	Castillo[7] <- '                                                                  /____________________________________\    |    .                        '
-	Castillo[8] <- '                                ´      ´                           )==================================(    /          .                   '
-	Castillo[9] <- '                                                  .        ´        |I .-. I .-. I .--. I .-. I .-. I |   /      ´             .      ´     '
+	Castillo[8] <- '                                Â´      Â´                           )==================================(    /          .                   '
+	Castillo[9] <- '                                                  .        Â´        |I .-. I .-. I .--. I .-. I .-. I |   /      Â´             .      Â´     '
 	Castillo[10] <- '                                                                    |I |+| I |+| I |. | I |+| I |+| I |-                                 '
-	Castillo[11] <- '                                           ´                        |I_|+|_I_|+|_I_|__|_I_|+|_I_|+|_I|      .          ´                  '
-	Castillo[12] <- '                                 .                         .       /_I_____I_____I______I_____I_____I_\                     .      ´      '
-	Castillo[13] <- '                                                  ´           _     |I .-. I .-. I .--. I .-. I .-. I|           ´                        '
-	Castillo[14] <- '                                                             |u|  __|I |+| I |+| I |<>| I |+| I |+| I|    _           .               ´   '
-	Castillo[15] <- '                                ´        .              __   |u|_|uu|I |+| I |+| I |~ | I |+| I |+| I| _ |U|     _             .         '
-	Castillo[16] <- '                                                    .  |uu|__|u|u|u,|I_|+|_I_|+|_I_|__|_I_|+|_I_|+|_I||n|| |____|u|      ´                '
-	Castillo[17] <- '                                                       |uu|uu|_,.- /I_____I_____I______I_____I____ _I\`-. |uu u|u|__                ´     '
-	Castillo[18] <- '                                    ´                  |uu.- `      #############(______)#############    `-. u|u|uu|       .            '
-	Castillo[19] <- '                                                      _.´`              ~*^*~   (________)   ~*^*^~           `´-.|uu|                ´   '
-	Castillo[20] <- '                                                   ,´´          .´    _                             _ `´-.        `´-.                   '
-	Castillo[21] <- '                                               ~*^*~    _,´~*^*~    _( )_                         _( )_   `´-.        ~*^*~ '
-	Castillo[22] <- '                                                   _  .´            |___|                         |___|      ~*^*~     _    '
+	Castillo[11] <- '                                           Â´                        |I_|+|_I_|+|_I_|__|_I_|+|_I_|+|_I|      .          Â´                  '
+	Castillo[12] <- '                                 .                         .       /_I_____I_____I______I_____I_____I_\                     .      Â´      '
+	Castillo[13] <- '                                                  Â´           _     |I .-. I .-. I .--. I .-. I .-. I|           Â´                        '
+	Castillo[14] <- '                                                             |u|  __|I |+| I |+| I |<>| I |+| I |+| I|    _           .               Â´   '
+	Castillo[15] <- '                                Â´        .              __   |u|_|uu|I |+| I |+| I |~ | I |+| I |+| I| _ |U|     _             .         '
+	Castillo[16] <- '                                                    .  |uu|__|u|u|u,|I_|+|_I_|+|_I_|__|_I_|+|_I_|+|_I||n|| |____|u|      Â´                '
+	Castillo[17] <- '                                                       |uu|uu|_,.- /I_____I_____I______I_____I____ _I\`-. |uu u|u|__                Â´     '
+	Castillo[18] <- '                                    Â´                  |uu.- `      #############(______)#############    `-. u|u|uu|       .            '
+	Castillo[19] <- '                                                      _.Â´`              ~*^*~   (________)   ~*^*^~           `Â´-.|uu|                Â´   '
+	Castillo[20] <- '                                                   ,Â´Â´          .Â´    _                             _ `Â´-.        `Â´-.                   '
+	Castillo[21] <- '                                               ~*^*~    _,Â´~*^*~    _( )_                         _( )_   `Â´-.        ~*^*~ '
+	Castillo[22] <- '                                                   _  .Â´            |___|                         |___|      ~*^*~     _    '
 	Castillo[23] <- '                                                 _( )_              |_|_|          () ()          |_|_|              _( )_  '
 	Castillo[24] <- '                                                 |___|/\/\/\/\/\/\/\|___|/\/\/\/\/\|| ||/\/\/\/\/\|___|/\/\/\/\/\/\/\|___|  '
 	Castillo[25] <- '                                                 |_|_|\/\/\/\/\/\/\/|_|_|\/\/\/\/\/|| ||\/\/\/\/\/|_|_|\/\/\/\/\/\/\/|_|_|  '
@@ -834,17 +834,17 @@ Algoritmo new_menu
 	Castillo[36] <- ''
 	Castillo[37] <- '                                                                              2 - INSTRUCCIONES'
 	Castillo[38] <- ''
-	Castillo[39] <- '                                                                              3 - VER CRÉDITOS'
+	Castillo[39] <- '                                                                              3 - VER CRÃ‰DITOS'
 	Castillo[40] <- ''
-	Castillo[41] <- '                                                                        4 - VOLVER AL MENÚ PRINCIPAL'
+	Castillo[41] <- '                                                                        4 - VOLVER AL MENÃš PRINCIPAL'
 	
 	///Vectores usados 
 	
 	dimension ventana(2)
-	ventana[1] <-'Te aproximas a la ventana. Los vidrios están sucios y el interior oscuro. Es casi imposible discernir nada.'
-	ventana[2] <-'Sin embargo, de pronto una sombra se mueve en el interior y desaparece. ¿Qué decides?'
+	ventana[1] <-'Te aproximas a la ventana. Los vidrios estÃ¡n sucios y el interior oscuro. Es casi imposible discernir nada.'
+	ventana[2] <-'Sin embargo, de pronto una sombra se mueve en el interior y desaparece. Â¿QuÃ© decides?'
 	
-	///Creación de pantalla de carga (3 vectores)
+	///CreaciÃ³n de pantalla de carga (3 vectores)
 	
 	Dimension Cargando1(21)
 	Cargando1[1] <-''
@@ -920,22 +920,22 @@ Algoritmo new_menu
 	Llamado_Ceti[1]<-"                                                                    ..______________________________________||__||______________"
 	Llamado_Ceti[2]<-"                                                                  .  |                                      |__|||    .____."
 	Llamado_Ceti[3]<-"                                                                 .   |                     .________.       ||__||    |/\ *|"
-	Llamado_Ceti[4]<-"                                                               .     |     wwwwwwwww       |      .´|       ||__||    |____|"
-	Llamado_Ceti[5]<-"                                                              .      |     |)__|__(| (Ceti)|    .´  |     __||__||__."
+	Llamado_Ceti[4]<-"                                                               .     |     wwwwwwwww       |      .Â´|       ||__||    |____|"
+	Llamado_Ceti[5]<-"                                                              .      |     |)__|__(| (Ceti)|    .Â´  |     __||__||__."
 	Llamado_Ceti[6]<-"                                                            .    /|  |     |\  |  /|     \\|    |   |    /__|__||/_/|"
-	Llamado_Ceti[7]<-"                                                           .    /%|  |     ´=======´ (Ceti)=    |   |    |_._____._||"
+	Llamado_Ceti[7]<-"                                                           .    /%|  |     Â´=======Â´ (Ceti)=    |   |    |_._____._||"
 	Llamado_Ceti[8]<-"                                                         .     |@/   |                     |    |o  |    |_|/^^^\|_||"
 	Llamado_Ceti[9]<-"                                                        .      |/    |_____________________|____|  ,|____|_|*****|_|/______"
 	Llamado_Ceti[10]<-"                                                      .             .                           | ,      ____________      ."
 	Llamado_Ceti[11]<-"                                                     .    ._.     .     __________.             |.     =/ o      o  /="
 	Llamado_Ceti[12]<-"                                                   .     / /|    .     /_/-----/_/|    __             =/    X  .   /="
-	Llamado_Ceti[13]<-"                                                  |     / /||  .       ( ( ´ ´ ( (|  /´--´\          =/___________/=     ."
-	Llamado_Ceti[14]<-"                                                  |    /_/|/| .        (_( ´ ´ (_(| /.    .\"
-	Llamado_Ceti[15]<-"                                                  |    |||/||          / /=====/ /|   ´||´"
+	Llamado_Ceti[13]<-"                                                  |     / /||  .       ( ( Â´ Â´ ( (|  /Â´--Â´\          =/___________/=     ."
+	Llamado_Ceti[14]<-"                                                  |    /_/|/| .        (_( Â´ Â´ (_(| /.    .\"
+	Llamado_Ceti[15]<-"                                                  |    |||/||          / /=====/ /|   Â´||Â´"
 	Llamado_Ceti[16]<-"                                                  |    ||/|/          /_//____/_/ |    ||                              ."
 	Llamado_Ceti[17]<-"                                                  |    |||/          (o|:.....|o) |    ||"
-	Llamado_Ceti[18]<-"                                                  |    ||/           |_|:_____|_|/´   _||_                            "
-	Llamado_Ceti[19]<-"                                                  |   .               ´        ´     /____\                          ."
+	Llamado_Ceti[18]<-"                                                  |    ||/           |_|:_____|_|/Â´   _||_                            "
+	Llamado_Ceti[19]<-"                                                  |   .               Â´        Â´     /____\                          ."
 	Llamado_Ceti[20]<-"                                                  |__________________________________________________________________"
 	
 	Dimension Buscar_Ceti[27]
@@ -946,12 +946,12 @@ Algoritmo new_menu
 	Buscar_Ceti[5]<-"                                                                                       -=*=-*-=*=-                   !-!-!}!!!{!-!-!"
 	Buscar_Ceti[6]<-"                                                                                          *   *                      ! ! !} | {! ! !"
 	Buscar_Ceti[7]<-"                                                                            _      ()       *      ()      _         ! ! }  |  { ! !"
-	Buscar_Ceti[8]<-"                                                                           / \     ||______________||     / \        ! !´   |   ´! !"
+	Buscar_Ceti[8]<-"                                                                           / \     ||______________||     / \        ! !Â´   |   Â´! !"
 	Buscar_Ceti[9]<-"                                                                          /___\    |                |    /___\       ##}----+----{##"
 	Buscar_Ceti[10]<-"                                                                            |      |     -=@@=-     |      |         !!!    |    !!!"
 	Buscar_Ceti[11]<-"                                                                           (_)     |_______  _______|     (_)        !!!    |    !!!"
 	Buscar_Ceti[12]<-"                                                                        ___/_\___  {_-=*=-_}{_-=*=-_}  ___/_\___     !!!____|____!!!"
-	Buscar_Ceti[13]<-"                                                                         |__´__|   %%%%%%%%%%%%%%%%%%   |__´__|      !!!=========!!!"
+	Buscar_Ceti[13]<-"                                                                         |__Â´__|   %%%%%%%%%%%%%%%%%%   |__Â´__|      !!!=========!!!"
 	Buscar_Ceti[14]<-"                                                                        _|_____|__%%%%%%%%%%%%%%%%%%%% _|_____|______!!!_________!!!____"
 	Buscar_Ceti[15]<-"                                                                         |     | %%%%%%%%%%%%%%%%%%%%%% |     |"
 	Buscar_Ceti[16]<-"                                                                                %%%%%%%%%%%%%%%%%%%%%%%%"
@@ -1038,12 +1038,12 @@ Algoritmo new_menu
 	Bosque[10]<-"                                                                                (          )     )  ( (_               (      ))"
 	Bosque[11]<-"                                                                      .--------.(     (        ) ) )   (_   (         )(_  (    )"
 	Bosque[12]<-"                                                                       | Ceti | (                   )    ((_   (       _((       "
-	Bosque[13]<-"                                                                     //--------´(_  (       )      )    _)  (_ _ _  )_) (   (("
+	Bosque[13]<-"                                                                     //--------Â´(_  (       )      )    _)  (_ _ _  )_) (   (("
 	Bosque[14]<-"                                                                                  (   (__    __))_)|(_/|  \_) |: |\_)|:. (      )"
 	Bosque[15]<-"                                                                                   (_/  |\_))  |.| |  :|    | |: |   | ; |(_(  __"
-	Bosque[16]<-"                                                                                        |  .|  |:| | : |    |.| ´|   | : |  (_/:"
-	Bosque[17]<-"                                                        ::::.:::::::::::.:::.::::::.::.:|o: |./:  \|  ;|::.:|;|:.|::.|: ´|::::|´."
-	Bosque[18]<-"                                                        ::::::::::::.:.:::::::.::.:.::::|´; |::.::.|:´ |.::/ /|´ |.:/.: . \:..| :"
+	Bosque[16]<-"                                                                                        |  .|  |:| | : |    |.| Â´|   | : |  (_/:"
+	Bosque[17]<-"                                                        ::::.:::::::::::.:::.::::::.::.:|o: |./:  \|  ;|::.:|;|:.|::.|: Â´|::::|Â´."
+	Bosque[18]<-"                                                        ::::::::::::.:.:::::::.::.:.::::|Â´; |::.::.|:Â´ |.::/ /|Â´ |.:/.: . \:..| :"
 	Bosque[19]<-"                                                        .::.:::::::::::::..::::.::::.:::|.  |.:::./ (  \\.::..| ;|.::..:...::.|: "
 	Bosque[20]<-"                                                        .::::.:::::::.:::::.::.::.:::.:/ /,  \; : .::....:..:/ )  \.::.:::::::|; "
 	Bosque[21]<-"                                                        ::::::::..:::::::::.:::.:.::...:.::...:.::..:::..:.:.:...:::.........:/  "
@@ -1076,8 +1076,8 @@ Algoritmo new_menu
 	Cruz[7]<-"                                                                                        .      )  (      ."
 	Cruz[8]<-"                                                                                        )\_.._/ /\ \_.._/("
 	Cruz[9]<-"                                                                                          (*_<>_  _<>_*)"
-	Cruz[10]<-"                                                                                        )/ ´´ \ \/ / ´´ \("
-	Cruz[11]<-"                                                                                        ´      )  (      ´"
+	Cruz[10]<-"                                                                                        )/ Â´Â´ \ \/ / Â´Â´ \("
+	Cruz[11]<-"                                                                                        Â´      )  (      Â´"
 	Cruz[12]<-"                                                                                               (  ) "
 	Cruz[13]<-"                                                                                               )  ("
 	Cruz[14]<-"                                                                                               (<>)"
@@ -1088,9 +1088,9 @@ Algoritmo new_menu
 	
 	Rita[1]<- "                                                                               \                |"
 	Rita[2]<- "                                                                     .          \       *       |               /"
-	Rita[3]<- "                                                                      `.         \              |              /              ,´"
-	Rita[4]<- "                                                                        `.        \             |       *     /             ,´"
-	Rita[5]<- "                                                                          `        \            |            /            ,´"
+	Rita[3]<- "                                                                      `.         \              |              /              ,Â´"
+	Rita[4]<- "                                                                        `.        \             |       *     /             ,Â´"
+	Rita[5]<- "                                                                          `        \            |            /            ,Â´"
 	Rita[6]<- ""
 	Rita[7]<- "                                                                                 ____   ____  ______   ____  __ "
 	Rita[8]<- "                                                                                |    \ l    j|      T /    T|  T"
@@ -1101,12 +1101,12 @@ Algoritmo new_menu
 	Rita[13]<- "                                                                                l__j\_j|____j  l__j  l__j__jl__j"
 	Rita[14]<- ""
 	Rita[15]<- "                                                                         ,         /                       \             `."
-	Rita[16]<- "                                                                       ,´         /            |            \              `."
-	Rita[17]<- "                                                                     ,´          /             |             \               `."
-	Rita[18]<- "                                                                    ´           /       *      |              \ *"
+	Rita[16]<- "                                                                       ,Â´         /            |            \              `."
+	Rita[17]<- "                                                                     ,Â´          /             |             \               `."
+	Rita[18]<- "                                                                    Â´           /       *      |              \ *"
 	Rita[19]<- "                                                                                               |    .|,"
 	Rita[20]<- "                                                                                                    -*-"
-	Rita[21]<- "                                                                                                    ´|`"
+	Rita[21]<- "                                                                                                    Â´|`"
 	
 	Dimension Chau[17]
 	
@@ -1130,55 +1130,55 @@ Algoritmo new_menu
 	
 	Dimension Nene[18]
 	Nene[1]<- "                                                                                                (.,------...__"
-	Nene[2]<- "                                                                                            _.´´´             `."
-	Nene[3]<- "                                                                                         .´  .´   `, `. `.    `"
-	Nene[4]<- "                                                                                       . .´   .´/´´--...__`.  \"
-	Nene[5]<- "                                                                                     . .--.`.  ´´´-.      ´.  |"
-	Nene[6]<- "                                                                                      ´´  .´  _.´ ..  .--´:/"
-	Nene[7]<- "                                                                                   ´´(  \_\    ´ ())     (()("
-	Nene[8]<- "                                                                                     ´´._´          (   \ ´"
-	Nene[9]<- "                                                                                       ´.            `--´  ´"
-	Nene[10]<- "                                                                                      `.:    .     .___.´  ´"
-	Nene[11]<- "                                                                                       `.     .    _  _  .´"
-	Nene[12]<- "                                                                                         )       .____.-´"
-	Nene[13]<- "                                                                                        .´`.        (--.."
-	Nene[14]<- "                                                                                      .´ \  /\      / /  `."
-	Nene[15]<- "                                                                                  .´    \(  \    /|/     `."
-	Nene[16]<- "                                                                                .´           \__/          `."
+	Nene[2]<- "                                                                                            _.Â´Â´Â´             `."
+	Nene[3]<- "                                                                                         .Â´  .Â´   `, `. `.    `"
+	Nene[4]<- "                                                                                       . .Â´   .Â´/Â´Â´--...__`.  \"
+	Nene[5]<- "                                                                                     . .--.`.  Â´Â´Â´-.      Â´.  |"
+	Nene[6]<- "                                                                                      Â´Â´  .Â´  _.Â´ ..  .--Â´:/"
+	Nene[7]<- "                                                                                   Â´Â´(  \_\    Â´ ())     (()("
+	Nene[8]<- "                                                                                     Â´Â´._Â´          (   \ Â´"
+	Nene[9]<- "                                                                                       Â´.            `--Â´  Â´"
+	Nene[10]<- "                                                                                      `.:    .     .___.Â´  Â´"
+	Nene[11]<- "                                                                                       `.     .    _  _  .Â´"
+	Nene[12]<- "                                                                                         )       .____.-Â´"
+	Nene[13]<- "                                                                                        .Â´`.        (--.."
+	Nene[14]<- "                                                                                      .Â´ \  /\      / /  `."
+	Nene[15]<- "                                                                                  .Â´    \(  \    /|/     `."
+	Nene[16]<- "                                                                                .Â´           \__/          `."
 	Nene[17]<- "                                                                              /      |        o      |      \"
 	Nene[18]<- "                                                                                     |               |      |"
 	
-	Dimension Muñeco[19]
-	Muñeco[1]<- "                                                                                              _   ____  _.-´-._    "
-	Muñeco[2]<- "                                                                                           .´ `;´    ´:.        ´.  "
-	Muñeco[3]<- "                                                                                         /  ./     .´`\`-...-´` ´   "
-	Muñeco[4]<- "                                                                                        /  /|D_  .O    |"
-	Muñeco[5]<- "                                                                                       /  / |=\/`=     |"
-	Muñeco[6]<- "                                                                                      |_´   |  |       |"
-	Muñeco[7]<- "                                                                                             \  \   _ /_"
-	Muñeco[8]<- "                                                                                             /`---´}_()_{"
-	Muñeco[9]<- "                                                                                            /`´---´ //\\\"
-	Muñeco[10]<- "                                                                                           /;      (/\ \)\"
-	Muñeco[11]<- "                                                                                          / |         \   \"
-	Muñeco[12]<- "                                                                                         /  |         |   |"
-	Muñeco[13]<- "                                                                                        /  / .     _ /   /"
-	Muñeco[14]<- "                                                                                        \_|   ´. .´  ´-´|"
-	Muñeco[15]<- "                                                                                           \    .-|     /"
-	Muñeco[16]<- "                                                                                        _.-´   /  |    /"
-	Muñeco[17]<- "                                                                                       (      /  / .--;"
-	Muñeco[18]<- "                                                                                        ´-.__/   |    /"
-	Muñeco[19]<- "                                                                                                 \__."
+	Dimension MuÃ±eco[19]
+	MuÃ±eco[1]<- "                                                                                              _   ____  _.-Â´-._    "
+	MuÃ±eco[2]<- "                                                                                           .Â´ `;Â´    Â´:.        Â´.  "
+	MuÃ±eco[3]<- "                                                                                         /  ./     .Â´`\`-...-Â´` Â´   "
+	MuÃ±eco[4]<- "                                                                                        /  /|D_  .O    |"
+	MuÃ±eco[5]<- "                                                                                       /  / |=\/`=     |"
+	MuÃ±eco[6]<- "                                                                                      |_Â´   |  |       |"
+	MuÃ±eco[7]<- "                                                                                             \  \   _ /_"
+	MuÃ±eco[8]<- "                                                                                             /`---Â´}_()_{"
+	MuÃ±eco[9]<- "                                                                                            /`Â´---Â´ //\\\"
+	MuÃ±eco[10]<- "                                                                                           /;      (/\ \)\"
+	MuÃ±eco[11]<- "                                                                                          / |         \   \"
+	MuÃ±eco[12]<- "                                                                                         /  |         |   |"
+	MuÃ±eco[13]<- "                                                                                        /  / .     _ /   /"
+	MuÃ±eco[14]<- "                                                                                        \_|   Â´. .Â´  Â´-Â´|"
+	MuÃ±eco[15]<- "                                                                                           \    .-|     /"
+	MuÃ±eco[16]<- "                                                                                        _.-Â´   /  |    /"
+	MuÃ±eco[17]<- "                                                                                       (      /  / .--;"
+	MuÃ±eco[18]<- "                                                                                        Â´-.__/   |    /"
+	MuÃ±eco[19]<- "                                                                                                 \__."
 	
 	Dimension Vecina[13]
 	Vecina[1]<- "                                                                                                     _,,,_"
-	Vecina[2]<- "                                                                                                  .´     `´."
+	Vecina[2]<- "                                                                                                  .Â´     `Â´."
 	Vecina[3]<- "                                                                                                 /     ____ \"
-	Vecina[4]<- "                                                                                                |    .´_  _\/"
+	Vecina[4]<- "                                                                                                |    .Â´_  _\/"
 	Vecina[5]<- "                                                                                                /    ) a  a|"
 	Vecina[6]<- "                                                                                               /    (    > |"
 	Vecina[7]<- "                                                                                              (      ) ._  /"
-	Vecina[8]<- "                                                                                              )    _/-.__.´`\"
-	Vecina[9]<- "                                                                                             (  .-´`-.   \__ )"
+	Vecina[8]<- "                                                                                              )    _/-.__.Â´`\"
+	Vecina[9]<- "                                                                                             (  .-Â´`-.   \__ )"
 	Vecina[10]<- "                                                                                              `/      `-./  `."
 	Vecina[11]<- "                                                                                               |    \      \  \"
 	Vecina[12]<- "                                                                                               |     \   \  \  \"
@@ -1188,29 +1188,29 @@ Algoritmo new_menu
 	Gato[1]<- "                                                                                               ,_     _"
 	Gato[2]<- "                                                                                               |\\_,-~/"
 	Gato[3]<- "                                                                                               / _  _ |    ,--."
-	Gato[4]<- "                                                                                              (  @  @ )   / ,-´"
+	Gato[4]<- "                                                                                              (  @  @ )   / ,-Â´"
 	Gato[5]<- "                                                                                               \  _T_/-._( ("
 	Gato[6]<- "                                                                                               /         `. \"
 	Gato[7]<- "                                                                                              |         _  \ |"
 	Gato[8]<- "                                                                                               \ \ ,  /      |"
 	Gato[9]<- "                                                                                                || |-_\__   /"
-	Gato[10]<- "                                                                                              ((_/`(____,-´"
+	Gato[10]<- "                                                                                              ((_/`(____,-Â´"
 	
 	Dimension Quest[19]
 	Quest[1]<- "                                                                                                       ________"
 	Quest[2]<- "                                                                                                   _jgN########Ngg_"
-	Quest[3]<- "                                                                                                _N##N@@´´  ´´9NN##Np_"
+	Quest[3]<- "                                                                                                _N##N@@Â´Â´  Â´Â´9NN##Np_"
 	Quest[4]<- "                                                                                               d###P            N####p"
-	Quest[5]<- "                                                                                              ´^^´              T####"
+	Quest[5]<- "                                                                                              Â´^^Â´              T####"
 	Quest[6]<- "                                                                                                                d###P"
 	Quest[7]<- "                                                                                                            _g###@F"
 	Quest[8]<- "                                                                                                           _gN##@P"
-	Quest[9]<- "                                                                                                         gN###F´"
+	Quest[9]<- "                                                                                                         gN###FÂ´"
 	Quest[10]<- "                                                                                                       d###F"
 	Quest[11]<- "                                                                                                      0###F"
 	Quest[12]<- "                                                                                                      0###F"
 	Quest[13]<- "                                                                                                      0###F"
-	Quest[14]<- "                                                                                                     ´NN@´"
+	Quest[14]<- "                                                                                                     Â´NN@Â´"
 	Quest[15]<- ""
 	Quest[16]<- ""
 	Quest[17]<- "                                                                                                      ___"
@@ -1223,7 +1223,7 @@ Algoritmo new_menu
 	Cigarro[3]<- "                                                                                        )             / \/  \ \ \ \"
 	Cigarro[4]<- "                                                                                        (            /)| \/\ \ \| |"
 	Cigarro[5]<- "                                                                                        `~()_______)___)\ \ \ \ \ |"
-	Cigarro[6]<- "                                                                                                    |)\ )  `´ | | |"
+	Cigarro[6]<- "                                                                                                    |)\ )  `Â´ | | |"
 	Cigarro[7]<- "                                                                                                   /  /,          |"
 	Cigarro[8]<- "                                                                                                   |  |          /"
 	Cigarro[9]<- "                                                                                                   |  |         /"
@@ -1240,64 +1240,64 @@ Algoritmo new_menu
 	Candado[3]<- "                                                                                           / /        \ \"
 	Candado[4]<- "                                                                                           | |        | |"
 	Candado[5]<- "                                                                                          _| |________| |_"
-	Candado[6]<- "                                                                                         ´ |_|        |_| ´"
-	Candado[7]<- "                                                                                        ´._____ ____ _____.´"
-	Candado[8]<- "                                                                                        |     .´____´.     |"
-	Candado[9]<- "                                                                                        ´.__.´.´    ´.´.__.´"
-	Candado[10]<- "                                                                                       ´.__  | YALE |  __.´"
-	Candado[11]<- "                                                                                       |   ´.´.____.´.´   |"
-	Candado[12]<- "                                                                                       ´.____´.____.´____.´"
-	Candado[13]<- "                                                                                        ´.________________.´"
-	Dimension Baño[18]
-	Baño[1]<- "                                                                                                                    |"
-	Baño[2]<- "                                                                                                      __________   |"
-	Baño[3]<- "                                                                                     _    __    _    |          |  |"
-	Baño[4]<- "                                                                                    /_\  /  \  /_\   |          |  |"
-	Baño[5]<- "                                                                                    =|= | // | =|=   |          |  |"
-	Baño[6]<- "                                                                                     !   \__/   !    |          |  |"
-	Baño[7]<- "                                                                                           _         |          |  |"
-	Baño[8]<- "                                                           ___               ___          //´        |          |  |"
-	Baño[9]<- "                                                          [___]       _   :=|   |=:   __T_||_T__     |p=        |  |"
-	Baño[10]<- "                                                         |  ~|     =)_)=   |   |    [__________]    |          |  |"
-	Baño[11]<- "                                                         |   |      (_(    |xXx|     \_      _/     |          |  |"
-	Baño[12]<- "                                                         |   |      )_)    ´´´´´       \    /       |          |  |"
-	Baño[13]<- "                                                         \___|                          |  |        |          |  |"
-	Baño[14]<- "                                                         |  `========,                 |  |        |          |  |"
-	Baño[15]<- "                                                          __`.        .´_________________|  |________|__________|__|"
-	Baño[16]<- "                                                              `.    .´                  (____)                      \"
-	Baño[17]<- "                                                              _|    |_...             .;;;;;;;;.                     \"
-	Baño[18]<- "                                                             (________);;;;          :;;;;;;;;;;:"
+	Candado[6]<- "                                                                                         Â´ |_|        |_| Â´"
+	Candado[7]<- "                                                                                        Â´._____ ____ _____.Â´"
+	Candado[8]<- "                                                                                        |     .Â´____Â´.     |"
+	Candado[9]<- "                                                                                        Â´.__.Â´.Â´    Â´.Â´.__.Â´"
+	Candado[10]<- "                                                                                       Â´.__  | YALE |  __.Â´"
+	Candado[11]<- "                                                                                       |   Â´.Â´.____.Â´.Â´   |"
+	Candado[12]<- "                                                                                       Â´.____Â´.____.Â´____.Â´"
+	Candado[13]<- "                                                                                        Â´.________________.Â´"
+	Dimension BaÃ±o[18]
+	BaÃ±o[1]<- "                                                                                                                    |"
+	BaÃ±o[2]<- "                                                                                                      __________   |"
+	BaÃ±o[3]<- "                                                                                     _    __    _    |          |  |"
+	BaÃ±o[4]<- "                                                                                    /_\  /  \  /_\   |          |  |"
+	BaÃ±o[5]<- "                                                                                    =|= | // | =|=   |          |  |"
+	BaÃ±o[6]<- "                                                                                     !   \__/   !    |          |  |"
+	BaÃ±o[7]<- "                                                                                           _         |          |  |"
+	BaÃ±o[8]<- "                                                           ___               ___          //Â´        |          |  |"
+	BaÃ±o[9]<- "                                                          [___]       _   :=|   |=:   __T_||_T__     |p=        |  |"
+	BaÃ±o[10]<- "                                                         |  ~|     =)_)=   |   |    [__________]    |          |  |"
+	BaÃ±o[11]<- "                                                         |   |      (_(    |xXx|     \_      _/     |          |  |"
+	BaÃ±o[12]<- "                                                         |   |      )_)    Â´Â´Â´Â´Â´       \    /       |          |  |"
+	BaÃ±o[13]<- "                                                         \___|                          |  |        |          |  |"
+	BaÃ±o[14]<- "                                                         |  `========,                 |  |        |          |  |"
+	BaÃ±o[15]<- "                                                          __`.        .Â´_________________|  |________|__________|__|"
+	BaÃ±o[16]<- "                                                              `.    .Â´                  (____)                      \"
+	BaÃ±o[17]<- "                                                              _|    |_...             .;;;;;;;;.                     \"
+	BaÃ±o[18]<- "                                                             (________);;;;          :;;;;;;;;;;:"
 	
 	Dimension Comedor[33]
 	Comedor[1]<- "                                                            ____________________________________________________\\"
 	Comedor[2]<- "                                                            |.-------.-------.|_.----._.----._|.-------.-------.\\\"
 	Comedor[3]<- "                                                            |]       |       [|       .       |]       |       [ \\\"
-	Comedor[4]<- "                                                            ||       |       ||     .´:´.     ||       |       |  |\\"
-	Comedor[5]<- "                                                            ||       |       ||    .´ : ´.    ||       |       |  |\\\"
-	Comedor[6]<- "                                                            ||     (O|O)     ||   .´  :  ´.   ||     (O|O)     |  | \\\"
-	Comedor[7]<- "                                                            ||       |       ||  .´===:===´.  ||       |       | O|  |\\"
-	Comedor[8]<- "                                                            ||       |       ||==´    :    ´==||       |       |  |  |\\\"
+	Comedor[4]<- "                                                            ||       |       ||     .Â´:Â´.     ||       |       |  |\\"
+	Comedor[5]<- "                                                            ||       |       ||    .Â´ : Â´.    ||       |       |  |\\\"
+	Comedor[6]<- "                                                            ||     (O|O)     ||   .Â´  :  Â´.   ||     (O|O)     |  | \\\"
+	Comedor[7]<- "                                                            ||       |       ||  .Â´===:===Â´.  ||       |       | O|  |\\"
+	Comedor[8]<- "                                                            ||       |       ||==Â´    :    Â´==||       |       |  |  |\\\"
 	Comedor[9]<- "                                                            |]       |       [|  )    :    (  |]       |       [  |O | \\\"
-	Comedor[10]<- "                                                            ||_______|_______||´´ ___:____ ´´||_______|_______|  |  |  |\\"
-	Comedor[11]<- "                                                            ´-----------------´_______________´----------------´  |  |  |\\\"
-	Comedor[12]<- "                                                            |.--------.  |    ´---------------´  (o)______)(0)  \ |  |  | \\\"
+	Comedor[10]<- "                                                            ||_______|_______||Â´Â´ ___:____ Â´Â´||_______|_______|  |  |  |\\"
+	Comedor[11]<- "                                                            Â´-----------------Â´_______________Â´----------------Â´  |  |  |\\\"
+	Comedor[12]<- "                                                            |.--------.  |    Â´---------------Â´  (o)______)(0)  \ |  |  | \\\"
 	Comedor[13]<- "                                                            ||        |::|_________________________________())___\|  | O|  \\\______"
-	Comedor[14]<- "                                                            ||        |::|-----______*!*______-------------))( .´.\  |  |   | _____ |"
-	Comedor[15]<- "                                                            ||________|::|  _ /       ´       \  _        _   (__.´\ |  |O  ||     ||"
-	Comedor[16]<- "                                                            |____________| _  \_______________/     _           (_.´\|  |   ||  _  ||"
+	Comedor[14]<- "                                                            ||        |::|-----______*!*______-------------))( .Â´.\  |  |   | _____ |"
+	Comedor[15]<- "                                                            ||________|::|  _ /       Â´       \  _        _   (__.Â´\ |  |O  ||     ||"
+	Comedor[16]<- "                                                            |____________| _  \_______________/     _           (_.Â´\|  |   ||  _  ||"
 	Comedor[17]<- "                                                             ___________________________________________      _  (___\  |   ||     ||"
 	Comedor[18]<- "                                                            ||.-----.|.------.|.-.-.--.--.-.-.||.-----.||\   _        \ |   ||     ||"
 	Comedor[19]<- "                                                            ||| === ||| ==== ||| | |  |  | | |||| === ||| \     _      \|   ||    _||"
-	Comedor[20]<- "                                                            ||´-----´|´------´|´--´--´--´--´-´  |´-----´|. \          _ \   ||     ||"
+	Comedor[20]<- "                                                            ||Â´-----Â´|Â´------Â´|Â´--Â´--Â´--Â´--Â´-Â´  |Â´-----Â´|. \          _ \   ||     ||"
 	Comedor[21]<- "                                                            ||.-----.|.------.|.------.------.||.-----.|| `|\       _    \  || _   ||"
 	Comedor[22]<- "                                                            ||| === |||      |||      |      |||| === |||\ | \  _         \ ||_____||"
-	Comedor[23]<- "                                                            ||´-----´|]      ||]      |      [||´-----´|| \|. \        _   \|_______|"
+	Comedor[23]<- "                                                            ||Â´-----Â´|]      ||]      |      [||Â´-----Â´|| \|. \        _   \|_______|"
 	Comedor[24]<- "                                                            ||.-----.||    (O|||    (O|O)    |||.-----.||  | `|\                   ||"
 	Comedor[25]<- "                                                            ||| === |||      |||      |      |||| === |||  |\ | \__________________||"
 	Comedor[26]<- "                                                            |||     ||]      ||]      |      [|||     ||| O| \|. |  _____________  ||"
-	Comedor[27]<- "                                                            ||´-----´||______|||______|______|||´-----´||  |  | `| |             | ||"
+	Comedor[27]<- "                                                            ||Â´-----Â´||______|||______|______|||Â´-----Â´||  |  | `| |             | ||"
 	Comedor[28]<- "                                                            |||______|________|_______________||_______||  |O |\ | |   _         | ||"
-	Comedor[29]<- "                                                            ´´-----------------------------------------´ \ |  | \| |          _  | ||"
+	Comedor[29]<- "                                                            Â´Â´-----------------------------------------Â´ \ |  | \| |          _  | ||"
 	Comedor[30]<- "                                                               ____                 _______               \|  |  | |       _     | ||"
 	Comedor[31]<- "                                                                       _________                  ______   \  |O | |             | ||"
 	Comedor[32]<- "                                                                                                            \ |  | |   _      _  | ||"
@@ -1307,16 +1307,16 @@ Algoritmo new_menu
 	Correr[1]<- "                                                                                                       ,////,"
 	Correr[2]<- "                                                                                                       /// 6|"
 	Correr[3]<- "                                                                                                       //  _|"
-	Correr[4]<- "                                                                                                      _/_,-´"
-	Correr[5]<- "                                                                                                 _.-/´/   \   ,/;,"
-	Correr[6]<- "                                                                                               ,-´ /´  \_   \ / _/"
+	Correr[4]<- "                                                                                                      _/_,-Â´"
+	Correr[5]<- "                                                                                                 _.-/Â´/   \   ,/;,"
+	Correr[6]<- "                                                                                               ,-Â´ /Â´  \_   \ / _/"
 	Correr[7]<- "                                                                                                `\ /     _/\  ` /"
 	Correr[8]<- "                                                                                                  |     /,  `\_/"
-	Correr[9]<- "                                                                                                  |     \´"
+	Correr[9]<- "                                                                                                  |     \Â´"
 	Correr[10]<- "                                                                                     /\_        /`      /\"
-	Correr[11]<- "                                                                                   /´ /_``--.__/\  `,. /  \"
+	Correr[11]<- "                                                                                   /Â´ /_``--.__/\  `,. /  \"
 	Correr[12]<- "                                                                                  |_/`  `-._     `\/  `\   `."
-	Correr[13]<- "                                                                                            `-.__/´     `\   |"
+	Correr[13]<- "                                                                                            `-.__/Â´     `\   |"
 	Correr[14]<- "                                                                                                         `\  \"
 	Correr[15]<- "                                                                                                           `\ \"
 	Correr[16]<- "                                                                                                             \_\__"
@@ -1325,20 +1325,20 @@ Algoritmo new_menu
 	Dimension Sujeto[20]
 	Sujeto[1]<- "                                                                                                 dS$$S$S$S$S$S$S$$Sb                    "
 	Sujeto[2]<- "                                                                                                :$$S^S$S$S$S$S$S^S$$;                   "
-	Sujeto[3]<- "                                                                                                SSP   `^$S$S$^´   TSS                   "
-	Sujeto[4]<- "                                                                                                $$       `´´       $$                   "
+	Sujeto[3]<- "                                                                                                SSP   `^$S$S$^Â´   TSS                   "
+	Sujeto[4]<- "                                                                                                $$       `Â´Â´       $$                   "
 	Sujeto[5]<- "                                                                                              :-.|  _    - .-   _  |.-;                 "
-	Sujeto[6]<- "                                                                                              :\(; ´ ´-._.´._.-´ ` |)/;                 "
-	Sujeto[7]<- "                                                                                               \`|  , o       o .  |´/                  "
-	Sujeto[8]<- "                                                                                                ´:     -´   `-     ;´                   "
+	Sujeto[6]<- "                                                                                              :\(; Â´ Â´-._.Â´._.-Â´ ` |)/;                 "
+	Sujeto[7]<- "                                                                                               \`|  , o       o .  |Â´/                  "
+	Sujeto[8]<- "                                                                                                Â´:     -Â´   `-     ;Â´                   "
 	Sujeto[9]<- "                                                                                                  ;.              :                     "
-	Sujeto[10]<- "                                                                                                 : `    ._.    ´ ;                     "
+	Sujeto[10]<- "                                                                                                 : `    ._.    Â´ ;                     "
 	Sujeto[11]<- "                                                                                               .sSb   ._____.   dSs.                   "
 	Sujeto[12]<- "                                                                                            _.d8dSSb.   ._.   .SSbT8b._                "
 	Sujeto[13]<- "                                                                                         _.oOPd88SSSS T.     .P SSSS888OOo.             "
 	Sujeto[14]<- "                                                                                     _.mMMOOPd888SSSSb TSqqqSP dSSSS88OMOOOMm._         "
 	Sujeto[15]<- "                                                                                  .oOMMMOMOOM8O8OSSSSSb TSSSP dSSSSS8OOMMOOMMOOOo._     "
-	Sujeto[16]<- "                                                                                .OOMMOOOMMOOMOOOO  ´^SS TSSP dSSS^´OOOOMMOOMMMOOMMMb.   "
+	Sujeto[16]<- "                                                                                .OOMMOOOMMOOMOOOO  Â´^SS TSSP dSSS^Â´OOOOMMOOMMMOOMMMb.   "
 	Sujeto[17]<- "                                                                             MMOMMMMOMMMOMMOOMMbT8b  SSSSS  SSPd8OPdOOOMMMMOOMMMMOMMMOOM"
 	Sujeto[18]<- "                                                                             MMOMMMMOMMMOMMOOMMbT8bTSSSSSSSSSPd8OPdOOOMMMMOOMMMMOMMMOOMM"
 	Sujeto[19]<- "                                                                             MMO    OMMMOMMOOMMbT8bTSSSSSSSSSPd8OPdOOOMMM    MMMOMMMOOMM"
@@ -1354,23 +1354,23 @@ Algoritmo new_menu
 	Ceti[7]<- "                                                                                                                     |    :"
 	Ceti[8]<- "                                                                                                                     |    |"
 	Ceti[9]<- "                                                                     ..._  ___                                       |    |"
-	Ceti[10]<- "                                                                   `.´´.`´´´´´´--..___                              |    |"
-	Ceti[11]<- "                                                                   ,-\  \             ´´-...__         _____________/    |"
-	Ceti[12]<- "                                                                   / ` ´ ´                    `´´´´´´´                  ."
+	Ceti[10]<- "                                                                   `.Â´Â´.`Â´Â´Â´Â´Â´Â´--..___                              |    |"
+	Ceti[11]<- "                                                                   ,-\  \             Â´Â´-...__         _____________/    |"
+	Ceti[12]<- "                                                                   / ` Â´ Â´                    `Â´Â´Â´Â´Â´Â´Â´                  ."
 	Ceti[13]<- "                                                                    \                                                      L"
 	Ceti[14]<- "                                                                   (>                                                      \"
 	Ceti[15]<- "                                                                   /                                                         \"
 	Ceti[16]<- "                                                                   \_    ___..---.                                            L"
-	Ceti[17]<- "                                                                      `--´         ´.                                           \"
+	Ceti[17]<- "                                                                      `--Â´         Â´.                                           \"
 	Ceti[18]<- "                                                                                     .                                           \_"
 	Ceti[19]<- "                                                                                  _/`.                                           `.._"
-	Ceti[20]<- "                                                                              .´     -.                                             `."
-	Ceti[21]<- "                                                                            /     __.-Y     /´´´´´´-...___,...--------.._            |"
-	Ceti[22]<- "                                                                           /   _.´    |    /                ´ .      \   ´---..._    |"
-	Ceti[23]<- "                                                                          /   /      /    /                _,. ´    ,/           |   |"
-	Ceti[24]<- "                                                                          \_,´     _.´   /              /´´     _,-´            _|   |"
-	Ceti[25]<- "                                                                                  ´     /               `-----´´               /     |"
-	Ceti[26]<- "                                                                                  `...-´                                       `...-´"
+	Ceti[20]<- "                                                                              .Â´     -.                                             `."
+	Ceti[21]<- "                                                                            /     __.-Y     /Â´Â´Â´Â´Â´Â´-...___,...--------.._            |"
+	Ceti[22]<- "                                                                           /   _.Â´    |    /                Â´ .      \   Â´---..._    |"
+	Ceti[23]<- "                                                                          /   /      /    /                _,. Â´    ,/           |   |"
+	Ceti[24]<- "                                                                          \_,Â´     _.Â´   /              /Â´Â´     _,-Â´            _|   |"
+	Ceti[25]<- "                                                                                  Â´     /               `-----Â´Â´               /     |"
+	Ceti[26]<- "                                                                                  `...-Â´                                       `...-Â´"
 	
 	Dimension Pelea[15]
 	Pelea[1]<- "                                                                                         ___________    ____"
@@ -1389,118 +1389,118 @@ Algoritmo new_menu
 	Pelea[14]<- "                                                                                           /     \           /"
 	Pelea[15]<- "                                                                                           \______\_________/"
 	
-	Dimension Puño[20]
-	Puño[1]<- "                                                                                   .--.___.----.___.--._"
-	Puño[2]<- "                                                                                   /|  |   |    |   |  | `--."
-	Puño[3]<- "                                                                                 /                          `."
-	Puño[4]<- "                                                                                |       |        |           |"
-	Puño[5]<- "                                                                                |       |        |      |     |"
-	Puño[6]<- "                                                                                |  `    |  `     |    ` |     |"
-	Puño[7]<- "                                                                                |    `  |      ` |      |   ` |"
-	Puño[8]<- "                                                                               ´|  `    | ` ` `  |  ` ` |  `  |"
-	Puño[9]<- "                                                                               ||`   `  |     `  |   `  |`   `|"
-	Puño[10]<- "                                                                              ||  `    |  `     | `    |  `  |"
-	Puño[11]<- "                                                                              ||    `  |   ` `  |    ` | `  `|"
-	Puño[12]<- "                                                                              || `     | `      | ` `  |  `  |"
-	Puño[13]<- "                                                                              ||  ___  |  ____  |  __  |  _  |"
-	Puño[14]<- "                                                                               | \_____/ \______/ \____/ \___/"
-	Puño[15]<- "                                                                               |     `----._"
-	Puño[16]<- "                                                                                |    /       \"
-	Puño[17]<- "                                                                                |         .--.\"
-	Puño[18]<- "                                                                                |        ´    \"
-	Puño[19]<- "                                                                                  `.      |  _.-´"
-	Puño[20]<- "                                                                                    `.|__.-´"
+	Dimension PuÃ±o[20]
+	PuÃ±o[1]<- "                                                                                   .--.___.----.___.--._"
+	PuÃ±o[2]<- "                                                                                   /|  |   |    |   |  | `--."
+	PuÃ±o[3]<- "                                                                                 /                          `."
+	PuÃ±o[4]<- "                                                                                |       |        |           |"
+	PuÃ±o[5]<- "                                                                                |       |        |      |     |"
+	PuÃ±o[6]<- "                                                                                |  `    |  `     |    ` |     |"
+	PuÃ±o[7]<- "                                                                                |    `  |      ` |      |   ` |"
+	PuÃ±o[8]<- "                                                                               Â´|  `    | ` ` `  |  ` ` |  `  |"
+	PuÃ±o[9]<- "                                                                               ||`   `  |     `  |   `  |`   `|"
+	PuÃ±o[10]<- "                                                                              ||  `    |  `     | `    |  `  |"
+	PuÃ±o[11]<- "                                                                              ||    `  |   ` `  |    ` | `  `|"
+	PuÃ±o[12]<- "                                                                              || `     | `      | ` `  |  `  |"
+	PuÃ±o[13]<- "                                                                              ||  ___  |  ____  |  __  |  _  |"
+	PuÃ±o[14]<- "                                                                               | \_____/ \______/ \____/ \___/"
+	PuÃ±o[15]<- "                                                                               |     `----._"
+	PuÃ±o[16]<- "                                                                                |    /       \"
+	PuÃ±o[17]<- "                                                                                |         .--.\"
+	PuÃ±o[18]<- "                                                                                |        Â´    \"
+	PuÃ±o[19]<- "                                                                                  `.      |  _.-Â´"
+	PuÃ±o[20]<- "                                                                                    `.|__.-Â´"
 	
 	Dimension Muerte[23]
 	Muerte[1]<- "                                                                                                  ..."
 	Muerte[2]<- "                                                                                                ;::::;"
 	Muerte[3]<- "                                                                                            ;::::; :;"
-	Muerte[4]<- "                                                                                         ;:::::´   :;"
+	Muerte[4]<- "                                                                                         ;:::::Â´   :;"
 	Muerte[5]<- "                                                                                        ;:::::;     ;."
-	Muerte[6]<- "                                                                                       ,:::::´       ;           OOO\"
+	Muerte[6]<- "                                                                                       ,:::::Â´       ;           OOO\"
 	Muerte[7]<- "                                                                                       ::::::;       ;          OOOOO\"
 	Muerte[8]<- "                                                                                      ;:::::;       ;         OOOOOOOO"
-	Muerte[9]<- "                                                                                     ,;::::::;     ;´         / OOOOOOO"
+	Muerte[9]<- "                                                                                     ,;::::::;     ;Â´         / OOOOOOO"
 	Muerte[10]<- "                                                                                  ;:::::::::`. ,,,;.        /  / DOOOOOO"
-	Muerte[11]<- "                                                                                .´;:::::::::::::::::;,     /  /     DOOOO"
+	Muerte[11]<- "                                                                                .Â´;:::::::::::::::::;,     /  /     DOOOO"
 	Muerte[12]<- "                                                                               ,::::::;::::::;;;;::::;,   /  /        DOOO"
-	Muerte[13]<- "                                                                              ;`::::::`´::::::;;;::::: ,#/  /          DOOO"
+	Muerte[13]<- "                                                                              ;`::::::`Â´::::::;;;::::: ,#/  /          DOOO"
 	Muerte[14]<- "                                                                               :`:::::::`;::::::;;::: ;::#  /            DOOO"
 	Muerte[15]<- "                                                                               ::`:::::::`;:::::::: ;::::# /              DOO"
 	Muerte[16]<- "                                                                                `:`:::::::`;:::::: ;::::::#/               DOO"
 	Muerte[17]<- "                                                                                 :::`:::::::`;; ;:::::::::##                OO"
 	Muerte[18]<- "                                                                                 ::::`:::::::`;::::::::;:::#                OO"
-	Muerte[19]<- "                                                                                   `:::::`::::::::::::;´`:;::#                O"
-	Muerte[20]<- "                                                                                      `:::::`::::::::;´ /  / `:#"
-	Muerte[21]<- "                                                                                         ::::::`:::::;´  /  /   `#"
+	Muerte[19]<- "                                                                                   `:::::`::::::::::::;Â´`:;::#                O"
+	Muerte[20]<- "                                                                                      `:::::`::::::::;Â´ /  / `:#"
+	Muerte[21]<- "                                                                                         ::::::`:::::;Â´  /  /   `#"
 	Muerte[22]<- ""
-	Muerte[23]<- "                                                                                             E S T Á S    M U E R T O"
+	Muerte[23]<- "                                                                                             E S T Ã S    M U E R T O"
 	
 	Dimension Stop[21]
 	Stop[1]<- "                                                                                          uuuuuuuuuuuuuuuuuuuu"
-	Stop[2]<- "                                                                                        u´ uuuuuuuuuuuuuuuuuu ´u"
-	Stop[3]<- "                                                                                      u´ u$$$$$$$$$$$$$$$$$$$$u ´u"
-	Stop[4]<- "                                                                                    u´ u$$$$$$$$$$$$$$$$$$$$$$$$u ´u"
-	Stop[5]<- "                                                                                  u´ u$$$$$$$$$$$$$$$$$$$$$$$$$$$$u ´u"
-	Stop[6]<- "                                                                                u´ u$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$u ´u"
-	Stop[7]<- "                                                                              u´ u$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$u ´u"
+	Stop[2]<- "                                                                                        uÂ´ uuuuuuuuuuuuuuuuuu Â´u"
+	Stop[3]<- "                                                                                      uÂ´ u$$$$$$$$$$$$$$$$$$$$u Â´u"
+	Stop[4]<- "                                                                                    uÂ´ u$$$$$$$$$$$$$$$$$$$$$$$$u Â´u"
+	Stop[5]<- "                                                                                  uÂ´ u$$$$$$$$$$$$$$$$$$$$$$$$$$$$u Â´u"
+	Stop[6]<- "                                                                                uÂ´ u$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$u Â´u"
+	Stop[7]<- "                                                                              uÂ´ u$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$u Â´u"
 	Stop[8]<- "                                                                              $ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ $"
 	Stop[9]<- "                                                                              $ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ $"
-	Stop[10]<- "                                                                              $ $$$´ ... ´$...  ...$´ ... ´$$$  ... ´$$$ $"
-	Stop[11]<- "                                                                              $ $$$u `´$$$$$$$  $$$  $$$$$  $$  $$$  $$$ $"
-	Stop[12]<- "                                                                              $ $$$$$$uu ´$$$$  $$$  $$$$$  $$  ´´´ u$$$ $"
-	Stop[13]<- "                                                                              $ $$$´´$$$  $$$$  $$$u ´$$$´ u$$  $$$$$$$$ $"
+	Stop[10]<- "                                                                              $ $$$Â´ ... Â´$...  ...$Â´ ... Â´$$$  ... Â´$$$ $"
+	Stop[11]<- "                                                                              $ $$$u `Â´$$$$$$$  $$$  $$$$$  $$  $$$  $$$ $"
+	Stop[12]<- "                                                                              $ $$$$$$uu Â´$$$$  $$$  $$$$$  $$  Â´Â´Â´ u$$$ $"
+	Stop[13]<- "                                                                              $ $$$Â´Â´$$$  $$$$  $$$u Â´$$$Â´ u$$  $$$$$$$$ $"
 	Stop[14]<- "                                                                              $ $$$$....,$$$$$..$$$$$....,$$$$..$$$$$$$$ $"
 	Stop[15]<- "                                                                              $ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ $"
-	Stop[16]<- "                                                                             ´u ´$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$´ u´"
-	Stop[17]<- "                                                                                ´u ´$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$´ u´"
-	Stop[18]<- "                                                                                  ´u ´$$$$$$$$$$$$$$$$$$$$$$$$$$$$´ u´"
-	Stop[19]<- "                                                                                    ´u ´$$$$$$$$$$$$$$$$$$$$$$$$´ u´"
-	Stop[20]<- "                                                                                      ´u ´$$$$$$$$$$$$$$$$$$$$´ u´"
-	Stop[21]<- "                                                                                         ´u uuuuuuuuuuuuuuuu u´"
+	Stop[16]<- "                                                                             Â´u Â´$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$Â´ uÂ´"
+	Stop[17]<- "                                                                                Â´u Â´$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$Â´ uÂ´"
+	Stop[18]<- "                                                                                  Â´u Â´$$$$$$$$$$$$$$$$$$$$$$$$$$$$Â´ uÂ´"
+	Stop[19]<- "                                                                                    Â´u Â´$$$$$$$$$$$$$$$$$$$$$$$$Â´ uÂ´"
+	Stop[20]<- "                                                                                      Â´u Â´$$$$$$$$$$$$$$$$$$$$Â´ uÂ´"
+	Stop[21]<- "                                                                                         Â´u uuuuuuuuuuuuuuuu uÂ´"
 	
 	Dimension Tool[13]
-	Tool[1]<- "                                                                                      /|\       []   |´´´´´´´´´´--__    /|  |\"
-	Tool[2]<- "                                                                                     / | \      ||   |____________--´´  ( |__| )"
+	Tool[1]<- "                                                                                      /|\       []   |Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´--__    /|  |\"
+	Tool[2]<- "                                                                                     / | \      ||   |____________--Â´Â´  ( |__| )"
 	Tool[3]<- "                                                                                    | ( ) |     ||         | |           \    /"
 	Tool[4]<- "                                                                                    | .-. |     ||         | |            |12|"
 	Tool[5]<- "                                                                                    ]( 0 )[     ||         | |            |  |"
-	Tool[6]<- "                                                                                    / `-´ \     ||         | |            |  |"
-	Tool[7]<- "                                                                                   / /´ `\ \    ||         | |            |  |"
+	Tool[6]<- "                                                                                    / `-Â´ \     ||         | |            |  |"
+	Tool[7]<- "                                                                                   / /Â´ `\ \    ||         | |            |  |"
 	Tool[8]<- "                                                                                  | |     | |  |%%|        | |            |  |"
-	Tool[9]<- "                                                                                  | |     | |  ,´`,        | |            |  |"
+	Tool[9]<- "                                                                                  | |     | |  ,Â´`,        | |            |  |"
 	Tool[10]<- "                                                                                 | |     | |  ||||        | |            |14|"
 	Tool[11]<- "                                                                                 | |     | |  ||||        | |           / __ \"
 	Tool[12]<- "                                                                                  \ \   / /   ||||        | |          ( |  | )$"
-	Tool[13]<- "                                                                                   `-´ `-´    `--´        `-´           \|  |/"
+	Tool[13]<- "                                                                                   `-Â´ `-Â´    `--Â´        `-Â´           \|  |/"
 	Dimension Sorpresa[26]
 	
 	Sorpresa[1]<- "                                                                               \                |"
 	Sorpresa[2]<- "                                                                     .          \       *       |               /"
-	Sorpresa[3]<- "                                                                      `.         \              |              /              ,´"
-	Sorpresa[4]<- "                                                                        `.        \             |       *     /             ,´"
-	Sorpresa[5]<- "                                                                          `        \            |            /            ,´"
+	Sorpresa[3]<- "                                                                      `.         \              |              /              ,Â´"
+	Sorpresa[4]<- "                                                                        `.        \             |       *     /             ,Â´"
+	Sorpresa[5]<- "                                                                          `        \            |            /            ,Â´"
 	Sorpresa[6]<- ""
 	Sorpresa[7]<- "                                                                                            ___________"
 	Sorpresa[8]<- "                                                                                        .-=d88888888888b=-."
-	Sorpresa[9]<- "                                                                                     .:d8888pr´|\|/-\|´rq8888b."
+	Sorpresa[9]<- "                                                                                     .:d8888prÂ´|\|/-\|Â´rq8888b."
 	Sorpresa[10]<- "                                                                                  ,:d8888P^//\-\/_\ /_\/^q888/b."
 	Sorpresa[11]<- "                                                                                ,;d88888/~-/ .-~  _~-. |/-q88888b,"
 	Sorpresa[12]<- "                                                                               //8888887-\ _/    (#)  \\-\/Y88888b\"
 	Sorpresa[13]<- "                                                                               \8888888|// T      `    Y _/|888888 o"
 	Sorpresa[14]<- "                                                                                 \q88888|- \l           !\_/|88888p/"
-	Sorpresa[15]<- "                                                                                  ´q8888l\-//\         / /\|!8888P´"
-	Sorpresa[16]<- "                                                                                   ´q888\/-| ´-,___.-^\/-\/888P´"
-	Sorpresa[17]<- "                                                                                     `=88\./-/|/ |-/!\/-!/88=´"
-	Sorpresa[18]<- "                                                                                         ^^´-------------´^    "
+	Sorpresa[15]<- "                                                                                  Â´q8888l\-//\         / /\|!8888PÂ´"
+	Sorpresa[16]<- "                                                                                   Â´q888\/-| Â´-,___.-^\/-\/888PÂ´"
+	Sorpresa[17]<- "                                                                                     `=88\./-/|/ |-/!\/-!/88=Â´"
+	Sorpresa[18]<- "                                                                                         ^^Â´-------------Â´^    "
 	Sorpresa[19]<- ""
 	Sorpresa[20]<- "                                                                         ,         /                       \             `."
-	Sorpresa[21]<- "                                                                       ,´         /            |            \              `."
-	Sorpresa[22]<- "                                                                     ,´          /             |             \               `."
-	Sorpresa[23]<- "                                                                    ´           /       *      |              \ *"
+	Sorpresa[21]<- "                                                                       ,Â´         /            |            \              `."
+	Sorpresa[22]<- "                                                                     ,Â´          /             |             \               `."
+	Sorpresa[23]<- "                                                                    Â´           /       *      |              \ *"
 	Sorpresa[24]<- "                                                                                               |    .|,"
 	Sorpresa[25]<- "                                                                                                    -*-"
-	Sorpresa[26]<- "                                                                                                    ´|`"
+	Sorpresa[26]<- "                                                                                                    Â´|`"
 	
 	Dimension Pasillo[21]
 	
@@ -1509,9 +1509,9 @@ Algoritmo new_menu
 	Pasillo[3]<- "                                                                              |\  \   ~-||====||-~_  ///\\"
 	Pasillo[4]<- "                                                                              | \  \    ||    || // /((()))"
 	Pasillo[5]<- "                                                                               \|  |    ||====|| ~ / \\\///"
-	Pasillo[6]<- "                                                                                   |__  ||    ||   |  `|´´"
+	Pasillo[6]<- "                                                                                   |__  ||    ||   |  `|Â´Â´"
 	Pasillo[7]<- "                                                                                   | |\ ||====|| __|  _|_"
-	Pasillo[8]<- "                                                                                   | | ´         /| |  =O="
+	Pasillo[8]<- "                                                                                   | | Â´         /| |  =O="
 	Pasillo[9]<- "                                                                                   | | |_       / | |   ~"
 	Pasillo[10]<- "                                                                                   | | ||\____|  | |_"
 	Pasillo[11]<- "                                                                               _   | | || ____|  | |_]"
@@ -1529,31 +1529,31 @@ Algoritmo new_menu
 	Dimension Mirada[12]
 	
 	Mirada[1]<- "                                                                                  _.---.._             _.---...__"
-	Mirada[2]<- "                                                                               .-´   /\   \          .´  /\     /"
+	Mirada[2]<- "                                                                               .-Â´   /\   \          .Â´  /\     /"
 	Mirada[3]<- "                                                                               `.   (  )   \        /   (  )   /"
-	Mirada[4]<- "                                                                                 `.  \/   .´\      /`.   \/  .´"
-	Mirada[5]<- "                                                                                   ``---´´   )    (   ``---´´"
-	Mirada[6]<- "                                                                                            .´;.--.;`."
-	Mirada[7]<- "                                                                                          .´ /_...._\ `."
-	Mirada[8]<- "                                                                                        .´   `.a  a.´   `."
+	Mirada[4]<- "                                                                                 `.  \/   .Â´\      /`.   \/  .Â´"
+	Mirada[5]<- "                                                                                   ``---Â´Â´   )    (   ``---Â´Â´"
+	Mirada[6]<- "                                                                                            .Â´;.--.;`."
+	Mirada[7]<- "                                                                                          .Â´ /_...._\ `."
+	Mirada[8]<- "                                                                                        .Â´   `.a  a.Â´   `."
 	Mirada[9]<- "                                                                                       (        \/        )"
-	Mirada[10]<- "                                                                                       `.___..-´`-..___.´"
+	Mirada[10]<- "                                                                                       `.___..-Â´`-..___.Â´"
 	Mirada[11]<- "                                                                                          \          /"
-	Mirada[12]<- "                                                                                           `-.____.-´"
+	Mirada[12]<- "                                                                                           `-.____.-Â´"
 	
 	Dimension Caja[11]
 	
 	Caja[1]<- "                                                                                 ,-.       _,---._ __  / \"
-	Caja[2]<- "                                                                                /  )    .-´       `./ /   \"
-	Caja[3]<- "                                                                               (  (   ,´            `/    /|"
-	Caja[4]<- "                                                                                 \  `-´             \´\   / |"
+	Caja[2]<- "                                                                                /  )    .-Â´       `./ /   \"
+	Caja[3]<- "                                                                               (  (   ,Â´            `/    /|"
+	Caja[4]<- "                                                                                 \  `-Â´             \Â´\   / |"
 	Caja[5]<- "                                                                                  `.              ,  \ \ /  |"
-	Caja[6]<- "                                                                                   /`.          ,´-`----Y   |"
-	Caja[7]<- "                                                                                  (            ;        |   ´"
-	Caja[8]<- "                                                                                   |  ,-.    ,-´        |  /"
+	Caja[6]<- "                                                                                   /`.          ,Â´-`----Y   |"
+	Caja[7]<- "                                                                                  (            ;        |   Â´"
+	Caja[8]<- "                                                                                   |  ,-.    ,-Â´        |  /"
 	Caja[9]<- "                                                                                   |  | (   |           | /"
 	Caja[10]<- "                                                                                   )  | \  `.___________|/"
-	Caja[11]<- "                                                                                  `--´   `--´"
+	Caja[11]<- "                                                                                  `--Â´   `--Â´"
 	
 	Dimension GameOver[7]
 	
@@ -1569,21 +1569,21 @@ Algoritmo new_menu
 	
 	Alto[1]<- "                                                                                                d$$$c"
 	Alto[2]<- "                                                                                     J$$$.      $$$$E      J$$$"
-	Alto[3]<- "                                                                                     ?$$$N      ´E´´´     :$$$$"
-	Alto[4]<- "                                                                                      ´*  .     ´$$$E     .´**"
-	Alto[5]<- "                                                                                ee     d$$$c    ´$$$E    ´$$$$"
-	Alto[6]<- "                                                                               ´$$$.    *$$*     ....    *$$$"
-	Alto[7]<- "                                                                                 ?$$´     eedN   ´$$$$   ee"
-	Alto[8]<- "                                                                                   $$$.   ´$$$$.  $$$$  J$$$$"
-	Alto[9]<- "                                                                                   ´´´e$c  ´$$E´        ?$$$´      :ee"
-	Alto[10]<- "                                                                                     ´$$$*   ..$$$$$$$$$&.       J$$$$$"
-	Alto[11]<- "                                                                                      ´  :d$$$$$$$$$$$$$$$      ´$$$$$´"
+	Alto[3]<- "                                                                                     ?$$$N      Â´EÂ´Â´Â´     :$$$$"
+	Alto[4]<- "                                                                                      Â´*  .     Â´$$$E     .Â´**"
+	Alto[5]<- "                                                                                ee     d$$$c    Â´$$$E    Â´$$$$"
+	Alto[6]<- "                                                                               Â´$$$.    *$$*     ....    *$$$"
+	Alto[7]<- "                                                                                 ?$$Â´     eedN   Â´$$$$   ee"
+	Alto[8]<- "                                                                                   $$$.   Â´$$$$.  $$$$  J$$$$"
+	Alto[9]<- "                                                                                   Â´Â´Â´e$c  Â´$$EÂ´        ?$$$Â´      :ee"
+	Alto[10]<- "                                                                                     Â´$$$*   ..$$$$$$$$$&.       J$$$$$"
+	Alto[11]<- "                                                                                      Â´  :d$$$$$$$$$$$$$$$      Â´$$$$$Â´"
 	Alto[12]<- "                                                                                       J$$$$$***                *$$$$"
-	Alto[13]<- "                                                                                       $$$$$                     ´´´"
+	Alto[13]<- "                                                                                       $$$$$                     Â´Â´Â´"
 	Alto[14]<- "                                                                                       $$$$&.               J$&"
 	Alto[15]<- "                                                                                       $$$$$$Nc        :e$$$$$$$c"
-	Alto[16]<- "                                                                                       ´$$$$$$$$&.   J$$$$$$$$$$*"
-	Alto[17]<- "                                                                                       ?$$$$$$$$$c ´$$$$$$$$$$E"
+	Alto[16]<- "                                                                                       Â´$$$$$$$$&.   J$$$$$$$$$$*"
+	Alto[17]<- "                                                                                       ?$$$$$$$$$c Â´$$$$$$$$$$E"
 	Alto[18]<- "                                                                                        $$$$$$$$E  $$$$$$$$$"
 	
 	Dimension Arma[17]
@@ -1594,7 +1594,7 @@ Algoritmo new_menu
 	Arma[4]<- "                                                                                      (###   ###)-."
 	Arma[5]<- "                                                                                    .(###     ###) \"
 	Arma[6]<- "                                                                                   /  (###   ###)   )"
-	Arma[7]<- "                                                                                  (=-  .@#####@|_--´"
+	Arma[7]<- "                                                                                  (=-  .@#####@|_--Â´"
 	Arma[8]<- "                                                                                  /\    \_|l|_/ (\"
 	Arma[9]<- "                                                                                 (=-\     |l|    /"
 	Arma[10]<- "                                                                                  \  \.___|l|___/"
@@ -1610,25 +1610,25 @@ Algoritmo new_menu
 	
 	Pies[1]<- "                                                                                          z$$.      $$b"
 	Pies[2]<- "                                                                                       ee $$$F      $$$ ze."
-	Pies[3]<- "                                                                                     ee *P ^**       ´$´ *$%zb."
-	Pies[4]<- "                                                                                    e.´´  .eee.       .eee.. ^´ er"
-	Pies[5]<- "                                                                                  ..´ .e$$$$$$$.      $$$$$$$b. ´ .."
-	Pies[6]<- "                                                                                 ´´.$$$$$$$$$$%      $$$$$$$$$$c *´"
-	Pies[7]<- "                                                                                   d$$$$$$$$$$´       ^$$$$$$$$$$$"
-	Pies[8]<- "                                                                                   ´$$$$$$$$´           ´$$$$$$$$P"
-	Pies[9]<- "                                                                                     3$$$$$$´              $$$$$$$"
-	Pies[10]<- "                                                                                     $$$$$$               4$$$$$´"
-	Pies[11]<- "                                                                                    ´$$$$$r              $$$$$P"
+	Pies[3]<- "                                                                                     ee *P ^**       Â´$Â´ *$%zb."
+	Pies[4]<- "                                                                                    e.Â´Â´  .eee.       .eee.. ^Â´ er"
+	Pies[5]<- "                                                                                  ..Â´ .e$$$$$$$.      $$$$$$$b. Â´ .."
+	Pies[6]<- "                                                                                 Â´Â´.$$$$$$$$$$%      $$$$$$$$$$c *Â´"
+	Pies[7]<- "                                                                                   d$$$$$$$$$$Â´       ^$$$$$$$$$$$"
+	Pies[8]<- "                                                                                   Â´$$$$$$$$Â´           Â´$$$$$$$$P"
+	Pies[9]<- "                                                                                     3$$$$$$Â´              $$$$$$$"
+	Pies[10]<- "                                                                                     $$$$$$               4$$$$$Â´"
+	Pies[11]<- "                                                                                    Â´$$$$$r              $$$$$P"
 	Pies[12]<- "                                                                                     4$$$$$$c           .$$$$$$$"
 	Pies[13]<- "                                                                                      $$$$$$$.          $$$$$$$F"
 	Pies[14]<- "                                                                                      $$$$$$$F          $$$$$$$F"
 	Pies[15]<- "                                                                                      *$$$$$$F          $$$$$$$"
-	Pies[16]<- "                                                                                       3$$$$$           3$$$$$´"
+	Pies[16]<- "                                                                                       3$$$$$           3$$$$$Â´"
 	
 	Dimension Cetrion[20]
 	Cetrion[1]<- "                                                                                               *                  *"
 	Cetrion[2]<- "                                                                                                  __                *"
-	Cetrion[3]<- "                                                                                               ,db´    *     *"
+	Cetrion[3]<- "                                                                                               ,dbÂ´    *     *"
 	Cetrion[4]<- "                                                                                             ,d8/       *        *    *"
 	Cetrion[5]<- "                                                                                             888"
 	Cetrion[6]<- "                                                                                             `db\       *     *"
@@ -1641,8 +1641,8 @@ Algoritmo new_menu
 	Cetrion[13]<- "                                                                                      _j__j__j_)     `-------/ /__j__j__j_"
 	Cetrion[14]<- "                                                                                      ________(               /___________"
 	Cetrion[15]<- "                                                                                      |  | @| \              || o|O | @|"
-	Cetrion[16]<- "                                                                                      |o |  |,´\       ,   ,´´|  |  |  |"
-	Cetrion[17]<- "                                                                                     vV\|/vV|`-´\  ,---\   | \Vv\hjwVv\//v"
+	Cetrion[16]<- "                                                                                      |o |  |,Â´\       ,   ,Â´Â´|  |  |  |"
+	Cetrion[17]<- "                                                                                     vV\|/vV|`-Â´\  ,---\   | \Vv\hjwVv\//v"
 	Cetrion[18]<- "                                                                                                _) )    `. \ /"
 	Cetrion[19]<- "                                                                                               (__/       ) )"
 	Cetrion[20]<- "                                                                                                         (_/"
@@ -1651,11 +1651,11 @@ Algoritmo new_menu
 	Police[1]<- "                                                                                                 ________________"
 	Police[2]<- "                                                                                                 \      __      /         __"
 	Police[3]<- "                                                                                                  \_____()_____/         /  )"
-	Police[4]<- "                                                                                                  ´============`        /  /"
+	Police[4]<- "                                                                                                  Â´============`        /  /"
 	Police[5]<- "                                                                                                   #---\  /---#        /  /"
 	Police[6]<- "                                                                                                  (# @\| |/@  #)      /  /"
 	Police[7]<- "                                                                                                   \   (_)   /       /  /"
-	Police[8]<- "                                                                                                   |\ ´---´ /|      /  /"
+	Police[8]<- "                                                                                                   |\ Â´---Â´ /|      /  /"
 	Police[9]<- "                                                                                           _______/ \\_____// \____/ o_|"
 	Police[10]<- "                                                                                          /       \  /     \  /   / o_|"
 	Police[11]<- "                                                                                         / |           o|        / o_| \"
@@ -1663,44 +1663,44 @@ Algoritmo new_menu
 	Police[13]<- "                                                                                       /   |  |===|    o|      / /\    \ \"
 	Police[14]<- "                                                                                      |    |   \@/      |     / /  \    \ \"
 	Police[15]<- "                                                                                      |    |___________o|__/----)   \    \/"
-	Police[16]<- "                                                                                      |    ´              ||  --)    \     |"
+	Police[16]<- "                                                                                      |    Â´              ||  --)    \     |"
 	Police[17]<- "                                                                                      |___________________||  --)     \    /"
-	Police[18]<- "                                                                                           |           o|   ´´´´   |   \__/"
+	Police[18]<- "                                                                                           |           o|   Â´Â´Â´Â´   |   \__/"
 	Police[19]<- "                                                                                           |            |          |"
 	
 	Dimension Final[31]
 	
-	Final[1]<- "                                                    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!´´"
-	Final[2]<- "                                                    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!´"
-	Final[3]<- "                                                    !!!!!!!!!!!!!!!!!!!!!!!!´´´   ´´`!!!!!!!!!!!!!!!!!!!!!!!!!!!´´´"
-	Final[4]<- "                                                    !!!!!!!!!!!!!!!!!!!!!!!´            ´´`!!!!!!!!!!!!!!!!!´´´"
-	Final[5]<- "                                                    !!!!!!!!!!!!!!!!!!!!!´                   `!!!!!!!!!!!!´"
-	Final[6]<- "                                                    !!!!!!!!!!!!!!!!!!!!´              x.:..: `!!!!!!!!!!´"
-	Final[7]<- "                                                    !!!!!!!!!!!!!!!!!!´´               ´q$ x´k !!!!!!!´´"
-	Final[8]<- "                                                    !!!!!!!!!!!!!!!!!´´             ,>\.`q$$8MM:!!!!!´"
-	Final[9]<- "                                                    !!!!!!!!!!!!!!!!!!              $f9B.`q$$$$k `´´X"
-	Final[10]<- "                                                    !!!!!!!!!!!!!!!!!´              # $$X>.q$$$$$$$$b."
-	Final[11]<- "                                                    !!!!!!!!!!!!!!!!!              ,>d$$`:?~XR$$$$$$P´"
-	Final[12]<- "                                                    !!!!!!!!!!!!!!!!´              MRR$~ ~ `!!M$RRP´`."
-	Final[13]<- "                                                    !!!!!!!!!!!!!!!´              ,4!!`  M´XdX`´´´"
-	Final[14]<- "                                                    !!!!!!!!!!!!!!! ´             !!b  <  9$$?k"
+	Final[1]<- "                                                    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Â´Â´"
+	Final[2]<- "                                                    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Â´"
+	Final[3]<- "                                                    !!!!!!!!!!!!!!!!!!!!!!!!Â´Â´Â´   Â´Â´`!!!!!!!!!!!!!!!!!!!!!!!!!!!Â´Â´Â´"
+	Final[4]<- "                                                    !!!!!!!!!!!!!!!!!!!!!!!Â´            Â´Â´`!!!!!!!!!!!!!!!!!Â´Â´Â´"
+	Final[5]<- "                                                    !!!!!!!!!!!!!!!!!!!!!Â´                   `!!!!!!!!!!!!Â´"
+	Final[6]<- "                                                    !!!!!!!!!!!!!!!!!!!!Â´              x.:..: `!!!!!!!!!!Â´"
+	Final[7]<- "                                                    !!!!!!!!!!!!!!!!!!Â´Â´               Â´q$ xÂ´k !!!!!!!Â´Â´"
+	Final[8]<- "                                                    !!!!!!!!!!!!!!!!!Â´Â´             ,>\.`q$$8MM:!!!!!Â´"
+	Final[9]<- "                                                    !!!!!!!!!!!!!!!!!!              $f9B.`q$$$$k `Â´Â´X"
+	Final[10]<- "                                                    !!!!!!!!!!!!!!!!!Â´              # $$X>.q$$$$$$$$b."
+	Final[11]<- "                                                    !!!!!!!!!!!!!!!!!              ,>d$$`:?~XR$$$$$$PÂ´"
+	Final[12]<- "                                                    !!!!!!!!!!!!!!!!Â´              MRR$~ ~ `!!M$RRPÂ´`."
+	Final[13]<- "                                                    !!!!!!!!!!!!!!!Â´              ,4!!`  MÂ´XdX`Â´Â´Â´"
+	Final[14]<- "                                                    !!!!!!!!!!!!!!! Â´             !!b  <  9$$?k"
 	Final[15]<- "                                                    !!!!!!!!!!!!!!!              ,:`q&!8L,?M$$X$."
-	Final[16]<- "                                                    !!!!!!!!!!!!!!´              :!  q$H#$BB@$$i!\."
-	Final[17]<- "                                                    !!!!!!!!!!!!!!               ´    ´$H$$$RM#$$$b."
-	Final[18]<- "                                                    !!!!!!!!!!!!!!,,               ´   `#$$,$$WU!$$b."
-	Final[19]<- "                                                    !!!!!!!!!!!!!´!           !.    .   `T´,W$$$Pq!$b"
-	Final[20]<- "                                                    !!!!!!!!!!!!!!´           xk.   ?!   ,JMM$$P´ b$M"
-	Final[21]<- "                                                    !!!!!!!!!!!!!!          , !Mb. ´XX! ´!!?&P´ ,$t$$                              ,"
-	Final[22]<- "                                                    !!!!!!!!!!!!!´        ,´  `MM$b<X!!!  ~<P´!´,d$M!                             ,!"
-	Final[23]<- "                                                    !!!!!!!!!!!!´,      ´ ,    4M$$b´>!!>~!P,!´,dM$P´                            ,!!"
-	Final[24]<- "                                                    !!!!!!!!!!!!!!  ,  ´  !    !M$$$b.`!!b´´ .,d$$P´           .                ,!!!"
-	Final[25]<- "                                                    !!!!!!!!!!!!!!.,! ,!´ ´    `!M$$$k `!!:,!!!M%P´            4.              ,!!!!"
-	Final[26]<- "                                                    !!!!!!!!!!!!!!!!!,!´        xMM$$$!  `!!!!!´´              @b             ,!!!!!"
-	Final[27]<- "                                                    !!!!!!!!!!!!!!!!!!´         !MMMM$$                       ,$$           ,!!!!!!!"
-	Final[28]<- "                                                    !!!!!!!!!!!!!!!´            `!XMMP´                     .,$PP         ,!!!!!!!!!"
-	Final[29]<- "                                                    !!!!!!!!!!!!!´               `XMP´                     d$$$P´        ,!!!!!!!!!!"
-	Final[30]<- "                                                    !!!!!!!!!!!!´                 ´´´                      $$$P´       ,!!!!!!!!!!!!"
-	Final[31]<- "                                                    !!!!!!!!!´´                                            `$$´      ,!!!!!!!!!!!!!!"
+	Final[16]<- "                                                    !!!!!!!!!!!!!!Â´              :!  q$H#$BB@$$i!\."
+	Final[17]<- "                                                    !!!!!!!!!!!!!!               Â´    Â´$H$$$RM#$$$b."
+	Final[18]<- "                                                    !!!!!!!!!!!!!!,,               Â´   `#$$,$$WU!$$b."
+	Final[19]<- "                                                    !!!!!!!!!!!!!Â´!           !.    .   `TÂ´,W$$$Pq!$b"
+	Final[20]<- "                                                    !!!!!!!!!!!!!!Â´           xk.   ?!   ,JMM$$PÂ´ b$M"
+	Final[21]<- "                                                    !!!!!!!!!!!!!!          , !Mb. Â´XX! Â´!!?&PÂ´ ,$t$$                              ,"
+	Final[22]<- "                                                    !!!!!!!!!!!!!Â´        ,Â´  `MM$b<X!!!  ~<PÂ´!Â´,d$M!                             ,!"
+	Final[23]<- "                                                    !!!!!!!!!!!!Â´,      Â´ ,    4M$$bÂ´>!!>~!P,!Â´,dM$PÂ´                            ,!!"
+	Final[24]<- "                                                    !!!!!!!!!!!!!!  ,  Â´  !    !M$$$b.`!!bÂ´Â´ .,d$$PÂ´           .                ,!!!"
+	Final[25]<- "                                                    !!!!!!!!!!!!!!.,! ,!Â´ Â´    `!M$$$k `!!:,!!!M%PÂ´            4.              ,!!!!"
+	Final[26]<- "                                                    !!!!!!!!!!!!!!!!!,!Â´        xMM$$$!  `!!!!!Â´Â´              @b             ,!!!!!"
+	Final[27]<- "                                                    !!!!!!!!!!!!!!!!!!Â´         !MMMM$$                       ,$$           ,!!!!!!!"
+	Final[28]<- "                                                    !!!!!!!!!!!!!!!Â´            `!XMMPÂ´                     .,$PP         ,!!!!!!!!!"
+	Final[29]<- "                                                    !!!!!!!!!!!!!Â´               `XMPÂ´                     d$$$PÂ´        ,!!!!!!!!!!"
+	Final[30]<- "                                                    !!!!!!!!!!!!Â´                 Â´Â´Â´                      $$$PÂ´       ,!!!!!!!!!!!!"
+	Final[31]<- "                                                    !!!!!!!!!Â´Â´                                            `$$Â´      ,!!!!!!!!!!!!!!"
 	
 	Dimension DNI[15]
 	
@@ -1709,7 +1709,7 @@ Algoritmo new_menu
 	DNI[3]<- "                                                                                / / / / /`_| Leonel          |,-\ \ \ \ \"
 	DNI[4]<- "                                                                                | |/ / / / | Lobos           | \ \ \ \| |"
 	DNI[5]<- "                                                                                | / / / / /|                 |\ \ \ \ \ |"
-	DNI[6]<- "                                                                                | | | `´  (|/(|___________|)\|    ´ | | |"
+	DNI[6]<- "                                                                                | | | `Â´  (|/(|___________|)\|    Â´ | | |"
 	DNI[7]<- "                                                                                |          `\  \         /  /,          |"
 	DNI[8]<- "                                                                                \           |  |         |  |          /"
 	DNI[9]<- "                                                                                 \             |         |            /"
@@ -1726,80 +1726,80 @@ Algoritmo new_menu
 	Hogar[3]<-"                                                                                                [[__] |"
 	Hogar[4]<-"                                                                               _________________||  |___"
 	Hogar[5]<-"                                                                              /^^^^^^,-.^^^^^^^^\|__|^^^\"
-	Hogar[6]<-"                                                                             /     ,´,-.`.               \"
-	Hogar[7]<-"                                                                            /    ,´,´   ´.´.     ,-----.  \"
-	Hogar[8]<-"                                                                           /___,´,´__   __`.`.__/_,´T´._\__\"
-	Hogar[9]<-"                                                                            |=´-´||/\| |^^||`-`=|_|_|_|_|=|"
+	Hogar[6]<-"                                                                             /     ,Â´,-.`.               \"
+	Hogar[7]<-"                                                                            /    ,Â´,Â´   Â´.Â´.     ,-----.  \"
+	Hogar[8]<-"                                                                           /___,Â´,Â´__   __`.`.__/_,Â´TÂ´._\__\"
+	Hogar[9]<-"                                                                            |=Â´-Â´||/\| |^^||`-`=|_|_|_|_|=|"
 	Hogar[10]<-"                                                                            |= = ||)(| |__||= ==|_|_|_|_|=|"
-	Hogar[11]<-"                                                                            |= ==|´´´´ ´´´´ | = =____= =_==|"
+	Hogar[11]<-"                                                                            |= ==|Â´Â´Â´Â´ Â´Â´Â´Â´ | = =____= =_==|"
 	Hogar[12]<-"                                                                            |== =| __   __ |= =| [] | |^|=|"
 	Hogar[13]<-"                                                                            |= ==||/\| |==||== |   o|=|_| |"
 	Hogar[14]<-"                                                                            |== =||)(| |  || = | == | == =|"
-	Hogar[15]<-"                                                                            |= ==|´´´´ ´´´´|== |____|= = =|"
-	Hogar[16]<-"                                                                            ´´´´´|_________|´´´´==== ´´´´´´"
+	Hogar[15]<-"                                                                            |= ==|Â´Â´Â´Â´ Â´Â´Â´Â´|== |____|= = =|"
+	Hogar[16]<-"                                                                            Â´Â´Â´Â´Â´|_________|Â´Â´Â´Â´==== Â´Â´Â´Â´Â´Â´"
 	
 	Dimension Llamado[17]
 	
 	Llamado[1]<- "                                                                        _.===========================._"
-	Llamado[2]<- "                                                                     .´`  .-  - __- - - -- --__--- -.  `´."
-	Llamado[3]<- "                                                                __ / ,´`     _|--|_________|--|_     `´. \"
-	Llamado[4]<- "                                                              /´--| ;    _.´\ |  ´         ´  | /´._    ; |"
-	Llamado[5]<- "                                                             //   | |_.-´ .-´.´    -  -- -    ´.´-. ´-._| |"
-	Llamado[6]<- "                                                            (\)   \´` _.-` /                     \ `-._ `´/"
+	Llamado[2]<- "                                                                     .Â´`  .-  - __- - - -- --__--- -.  `Â´."
+	Llamado[3]<- "                                                                __ / ,Â´`     _|--|_________|--|_     `Â´. \"
+	Llamado[4]<- "                                                              /Â´--| ;    _.Â´\ |  Â´         Â´  | /Â´._    ; |"
+	Llamado[5]<- "                                                             //   | |_.-Â´ .-Â´.Â´    -  -- -    Â´.Â´-. Â´-._| |"
+	Llamado[6]<- "                                                            (\)   \Â´` _.-` /                     \ `-._ `Â´/"
 	Llamado[7]<- "                                                            (\)    `-`    /      .---------.      \    `-`"
 	Llamado[8]<- "                                                            (\)           |      ||1||2||3||      |"
 	Llamado[9]<- "                                                           (\)            |      ||4||5||6||      |"
 	Llamado[10]<- "                                                          (\)             |      ||7||8||9||      |"
 	Llamado[11]<- "                                                         (\)           ___|      ||*||0||#||      |"
-	Llamado[12]<- "                                                         (\)          /.--|      ´---------´      |"
+	Llamado[12]<- "                                                         (\)          /.--|      Â´---------Â´      |"
 	Llamado[13]<- "                                                          (\)        (\)  |\_  _  __   _   __  __/|"
 	Llamado[14]<- "                                                         (\)        (\)   |                       |"
 	Llamado[15]<- "                                                        (\)_._._.__(\)    |                       |"
-	Llamado[16]<- "                                                         (\\\\jgs\\\)      ´.___________________.´"
-	Llamado[17]<- "                                                         ´-´-´-´--´"
+	Llamado[16]<- "                                                         (\\\\jgs\\\)      Â´.___________________.Â´"
+	Llamado[17]<- "                                                         Â´-Â´-Â´-Â´--Â´"
 	
 	Dimension Vecinas[19]
 	
 	Vecinas[1]<- "                                                                                                _"
 	Vecinas[2]<- "                                                                                        ,--,--.;  `__ ,-."
-	Vecinas[3]<- "                                                                                       /.-´    \  /  )   \"
+	Vecinas[3]<- "                                                                                       /.-Â´    \  /  )   \"
 	Vecinas[4]<- "                                                                                      (        .--.  ,-.  ))"
 	Vecinas[5]<- "                                                                                     (        (     Y   \ ( )"
 	Vecinas[6]<- "                                                                                    (         /          `.)("
 	Vecinas[7]<- "                                                                                   ()        /             ( )"
 	Vecinas[8]<- "                                                                                   ((       (   _           )("
-	Vecinas[9]<- "                                                                                   )    (  ) .´ `-.   .-´. ( ) "
+	Vecinas[9]<- "                                                                                   )    (  ) .Â´ `-.   .-Â´. ( ) "
 	Vecinas[10]<- "                                                                                   (( _  )(    __       _  /)( "
 	Vecinas[11]<- "                                                                                   ( /.`( (   <()>     /( ) "
 	Vecinas[12]<- "                                                                                    )||  ))                \ ))"
 	Vecinas[13]<- "                                                                                   ( \(- ((           \     .(("
 	Vecinas[14]<- "                                                                                    ) \./|)         (  )    .))"
 	Vecinas[15]<- "                                                                                   (     )(                 ;("
-	Vecinas[16]<- "                                                                                  (      )).      `--.-´  /( "
+	Vecinas[16]<- "                                                                                  (      )).      `--.-Â´  /( "
 	Vecinas[17]<- "                                                                                  /      (  `.           /  )"
-	Vecinas[18]<- "                                                                                 (        )   `-.      .´   ("
-	Vecinas[19]<- "                                                                                  \              `-.--´"
+	Vecinas[18]<- "                                                                                 (        )   `-.      .Â´   ("
+	Vecinas[19]<- "                                                                                  \              `-.--Â´"
 	
 	Dimension Cadaver[18]
 	
 	Cadaver[1]<- "                                                                            ..,co88oc.oo8888cc,.."
-	Cadaver[2]<- "                                                   o8o.               ..,o8889689ooo888o´88888888oooc.."
-	Cadaver[3]<- "                                                 .88888             .o888896888´.88888888o´?888888888889ooo...."
-	Cadaver[4]<- "                                                 a888P          ..c6888969´´..,´o888888888o.?8888888888´´.ooo8888oo."
-	Cadaver[5]<- "                                                088P        ..atc88889´´.,oo8o.86888888888o 88988889´,o888888888888."
-	Cadaver[6]<- "                                               888t  ...coo688889´´.ooo88o88b.´86988988889 8688888´o8888896989^888o"
-	Cadaver[7]<- "                                              888t  ...coo688889´´.ooo88o88b.´86988988889 8688888´o8888896989^888o"
-	Cadaver[8]<- "                                              888888888888´..ooo888968888888  ´9o688888´ ´888988 8888868888´o88888"
-	Cadaver[9]<- "                                                ´´G8889´´´ooo888888888888889 .d8o9889´´´   ´8688o.´88888988´o888888o ."
-	Cadaver[10]<- "                                                         o8888´´´´´´´´´´´   o8688´          88868. 888888.68988888´o8o. "
-	Cadaver[11]<- "                                                         88888o.              ´8888ooo.        ´8888. 88888.8898888o´888o."
-	Cadaver[12]<- "                                                         ´888888´               ´888888´          ´´´8o´8888.8869888oo8888o ."
-	Cadaver[13]<- "                                                            ´´                     ´´          . : ::.:.´8888 ´888888888888o"
-	Cadaver[14]<- "                                                                                                       :..8888,. ´88888888888."
-	Cadaver[15]<- "                                                                                                      .:o888.o8o.  ´866o9888o"
-	Cadaver[16]<- "                                                                                                        :888.o8888.  ´88.´89´."
-	Cadaver[17]<- "                                                                                                       . 89  888888    ´88´:."
-	Cadaver[18]<- "                                                                                                                88 :.     ´8888o"
+	Cadaver[2]<- "                                                   o8o.               ..,o8889689ooo888oÂ´88888888oooc.."
+	Cadaver[3]<- "                                                 .88888             .o888896888Â´.88888888oÂ´?888888888889ooo...."
+	Cadaver[4]<- "                                                 a888P          ..c6888969Â´Â´..,Â´o888888888o.?8888888888Â´Â´.ooo8888oo."
+	Cadaver[5]<- "                                                088P        ..atc88889Â´Â´.,oo8o.86888888888o 88988889Â´,o888888888888."
+	Cadaver[6]<- "                                               888t  ...coo688889Â´Â´.ooo88o88b.Â´86988988889 8688888Â´o8888896989^888o"
+	Cadaver[7]<- "                                              888t  ...coo688889Â´Â´.ooo88o88b.Â´86988988889 8688888Â´o8888896989^888o"
+	Cadaver[8]<- "                                              888888888888Â´..ooo888968888888  Â´9o688888Â´ Â´888988 8888868888Â´o88888"
+	Cadaver[9]<- "                                                Â´Â´G8889Â´Â´Â´ooo888888888888889 .d8o9889Â´Â´Â´   Â´8688o.Â´88888988Â´o888888o ."
+	Cadaver[10]<- "                                                         o8888Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´   o8688Â´          88868. 888888.68988888Â´o8o. "
+	Cadaver[11]<- "                                                         88888o.              Â´8888ooo.        Â´8888. 88888.8898888oÂ´888o."
+	Cadaver[12]<- "                                                         Â´888888Â´               Â´888888Â´          Â´Â´Â´8oÂ´8888.8869888oo8888o ."
+	Cadaver[13]<- "                                                            Â´Â´                     Â´Â´          . : ::.:.Â´8888 Â´888888888888o"
+	Cadaver[14]<- "                                                                                                       :..8888,. Â´88888888888."
+	Cadaver[15]<- "                                                                                                      .:o888.o8o.  Â´866o9888o"
+	Cadaver[16]<- "                                                                                                        :888.o8888.  Â´88.Â´89Â´."
+	Cadaver[17]<- "                                                                                                       . 89  888888    Â´88Â´:."
+	Cadaver[18]<- "                                                                                                                88 :.     Â´8888o"
 	
 	Dimension Comisaria[17]
 	
@@ -1833,7 +1833,7 @@ Algoritmo new_menu
 	Sujeto2[8]<- "                                                         | |                     mmm   ___--  --_   .m"
 	Sujeto2[9]<- "                                                         | |                     mmmm ~          ~~  m"
 	Sujeto2[10]<- "                                                         | |                     ,.mm  -(o)-  -(o)-  l,"
-	Sujeto2[11]<- "                                                         | |                    :  .m       ´ :      l: "
+	Sujeto2[11]<- "                                                         | |                    :  .m       Â´ :      l: "
 	Sujeto2[12]<- "                                                         | |                    :   m         .      l: "
 	Sujeto2[13]<- "                                                         | |                    :          .   :     l:  "
 	Sujeto2[14]<- "                                                         | |                    `..         ~-~      , "
@@ -1856,27 +1856,27 @@ Algoritmo new_menu
 	Hombre[1]<- "                                                                              ,"
 	Hombre[2]<- "                                                                        (`-.-/(           .:::::.,"
 	Hombre[3]<- "                                                                          `-.__)             ``:\:: .               /7_.-,"
-	Hombre[4]<- "                                                                              ´. -.       -  - `:::´           .- (  `_.="
-	Hombre[5]<- "                                                                                \  `--._   /   _?´`      ___.-´   -`´´"
-	Hombre[6]<- "                                                                                 \         -  / )----´´´´ -    .-´"
-	Hombre[7]<- "                                                                                   `--..   `--´ ,´           .´"
-	Hombre[8]<- "                                                                                       `\   --´       )---´´"
+	Hombre[4]<- "                                                                              Â´. -.       -  - `:::Â´           .- (  `_.="
+	Hombre[5]<- "                                                                                \  `--._   /   _?Â´`      ___.-Â´   -`Â´Â´"
+	Hombre[6]<- "                                                                                 \         -  / )----Â´Â´Â´Â´ -    .-Â´"
+	Hombre[7]<- "                                                                                   `--..   `--Â´ ,Â´           .Â´"
+	Hombre[8]<- "                                                                                       `\   --Â´       )---Â´Â´"
 	Hombre[9]<- "                                                                                         )           )"
 	Hombre[10]<- "                                                                                         |          _|"
 	Hombre[11]<- "                                                                                         (           \"
 	Hombre[12]<- "                                                                                         L          /"
 	Hombre[13]<- "                                                                                         |          \"
 	Hombre[14]<- "                                                                                         )__     _   \"
-	Hombre[15]<- "                                                                                          \ `---´ `--´"
+	Hombre[15]<- "                                                                                          \ `---Â´ `--Â´"
 	Hombre[16]<- "                                                                                           L         \"
 	Hombre[17]<- "                                                                                           |   \      \"
 	Hombre[18]<- "                                                                                            \   L     )"
 	Hombre[19]<- "                                                                                             L_ (      \"
 	Hombre[20]<- "                                                                                             |   \  .  J"
 	Hombre[21]<- "                                                                                             |    `.    \"
-	Hombre[22]<- "                                                                                          _.-`--=´  \    )"
-	Hombre[23]<- "                                                                                         (   _-´     `--´\"
-	Hombre[24]<- "                                                                                          ´´´        / ´ J"
+	Hombre[22]<- "                                                                                          _.-`--=Â´  \    )"
+	Hombre[23]<- "                                                                                         (   _-Â´     `--Â´\"
+	Hombre[24]<- "                                                                                          Â´Â´Â´        / Â´ J"
 	Hombre[25]<- "                                                                                                    (,_./"
 	
 	Dimension Prision[13]
@@ -1898,26 +1898,26 @@ Algoritmo new_menu
 	Dimension Finales[22]
 	
 	Finales[1]<- "                                                              88888888888888888888888888888888888888888888888888888888888888888888888"
-	Finales[2]<- "                                                              88.._|      | `-.  | `.  -_-_ _-_  _-  _- -_ -  .´|   |.´|     |  _..88"
-	Finales[3]<- "                                                              88   `-.._  |    |`!  |`.  -_ -__ -_ _- _-_-  .´  |.;´   |   _.!-´|  88"
-	Finales[4]<- "                                                              88      | `-!._  |  `;!  ;. _______________ ,´| .-´ |   _!.i´     |  88"
-	Finales[5]<- "                                                              88..__  |     |`-!._ | `.| |_______________||.´´|  _!.;´   |     _|..88"
-	Finales[6]<- "                                                              88   |``´..__ |    |`´;.| i|_|MMMMMMMMMMM|_||´| _!-|   |   _|..-|´   88|"
-	Finales[7]<- "                                                              88   |      |``--..|_ | `;!|l|MMoMMMMoMMM|1||´j   |_..!-´|     |     88"
-	Finales[8]<- "                                                              88   |      |    |   |`-,!_|_|MMMMP´YMMMM|_||.!-;´  |    |     |     88"
+	Finales[2]<- "                                                              88.._|      | `-.  | `.  -_-_ _-_  _-  _- -_ -  .Â´|   |.Â´|     |  _..88"
+	Finales[3]<- "                                                              88   `-.._  |    |`!  |`.  -_ -__ -_ _- _-_-  .Â´  |.;Â´   |   _.!-Â´|  88"
+	Finales[4]<- "                                                              88      | `-!._  |  `;!  ;. _______________ ,Â´| .-Â´ |   _!.iÂ´     |  88"
+	Finales[5]<- "                                                              88..__  |     |`-!._ | `.| |_______________||.Â´Â´|  _!.;Â´   |     _|..88"
+	Finales[6]<- "                                                              88   |``Â´..__ |    |`Â´;.| i|_|MMMMMMMMMMM|_||Â´| _!-|   |   _|..-|Â´   88|"
+	Finales[7]<- "                                                              88   |      |``--..|_ | `;!|l|MMoMMMMoMMM|1||Â´j   |_..!-Â´|     |     88"
+	Finales[8]<- "                                                              88   |      |    |   |`-,!_|_|MMMMPÂ´YMMMM|_||.!-;Â´  |    |     |     88"
 	Finales[9]<- "                                                              88___|______|____!.,.!,.!,!|d|MMMo * loMM|p|,!,.!.,.!..__|_____|_____88"
 	Finales[10]<- "                                                              88      |     |    |  |  | |_|MMMMb,dMMMM|_|| |   |   |    |      |  88"
-	Finales[11]<- "                                                              88      |     |    |..!-;´i|r|MPYMoMMMMoM|r|| |`-.|   |    |      |  88"
-	Finales[12]<- "                                                              88      |    _!.-j´  | _!,´|_|M<>MMMMoMMM|_||!._|  `i-!.._ |      |  88"
-	Finales[13]<- "                                                              88     _!.-´|    | _.´|  !;|1|MbdMMoMMMMM|l|`.| `-._|    |``-.._  |  88"
-	Finales[14]<- "                                                              88..-i´     |  _.´´|  !-| !|_|MMMoMMMMoMM|_|.|`-. | ``._ |     |``´..88"
-	Finales[15]<- "                                                              88   |      |.|    |.|  !| |u|MoMMMMoMMMM|n||`. |`!   | `´.    |     88"
-	Finales[16]<- "                                                              88   |  _.-´  |  .´  |.´ |/|_|MMMMoMMMMoM|_|! |`!  `,.|    |-._|     88"
-	Finales[17]<- "                                                              88  _!´´|     !.´|  .´| .´|[@]MMMMMMMMMMM[@] \|  `. | `._  |   `-._  88"
-	Finales[18]<- "                                                              88-´    |   .´   |.|  |/| /                 \|`.  |`!    |.|      |`-88"
-	Finales[19]<- "                                                              88      |_.´|   .´ | .´ |/                   \  \ |  `.  | `._    |  88"
-	Finales[20]<- "                                                              88     .´   | .´   |/|  /                     \ |`!   |`.|    `.  |  88"
-	Finales[21]<- "                                                              88  _.´     !´|   .´ | /                       \|  `  |  `.    |`.|  88"
+	Finales[11]<- "                                                              88      |     |    |..!-;Â´i|r|MPYMoMMMMoM|r|| |`-.|   |    |      |  88"
+	Finales[12]<- "                                                              88      |    _!.-jÂ´  | _!,Â´|_|M<>MMMMoMMM|_||!._|  `i-!.._ |      |  88"
+	Finales[13]<- "                                                              88     _!.-Â´|    | _.Â´|  !;|1|MbdMMoMMMMM|l|`.| `-._|    |``-.._  |  88"
+	Finales[14]<- "                                                              88..-iÂ´     |  _.Â´Â´|  !-| !|_|MMMoMMMMoMM|_|.|`-. | ``._ |     |``Â´..88"
+	Finales[15]<- "                                                              88   |      |.|    |.|  !| |u|MoMMMMoMMMM|n||`. |`!   | `Â´.    |     88"
+	Finales[16]<- "                                                              88   |  _.-Â´  |  .Â´  |.Â´ |/|_|MMMMoMMMMoM|_|! |`!  `,.|    |-._|     88"
+	Finales[17]<- "                                                              88  _!Â´Â´|     !.Â´|  .Â´| .Â´|[@]MMMMMMMMMMM[@] \|  `. | `._  |   `-._  88"
+	Finales[18]<- "                                                              88-Â´    |   .Â´   |.|  |/| /                 \|`.  |`!    |.|      |`-88"
+	Finales[19]<- "                                                              88      |_.Â´|   .Â´ | .Â´ |/                   \  \ |  `.  | `._    |  88"
+	Finales[20]<- "                                                              88     .Â´   | .Â´   |/|  /                     \ |`!   |`.|    `.  |  88"
+	Finales[21]<- "                                                              88  _.Â´     !Â´|   .Â´ | /                       \|  `  |  `.    |`.|  88"
 	Finales[22]<- "                                                              88888888888888888888888888888888888888888888888888888888888888888888888"
 
 
@@ -2120,7 +2120,7 @@ Algoritmo new_menu
 		1:
 			Borrar Pantalla
 			juegos
-			escribir'¿Que deseas jugar?'
+			escribir'Â¿Que deseas jugar?'
 			leer elec_juego
 			///eleccion de juego___________________________________________________________________________________________________________________________
 			segun elec_juego Hacer
@@ -2244,13 +2244,13 @@ Algoritmo new_menu
 							2: escribir 'instrucciones' 
 								esperar 1 Segundos
 								Borrar Pantalla
-								escribir '             ¿Cómo se juega a Wordle?'
+								escribir '             Â¿CÃ³mo se juega a Wordle?'
 								esperar 2 segundos
 								escribir '             Adivina la palabra oculta en seis intentos. '
 								esperar 2 Segundos
-								escribir '             Cada intento debe ser una palabra válida de 4 letras.'
+								escribir '             Cada intento debe ser una palabra vÃ¡lida de 4 letras.'
 								esperar 2 Segundos
-								escribir'              Después de cada intento se indicaran las letras correctas para mostrar qué tan cerca estás de acertar la palabra.'
+								escribir'              DespuÃ©s de cada intento se indicaran las letras correctas para mostrar quÃ© tan cerca estÃ¡s de acertar la palabra.'
 								esperar 2 segundos
 								escribir '        0 para volver al menu de Wordle   |1 para jugar | 3 para salir al menu principal |'
 								leer elec_w
@@ -2297,7 +2297,7 @@ Algoritmo new_menu
 								FinPara
 								
 								Escribir ""
-								Escribir "                                                                                    ¿Que desea hacer?"
+								Escribir "                                                                                    Â¿Que desea hacer?"
 								Escribir ""
 								Escribir "                                                                                       1. Jugar"
 								Escribir "                                                                                  2. Ver Instrucciones"
@@ -2318,7 +2318,7 @@ Algoritmo new_menu
 									Leer apellido
 									Borrar Pantalla
 									Escribir "Bienvenido soldado ", apellido
-									Escribir "Sus examenes en La Academia fueron record. Por eso es que está aquí."
+									Escribir "Sus examenes en La Academia fueron record. Por eso es que estÃ¡ aquÃ­."
 									Esperar 1 segundo
 									Escribir "Gracias a sus distinguidas capacidades de combate, usted fue seleccionado."
 									Esperar 1 segundo
@@ -2330,7 +2330,7 @@ Algoritmo new_menu
 									Esperar 1 segundo
 									Escribir "Tendran en cuenta este ataque, asi que este preparado para una segunda tactica ofensiva."
 									Esperar 1 segundo
-									Escribir "Aun asi, debemos estar preparados. Tenga, la contraseña del Transbordador es: Toro Centauro Gallo"
+									Escribir "Aun asi, debemos estar preparados. Tenga, la contraseÃ±a del Transbordador es: Toro Centauro Gallo"
 									Esperar 1 segundo
 									Escribir "Mucha suerte. Estese atento."
 									Escribir "(Ingrese tecla para continuar)"
@@ -2530,19 +2530,19 @@ Algoritmo new_menu
 									
 									Escribir "Una vez mas, estoy impresionado con sus habilidades soldado ", apellido
 									Esperar 1 Segundos
-									Escribir "Vamos a necesitar que uses el Transbordador. Ve, ingresa la contraseña y salva al Brigadier."
+									Escribir "Vamos a necesitar que uses el Transbordador. Ve, ingresa la contraseÃ±a y salva al Brigadier."
 									Escribir "(Ingrese tecla para continuar)"
 									Esperar Tecla
 									Borrar Pantalla
-									//INGRESAR CONTRASEÑA
+									//INGRESAR CONTRASEÃ‘A
 									Repetir
-										Escribir "Ingrese parte 1 de la contraseña:"
+										Escribir "Ingrese parte 1 de la contraseÃ±a:"
 										Leer clave1
 										Si clave1=respClave1
-											Escribir "Ingrese parte 2 de la contraseña:"
+											Escribir "Ingrese parte 2 de la contraseÃ±a:"
 											Leer clave2
 											Si (clave2 = respClave2)
-												Escribir "Ingrese parte 3 de la contraseña:"
+												Escribir "Ingrese parte 3 de la contraseÃ±a:"
 												Leer clave3
 												Si clave3 = respClave3
 													claveCorrecto <- 1
@@ -2558,7 +2558,7 @@ Algoritmo new_menu
 									Hasta Que intentoClave = 0 o claveCorrecto = 1
 									Si intentoClave = 1 Entonces
 										Esperar 2 Segundos
-										Escribir "Contraseña correcta."
+										Escribir "ContraseÃ±a correcta."
 										Esperar 2 Segundos
 										Borrar Pantalla
 										Escribir "Terminemos con esto..."
@@ -2678,7 +2678,7 @@ Algoritmo new_menu
 										Escribir "Completaste Haatak con exito."
 										Escribir "Tu puntaje es de: ", puntosAcum
 										Escribir ""
-										Escribir "¿Deseas volver a jugar?"
+										Escribir "Â¿Deseas volver a jugar?"
 										Escribir "0 = Volver al menu"
 										Escribir "1 = Volver a jugar"
 										Escribir ""
@@ -2743,17 +2743,17 @@ Algoritmo new_menu
 								Escribir "                                                                                    /   \     /   \"
 								Escribir "                                                                                   /     )-.-(     \"
 								Escribir "                                                                                  /     ( 6 6 )     \"
-								Escribir "                                                                                 /       \ ´ /       \"
+								Escribir "                                                                                 /       \ Â´ /       \"
 								Escribir "                                                                                /         )=(         \"
-								Escribir "                                                                               /  o    .--´-´--.    o  \"
+								Escribir "                                                                               /  o    .--Â´-Â´--.    o  \"
 								Escribir "                                                                              /   I   /  -   -  \   I   \"
 								Escribir "                                                                          .--(   (_} //\       /\\ {_)   )--."
 								Escribir "                                                                         (    \.__||\/__\_____/__\/||___,/    )"
 								Escribir "                                                                          \                                 /"
 								Escribir "                                                                           \-._      o O o O o O o      _,-/"
-								Escribir "                                                                               `--Y--.___________.--Y--´"
+								Escribir "                                                                               `--Y--.___________.--Y--Â´"
 								Escribir "                                                                                  |==.___________.==|"
-								Escribir "                                                                                  `==.___________.==´"
+								Escribir "                                                                                  `==.___________.==Â´"
 								Escribir "                                                                                   /    Creditos:   \"
 								Escribir "                                                                                  /                  \"
 								Escribir "                                                                                 /   Luciano Peluso   \"
@@ -2774,8 +2774,8 @@ Algoritmo new_menu
 								FinMientras
 							5: 
 								Borrar Pantalla
-								Escribir"¡Perdiste!"
-								Escribir "La contraseña era Toro Centauro Gallo"
+								Escribir"Â¡Perdiste!"
+								Escribir "La contraseÃ±a era Toro Centauro Gallo"
 								Escribir "Escribe: "
 								Escribir "0: Para volver al menu"
 								Escribir "1: Para volver a jugar"
@@ -2860,14 +2860,14 @@ Algoritmo new_menu
 										aux<-ConvertirATexto(66-pasos)
 										//_________________________________________
 										caballoBlancas[1] <- "####(\=,#####"
-										caballoBlancas[2] <- "###//  °\####"
+										caballoBlancas[2] <- "###//  Â°\####"
 										caballoBlancas[3] <- "##(( \_  \###"
 										caballoBlancas[4] <- "##))/  `\_)##"
 										caballoBlancas[5] <- "##(/    |####"
 										caballoBlancas[6] <- "##[_______]##"
 										//_________________________________________
 										caballoNegras[1] <- "    (\=,     "
-										caballoNegras[2] <- "   //##°\    "
+										caballoNegras[2] <- "   //##Â°\    "
 										caballoNegras[3] <- "  (( \###\   "
 										caballoNegras[4] <- "  ))/##`\#)  "
 										caballoNegras[5] <- "  (/####|    "
@@ -2875,7 +2875,7 @@ Algoritmo new_menu
 										Si (pasos=65) Entonces
 											Escribir "                                                                              Elegir Posicion inicial"
 										SiNo
-											Escribir "                                                                            ¿Cual es tu proxima jugada?"
+											Escribir "                                                                            Â¿Cual es tu proxima jugada?"
 										FinSi
 										Escribir "                                                                                     Columna (A - H): "
 										Leer MovimientoC
@@ -3138,7 +3138,7 @@ Algoritmo new_menu
 												FinSi
 											1:
 												Si (pasos<65) Entonces
-													Escribir "Esta casilla ya está ocupada."
+													Escribir "Esta casilla ya estÃ¡ ocupada."
 												FinSi
 											2:
 												valipos[MovimientoColumna,MovimientoFila] <- 1
@@ -3286,67 +3286,67 @@ Algoritmo new_menu
 													CasillasNoDis<-CasillasNoDis+1
 												Fin Si
 										FinSegun
-										tableroN[1,1]<-"|°|----------"
-										tableroN[2,1]<-"|°|   ( _ )  "
-										tableroN[3,1]<-"|°|   / _ \  "
-										tableroN[4,1]<-"|°|  | (_) | "
-										tableroN[5,1]<-"|°|   \___/  "
-										tableroN[6,1]<-"|°|----------"
+										tableroN[1,1]<-"|Â°|----------"
+										tableroN[2,1]<-"|Â°|   ( _ )  "
+										tableroN[3,1]<-"|Â°|   / _ \  "
+										tableroN[4,1]<-"|Â°|  | (_) | "
+										tableroN[5,1]<-"|Â°|   \___/  "
+										tableroN[6,1]<-"|Â°|----------"
 										//-------------------
-										tableroN[1,2]<-"|°|----------"
-										tableroN[2,2]<-"|°|  |___  | "
-										tableroN[3,2]<-"|°|     / / "
-										tableroN[4,2]<-"|°|    / /   "
-										tableroN[5,2]<-"|°|   / /    "
-										tableroN[6,2]<-"|°|----------"
+										tableroN[1,2]<-"|Â°|----------"
+										tableroN[2,2]<-"|Â°|  |___  | "
+										tableroN[3,2]<-"|Â°|     / / "
+										tableroN[4,2]<-"|Â°|    / /   "
+										tableroN[5,2]<-"|Â°|   / /    "
+										tableroN[6,2]<-"|Â°|----------"
 										//-------------------
-										tableroN[1,3]<-"|°|----------"
-										tableroN[2,3]<-"|°|   / /_   "
-										tableroN[3,3]<-"|°|  |    \  "
-										tableroN[4,3]<-"|°|  | (_) | "
-										tableroN[5,3]<-"|°|   \___/  "
-										tableroN[6,3]<-"|°|----------"
+										tableroN[1,3]<-"|Â°|----------"
+										tableroN[2,3]<-"|Â°|   / /_   "
+										tableroN[3,3]<-"|Â°|  |    \  "
+										tableroN[4,3]<-"|Â°|  | (_) | "
+										tableroN[5,3]<-"|Â°|   \___/  "
+										tableroN[6,3]<-"|Â°|----------"
 										//-------------------
-										tableroN[1,4]<-"|°|----------"
-										tableroN[2,4]<-"|°|  | ___|  "
-										tableroN[3,4]<-"|°|  |___ \  "
-										tableroN[4,4]<-"|°|   ___) | "
-										tableroN[5,4]<-"|°|  |____/  "
-										tableroN[6,4]<-"|°|----------"
+										tableroN[1,4]<-"|Â°|----------"
+										tableroN[2,4]<-"|Â°|  | ___|  "
+										tableroN[3,4]<-"|Â°|  |___ \  "
+										tableroN[4,4]<-"|Â°|   ___) | "
+										tableroN[5,4]<-"|Â°|  |____/  "
+										tableroN[6,4]<-"|Â°|----------"
 										//-------------------
-										tableroN[1,5]<-"|°|----------"
-										tableroN[2,5]<-"|°|  | || |  "
-										tableroN[3,5]<-"|°|  | || |_ "
-										tableroN[4,5]<-"|°|  |__   _|"
-										tableroN[5,5]<-"|°|     |_|  "
-										tableroN[6,5]<-"|°|----------"
+										tableroN[1,5]<-"|Â°|----------"
+										tableroN[2,5]<-"|Â°|  | || |  "
+										tableroN[3,5]<-"|Â°|  | || |_ "
+										tableroN[4,5]<-"|Â°|  |__   _|"
+										tableroN[5,5]<-"|Â°|     |_|  "
+										tableroN[6,5]<-"|Â°|----------"
 										//-------------------
-										tableroN[1,6]<-"|°|----------"
-										tableroN[2,6]<-"|°|  |___ /  "
-										tableroN[3,6]<-"|°|    |_ \  "
-										tableroN[4,6]<-"|°|   ___) | "
-										tableroN[5,6]<-"|°|  |____/  "
-										tableroN[6,6]<-"|°|----------"
+										tableroN[1,6]<-"|Â°|----------"
+										tableroN[2,6]<-"|Â°|  |___ /  "
+										tableroN[3,6]<-"|Â°|    |_ \  "
+										tableroN[4,6]<-"|Â°|   ___) | "
+										tableroN[5,6]<-"|Â°|  |____/  "
+										tableroN[6,6]<-"|Â°|----------"
 										//-------------------
-										tableroN[1,7]<-"|°|----------"
-										tableroN[2,7]<-"|°|  |___ \  "
-										tableroN[3,7]<-"|°|    __) | "
-										tableroN[4,7]<-"|°|  / __/   "
-										tableroN[5,7]<-"|°|  |_____| "
-										tableroN[6,7]<-"|°|----------"
+										tableroN[1,7]<-"|Â°|----------"
+										tableroN[2,7]<-"|Â°|  |___ \  "
+										tableroN[3,7]<-"|Â°|    __) | "
+										tableroN[4,7]<-"|Â°|  / __/   "
+										tableroN[5,7]<-"|Â°|  |_____| "
+										tableroN[6,7]<-"|Â°|----------"
 										//-------------------
-										tableroN[1,8]<-"|°|----------"
-										tableroN[2,8]<-"|°|    / |   "
-										tableroN[3,8]<-"|°|    | |   "
-										tableroN[4,8]<-"|°|    | |   "
-										tableroN[5,8]<-"|°|    |_|   "
-										tableroN[6,8]<-"|°|----------"
+										tableroN[1,8]<-"|Â°|----------"
+										tableroN[2,8]<-"|Â°|    / |   "
+										tableroN[3,8]<-"|Â°|    | |   "
+										tableroN[4,8]<-"|Â°|    | |   "
+										tableroN[5,8]<-"|Â°|    |_|   "
+										tableroN[6,8]<-"|Â°|----------"
 										//-------------------
 										Escribir "                                                          --------------------------------------------------------------------------------------------------------------------"
 										Escribir "                                                         | -----------------------------------------------------------------------------------------------------------------  |"
 										Para i<-1 Hasta fila-1 Con Paso 1 Hacer
 											Para j<-1 Hasta columna-1 Con Paso 1 Hacer
-												Escribir "                                                         |°|";sin saltar;
+												Escribir "                                                         |Â°|";sin saltar;
 												Escribir tablero1[j,i]," "; sin saltar;
 												Escribir tablero2[j,i]," "; sin saltar;
 												Escribir tablero3[j,i]," "; sin saltar;
@@ -3373,63 +3373,63 @@ Algoritmo new_menu
 								Si pasos=1
 									Escribir "                                                                                            *******************************************************"
 									Escribir "                                                                                            *                                                     *"
-									Escribir "                                                                                            *                   ¡Felicidades!                     *"
+									Escribir "                                                                                            *                   Â¡Felicidades!                     *"
 									Escribir "                                                                                            *                                                     *"
 									Escribir "                                                                                            *******************************************************"
 								SiNo
 									Escribir "                                                                                            *******************************************************"
 									Escribir "                                                                                            *                                                     *"
-									Escribir "                                                                                            *              ¡Te quedaste sin movimientos!          *"
+									Escribir "                                                                                            *              Â¡Te quedaste sin movimientos!          *"
 									Escribir "                                                                                            *                                                     *"
 									Escribir "                                                                                            *******************************************************"
 								FinSi
 								
 							2:
 								Borrar Pantalla
-								Escribir "                                                  `T´,.`-,                                           .....     .                   .x+=:.        s                                                       .                                            .x+=:.   "
-								Escribir "                                                     ´8, :.                                       .d88888Neu. ´L                 z`    ^%      :8                                                      @88>                                         z`    ^%  "
-								Escribir "                                              `´´`oooob.´T,.                                      F´´´´*8888888F    u.    u.        .   <k    .88       .u    .      x.    .                           %8P          u.      u.    u.                   .   <k "
-								Escribir "                                            ,-`´.)O;8:doob.´-.                                   *      `´*88*´   x@88k u@88c.    .@8Ned8´   :888ooo  .d88B :@8c   .@88k  z88u         .         .      .     ...ue888b   x@88k u@88c.      .u       .@8Ned8´ "
-								Escribir "                                     ,..`´.´´ -dP()d8O8Yo8:,..`,                                  -....    ue=:. ^´8888´´8888´  .@^%8888´  -*8888888 =´8888f8888r ~´8888 ^8888    .udR88N   .udR88N   .@88u   888R Y888r ^´8888´´8888´   ud8888.   .@^%8888´  "
-								Escribir "                                   -o8b-     ,..)doOO8:´:o; `Y8.`,                                       :88N  `   8888  888R  x88:  `)8b.   8888      4888>´88´    8888  888R   <888´888k <888´888k ´´888E`  888R I888>   8888  888R  :888´8888. x88:  `)8b. "
-								Escribir "                                  ,..bo.,.....)OOO888o´ :oO.  ´.  `-.                                    9888L     8888  888R  8888N=*8888   8888      4888> ´      8888  888R   9888 ´Y´  9888 ´Y´    888E   888R I888>   8888  888R  d888 ´88%´ 8888N=*8888 "
-								Escribir "                                , ´`´d....88OOOOO8O88o  :O8o;.    ;;,b                            uzu.   `8888L    8888  888R   %8´    R88   8888      4888>        8888  888R   9888      9888        888E   888R I888>   8888  888R  8888.+´     %8´    R88 "
-								Escribir "                               ,dOOOOO´´´´´´´´O88888o:  :O88Oo.;:o888d                          ,´´888i   ?8888    8888  888R    @8Wou 9%   .8888Lu=  .d888L .+     8888 ,888B . 9888      9888        888E  u8888cJ888    8888  888R  8888L        @8Wou 9%  "
-								Escribir "                               ´´888Ob...,-- :o88O88o:. :o´´´´´´´´Y8OP                          4  9888L   %888>  ´*88*´ 8888´ .888888P`    ^%888*    ^´8888*´     ´8888Y 8888´  ?8888u../ ?8888u../   888&   ´*888*P´    ´*88*´ 8888´ ´8888c. .+ .888888P`  "
-								Escribir "                               d8888.....,.. :o8OO888:: ::                                       ´  ´8888   ´88%     ´´   ´Y´   `   ^´F        ´Y´        ´Y´        `Y´   ´YP     ´8888P´   ´8888P´    R888´    ´Y´         ´´   ´Y´    ´88888%   `   ^´F   "
-								Escribir "                              ´´ .dOO8bo`´´,,;O88O:O8o: ::,                                            ´*8Nu.z*´                                                                      ´P´       ´P´       ´´                                ´YP´                "
-								Escribir "                                 ,dd8´.  ,-)do8O8o:´´´; :::"
+								Escribir "                                                  `TÂ´,.`-,                                           .....     .                   .x+=:.        s                                                       .                                            .x+=:.   "
+								Escribir "                                                     Â´8, :.                                       .d88888Neu. Â´L                 z`    ^%      :8                                                      @88>                                         z`    ^%  "
+								Escribir "                                              `Â´Â´`oooob.Â´T,.                                      FÂ´Â´Â´Â´*8888888F    u.    u.        .   <k    .88       .u    .      x.    .                           %8P          u.      u.    u.                   .   <k "
+								Escribir "                                            ,-`Â´.)O;8:doob.Â´-.                                   *      `Â´*88*Â´   x@88k u@88c.    .@8Ned8Â´   :888ooo  .d88B :@8c   .@88k  z88u         .         .      .     ...ue888b   x@88k u@88c.      .u       .@8Ned8Â´ "
+								Escribir "                                     ,..`Â´.Â´Â´ -dP()d8O8Yo8:,..`,                                  -....    ue=:. ^Â´8888Â´Â´8888Â´  .@^%8888Â´  -*8888888 =Â´8888f8888r ~Â´8888 ^8888    .udR88N   .udR88N   .@88u   888R Y888r ^Â´8888Â´Â´8888Â´   ud8888.   .@^%8888Â´  "
+								Escribir "                                   -o8b-     ,..)doOO8:Â´:o; `Y8.`,                                       :88N  `   8888  888R  x88:  `)8b.   8888      4888>Â´88Â´    8888  888R   <888Â´888k <888Â´888k Â´Â´888E`  888R I888>   8888  888R  :888Â´8888. x88:  `)8b. "
+								Escribir "                                  ,..bo.,.....)OOO888oÂ´ :oO.  Â´.  `-.                                    9888L     8888  888R  8888N=*8888   8888      4888> Â´      8888  888R   9888 Â´YÂ´  9888 Â´YÂ´    888E   888R I888>   8888  888R  d888 Â´88%Â´ 8888N=*8888 "
+								Escribir "                                , Â´`Â´d....88OOOOO8O88o  :O8o;.    ;;,b                            uzu.   `8888L    8888  888R   %8Â´    R88   8888      4888>        8888  888R   9888      9888        888E   888R I888>   8888  888R  8888.+Â´     %8Â´    R88 "
+								Escribir "                               ,dOOOOOÂ´Â´Â´Â´Â´Â´Â´Â´O88888o:  :O88Oo.;:o888d                          ,Â´Â´888i   ?8888    8888  888R    @8Wou 9%   .8888Lu=  .d888L .+     8888 ,888B . 9888      9888        888E  u8888cJ888    8888  888R  8888L        @8Wou 9%  "
+								Escribir "                               Â´Â´888Ob...,-- :o88O88o:. :oÂ´Â´Â´Â´Â´Â´Â´Â´Y8OP                          4  9888L   %888>  Â´*88*Â´ 8888Â´ .888888P`    ^%888*    ^Â´8888*Â´     Â´8888Y 8888Â´  ?8888u../ ?8888u../   888&   Â´*888*PÂ´    Â´*88*Â´ 8888Â´ Â´8888c. .+ .888888P`  "
+								Escribir "                               d8888.....,.. :o8OO888:: ::                                       Â´  Â´8888   Â´88%     Â´Â´   Â´YÂ´   `   ^Â´F        Â´YÂ´        Â´YÂ´        `YÂ´   Â´YP     Â´8888PÂ´   Â´8888PÂ´    R888Â´    Â´YÂ´         Â´Â´   Â´YÂ´    Â´88888%   `   ^Â´F   "
+								Escribir "                              Â´Â´ .dOO8bo`Â´Â´,,;O88O:O8o: ::,                                            Â´*8Nu.z*Â´                                                                      Â´PÂ´       Â´PÂ´       Â´Â´                                Â´YPÂ´                "
+								Escribir "                                 ,dd8Â´.  ,-)do8O8o:Â´Â´Â´; :::"
 								Escribir "                                 ,db(.  T)8P:8o:::::    :::"
-								Escribir "                                 -´´,`(;O´KdOo::        :::"
-								Escribir "                                   ,K,´´.doo:::´        :o:                                                                        El problema del caballo es un antiguo problema matemático en el que se pide que,"
-								Escribir "                                    .doo:::´´´::  :.    ´o:                                                             en el espacio de un tablero de ajedrez(8x8), se coloque un caballo de ajedrez en cualquier posición"
-								Escribir "        ,..            .;ooooooo..o:´´´´     ::;. ::;.  ´o.                                                                            y moviendose como tal pase por todas las casillas, sin repetir."
-								Escribir "   ,, ´´    ` ..   .d;o:´´´´                  ::o:;::o::  :;                                                                                                  Ahora...¡A jugar!"
-								Escribir "   d,         , ..ooo::;                      ::oo:;::o´´.:o"
-								Escribir "  ,d´.       :OOOOO8Oo::´ ´.. .               ::o8Ooo:;  ;o:"
-								Escribir "  ´P´   ;  ;.OPd8888O8::;. ´oOoo:.;..         ;:O88Ooo: ´O´´                                                                                           (ingrese 0 para volver al menú)"
-								Escribir "  ,8:   o::oO` 88888OOo:::  o8O8Oo:::;;     ,;:oO88OOo;  ´"
+								Escribir "                                 -Â´Â´,`(;OÂ´KdOo::        :::"
+								Escribir "                                   ,K,Â´Â´.doo:::Â´        :o:                                                                        El problema del caballo es un antiguo problema matemÃ¡tico en el que se pide que,"
+								Escribir "                                    .doo:::Â´Â´Â´::  :.    Â´o:                                                             en el espacio de un tablero de ajedrez(8x8), se coloque un caballo de ajedrez en cualquier posiciÃ³n"
+								Escribir "        ,..            .;ooooooo..o:Â´Â´Â´Â´     ::;. ::;.  Â´o.                                                                            y moviendose como tal pase por todas las casillas, sin repetir."
+								Escribir "   ,, Â´Â´    ` ..   .d;o:Â´Â´Â´Â´                  ::o:;::o::  :;                                                                                                  Ahora...Â¡A jugar!"
+								Escribir "   d,         , ..ooo::;                      ::oo:;::oÂ´Â´.:o"
+								Escribir "  ,dÂ´.       :OOOOO8Oo::Â´ Â´.. .               ::o8Ooo:;  ;o:"
+								Escribir "  Â´PÂ´   ;  ;.OPd8888O8::;. Â´oOoo:.;..         ;:O88Ooo: Â´OÂ´Â´                                                                                           (ingrese 0 para volver al menÃº)"
+								Escribir "  ,8:   o::oO` 88888OOo:::  o8O8Oo:::;;     ,;:oO88OOo;  Â´"
 								Escribir " ,YP  ,::;:O:  888888o::::  :8888Ooo::::::::::oo888888o;. ,"
-								Escribir " ´,d: :;;O;:   :888888::o;  :8888888Ooooooooooo88888888Oo; ,"
-								Escribir " dPY:  :o8O     YO8888O:O:;  O8888888888OOOO888´´ Y8o:O88o; ,"
-								Escribir ",´ O:  ´ob`      ´8888888Oo;;o8888888888888´´´     `8OO:.`OOb ."
-								Escribir "´  Y:  ,:o:       `8O88888OOoo´´´´´´´´´´´´           `OOob`Y8b`"
-								Escribir "   ::  ´;o:        `8O88o:oOoP                        `8Oo `YO."
+								Escribir " Â´,d: :;;O;:   :888888::o;  :8888888Ooooooooooo88888888Oo; ,"
+								Escribir " dPY:  :o8O     YO8888O:O:;  O8888888888OOOO888Â´Â´ Y8o:O88o; ,"
+								Escribir ",Â´ O:  Â´ob`      Â´8888888Oo;;o8888888888888Â´Â´Â´     `8OO:.`OOb ."
+								Escribir "Â´  Y:  ,:o:       `8O88888OOooÂ´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´           `OOob`Y8b`"
+								Escribir "   ::  Â´;o:        `8O88o:oOoP                        `8Oo `YO."
 								Escribir "   `:   Oo:         `888O::oP                          88O  :OY"
 								Escribir "    :o; 8oP         :888o::P                           do:  8O:"
-								Escribir "   ,ooO:8O´       ,d8888o:O´                          dOo   ;:."
-								Escribir "   ;O8odo´        88888O:o´                          do::  oo.:"
-								Escribir "  d´`)8O´         ´YO88Oo´                          ´8O:   o8b´"
-								Escribir " ´´-´`´            d:O8oK                          dOOo´  :o´:"
+								Escribir "   ,ooO:8OÂ´       ,d8888o:OÂ´                          dOo   ;:."
+								Escribir "   ;O8odoÂ´        88888O:oÂ´                          do::  oo.:"
+								Escribir "  dÂ´`)8OÂ´         Â´YO88OoÂ´                          Â´8O:   o8bÂ´"
+								Escribir " Â´Â´-Â´`Â´            d:O8oK                          dOOoÂ´  :oÂ´:"
 								Escribir "                   O:8o:b.                        :88o:   `8:,"
-								Escribir "                   `8O:;7b,.                       `´8´     Y:"
-								Escribir "                    `YO;`8b´"
+								Escribir "                   `8O:;7b,.                       `Â´8Â´     Y:"
+								Escribir "                    `YO;`8bÂ´"
 								Escribir "                     `Oo; 8:."	
-								Escribir "                      `OP´8.`"	
+								Escribir "                      `OPÂ´8.`"	
                                 Escribir "                       :  Y8P"	
 								Escribir "                       `o  `,"	
 								Escribir "                        Y8bod."	
-								Escribir "                        `´´´´´"	
+								Escribir "                        `Â´Â´Â´Â´Â´"	
 								Leer caballoMenu
 								Mientras (caballoMenu <> 0)
 									Leer caballoMenu
@@ -3454,33 +3454,33 @@ Algoritmo new_menu
 								Escribir ""
 								Escribir "         ,....,"
 								Escribir "      ,::::::<                                                                                                               ()"
-								Escribir "     ,::/^\´``.                                                                                                          .--:--:--."
+								Escribir "     ,::/^\Â´``.                                                                                                          .--:--:--."
 								Escribir "    ,::/, `   e`.           Y88b    /           ,e,                   e                         88~\                      \_____/     888~-_                      ,e,                        888~-_                     ,e, "
-								Escribir "   ,::; |        ´.          Y88b  /    /~~~8e   ´  888-~\           d8b      d88~\  e88~~8e  _888__                      {=====}     888   \   e88~~8e  888-~88e  ´   d88~\  e88~~8e        888   \   e88~~8e   e88~~\  ´  888-~88e-~88e   /~~~8e                        "
+								Escribir "   ,::; |        Â´.          Y88b  /    /~~~8e   Â´  888-~\           d8b      d88~\  e88~~8e  _888__                      {=====}     888   \   e88~~8e  888-~88e  Â´   d88~\  e88~~8e        888   \   e88~~8e   e88~~\  Â´  888-~88e-~88e   /~~~8e                        "
 								Escribir "   ,::|  \___,-.  c)          Y88b/         88b 888 888             /Y88b    C888   d888  88b  888                         )___(      888    | d888  88b 888  888 888 C888   d888  88b       888    | d888  88b d888    888 888  888  888       88b                    "
-								Escribir "   ;::|     \   ´-´            Y8Y     e88~-888 888 888            /  Y88b    Y88b  8888__888  888                        /_____\     888    | 8888__888 888  888 888  Y88b  8888__888       888    | 8888__888 8888    888 888  888  888  e88~-888                      "
+								Escribir "   ;::|     \   Â´-Â´            Y8Y     e88~-888 888 888            /  Y88b    Y88b  8888__888  888                        /_____\     888    | 8888__888 888  888 888  Y88b  8888__888       888    | 8888__888 8888    888 888  888  888  e88~-888                      "
 								Escribir "   ;::|      \                  Y     C888  888 888 888           /____Y88b    888D Y888    ,  888                         |   |      888   /  Y888    , 888  888 888   888D Y888    ,       888   /  Y888    , Y888    888 888  888  888 C888  888                     "
-								Escribir "   ;::|   _.=`\                /       ´88_-888 888 888          /      Y88b \_88P   ´88___/   888                         |   |      888_-~    ´88___/  888  888 888 \_88P   ´88___/        888_-~    ´88___/   ´88__/ 888 888  888  888  ´88_-888                      "
+								Escribir "   ;::|   _.=`\                /       Â´88_-888 888 888          /      Y88b \_88P   Â´88___/   888                         |   |      888_-~    Â´88___/  888  888 888 \_88P   Â´88___/        888_-~    Â´88___/   Â´88__/ 888 888  888  888  Â´88_-888                      "
 								Escribir "   `;:|.=` _.=`\                                                                                                           |   |"
-								Escribir "     ´|_.=`   __\                                                                                                          |   |"
+								Escribir "     Â´|_.=`   __\                                                                                                          |   |"
 								Escribir "     `\_..==`` /                                                                                                           |   |"
-								Escribir "      .´.___.-´.                                                                                                          /_____\"
+								Escribir "      .Â´.___.-Â´.                                                                                                          /_____\"
 								Escribir "     /          \                                                                                                        (=======)"
-								Escribir "    (´--......--´)                                                                                                       }======={"
-								Escribir "    /´--......--´\                                                                                                      (_________)"
-								Escribir "    `´--......--´"
+								Escribir "    (Â´--......--Â´)                                                                                                       }======={"
+								Escribir "    /Â´--......--Â´\                                                                                                      (_________)"
+								Escribir "    `Â´--......--Â´"
 								Escribir ""
 								Escribir "    _:_"
-								Escribir "   ´-.-´"
-								Escribir "  __.´.__"
+								Escribir "   Â´-.-Â´"
+								Escribir "  __.Â´.__"
 								Escribir " |_______|"
 								Escribir "  \=====/"
-								Escribir "   )___(     888                      ,e,                                   888~-_             888                                 |´-´-´|  ,d88~~\            88~\ ,e,                  e88~-_                        888          888                 "
-								Escribir "  /_____\    888     888  888  e88~~\  ´    /~~~8e  888-~88e  e88~-_        888   \   e88~~8e  888 888  888  d88~\  e88~-_         |_____|  8888     e88~-_  _888__  ´    /~~~8e        d888   \  e88~-_  888-~\  e88~\888  e88~-_  888-~88e    /~~~8e  "
+								Escribir "   )___(     888                      ,e,                                   888~-_             888                                 |Â´-Â´-Â´|  ,d88~~\            88~\ ,e,                  e88~-_                        888          888                 "
+								Escribir "  /_____\    888     888  888  e88~~\  Â´    /~~~8e  888-~88e  e88~-_        888   \   e88~~8e  888 888  888  d88~\  e88~-_         |_____|  8888     e88~-_  _888__  Â´    /~~~8e        d888   \  e88~-_  888-~\  e88~\888  e88~-_  888-~88e    /~~~8e  "
 								Escribir "   |   |     888     888  888 d888    888       88b 888  888 d888   i       888    | d888  88b 888 888  888 C888   d888   i         |===|   `Y88b   d888   i  888   888       88b       8888     d888   i 888    d888  888 d888   i 888  888b       88b "
 								Escribir "   |   |     888     888  888 8888    888  e88~-888 888  888 8888   |       888   /  8888__888 888 888  888  Y88b  8888   |         |   |    `Y88b, 8888   |  888   888  e88~-888       8888     8888   | 888    8888  888 8888   | 888  8888  e88~-888 "
-								Escribir "   |   |     888     888  888 Y888    888 C888  888 888  888 Y888   ´       888_-~   Y888    , 888 888  888   888D Y888   ´         |   |      8888 Y888   ´  888   888 C888  888       Y888   / Y888   ´ 888    Y888  888 Y888   ´ 888  888P C888  888 "
-								Escribir "   |   |     888____ ´88_-888  ´88__/ 888  ´88_-888 888  888  ´88_-~        888       ´88___/  888 ´88_-888 \_88P   ´88_-~          )___(   \__88P´  ´88_-~   888   888  ´88_-888        ´88_-~   ´88_-~  888     ´88_/888  ´88_-~  888-_88´   ´88_-888 "
+								Escribir "   |   |     888     888  888 Y888    888 C888  888 888  888 Y888   Â´       888_-~   Y888    , 888 888  888   888D Y888   Â´         |   |      8888 Y888   Â´  888   888 C888  888       Y888   / Y888   Â´ 888    Y888  888 Y888   Â´ 888  888P C888  888 "
+								Escribir "   |   |     888____ Â´88_-888  Â´88__/ 888  Â´88_-888 888  888  Â´88_-~        888       Â´88___/  888 Â´88_-888 \_88P   Â´88_-~          )___(   \__88PÂ´  Â´88_-~   888   888  Â´88_-888        Â´88_-~   Â´88_-~  888     Â´88_/888  Â´88_-~  888-_88Â´   Â´88_-888 "
 								Escribir "   |   |                                                                                                                            )___("
 								Escribir "  /_____\                                                                                                                          (=====)"
 								Escribir " (=======)                                                                                                                         }====={"
@@ -3586,32 +3586,32 @@ Algoritmo new_menu
 								Escribir '                                               MW   /%;@\     /%;@\     /%;@\     /%;@\     /%;@\     /%;@\     /%;@\   WM'
 								Escribir '                                               MW  o/@,%\o   o/@,%\o   o/@,%\o   o/@,%\o   o/@,%\o   o/@,%\o   o/@,%\o  WM'
 								Escribir '                                               MW  /%;`@,\   /%;`@,\   /%;`@,\   /%;`@,\   /%;`@,\   /%;`@,\   /%;`@,\  WM'
-								Escribir '                                               MW o/@´%´,\o o/@´%´,\o o/@´%´,\o o/@´%´,\o o/@´%´,\o o/@´%´,\o o/@´%´,\o WM'
-								Escribir '                                               MW ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ WM'
+								Escribir '                                               MW o/@Â´%Â´,\o o/@Â´%Â´,\o o/@Â´%Â´,\o o/@Â´%Â´,\o o/@Â´%Â´,\o o/@Â´%Â´,\o o/@Â´%Â´,\o WM'
+								Escribir '                                               MW Â´^^^=^^^Â´ Â´^^^=^^^Â´ Â´^^^=^^^Â´ Â´^^^=^^^Â´ Â´^^^=^^^Â´ Â´^^^=^^^Â´ Â´^^^=^^^Â´ WM'
 								Escribir '                                               MW     !     WMWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWMW     !     WM'
 								Escribir '                                               MW   -~*~-   WM                                             MW   -~*~-   WM'
 								Escribir '                                               MW    /!\    WM                                             MW    /!\    WM'
 								Escribir '                                               MW   /%;@\   WM               Denise Decima                 MW   /%;@\   WM'
 								Escribir '                                               MW  o/@,%\o  WM                                             MW  o/@,%\o  WM'
 								Escribir '                                               MW  /%;`@,\  WM                                             MW  /%;`@,\  WM'
-								Escribir '                                               MW o/@´%´,\o WM               Sofia Cordoba                 MW  /@´%´,\o WM'
-								Escribir '                                               MW ´^^^=^^^´ WM                                             MW ´^^^=^^^´ WM'
+								Escribir '                                               MW o/@Â´%Â´,\o WM               Sofia Cordoba                 MW  /@Â´%Â´,\o WM'
+								Escribir '                                               MW Â´^^^=^^^Â´ WM                                             MW Â´^^^=^^^Â´ WM'
 								Escribir '                                               MW     !     WM                                             MW     !     WM'
 								Escribir '                                               MW   -~*~-   WM                 Yair Asef                   MW   -~*~-   WM'
 								Escribir '                                               MW    /!\    WM                                             MW    /!\    WM'
 								Escribir '                                               MW   /%;@\   WM                                             MW   /%;@\   WM'
 								Escribir '                                               MW  o/@,%\o  WM               Luciano Peluso                MW  o/@,%\o  WM'
 								Escribir '                                               MW  /%;`@,\  WM                                             MW  /%;`@,\  WM'
-								Escribir '                                               MW o/@´%´,\o WM                                             MW  /@´%´,\o WM'
-								Escribir '                                               MW ´^^^=^^^´ WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW ´^^^=^^^´ WM'
+								Escribir '                                               MW o/@Â´%Â´,\o WM                                             MW  /@Â´%Â´,\o WM'
+								Escribir '                                               MW Â´^^^=^^^Â´ WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW Â´^^^=^^^Â´ WM'
 								Escribir '                                               MW     !         !         !         !         !         !         !     WM'
 								Escribir '                                               MW   -~*~-     -~*~-     -~*~-     -~*~-     -~*~-     -~*~-     -~*~-   WM'
 								Escribir '                                               MW    /!\       /!\       /!\       /!\       /!\       /!\       /!\    WM'
 								Escribir '                                               MW   /%;@\     /%;@\     /%;@\     /%;@\     /%;@\     /%;@\     /%;@\   WM'
 								Escribir '                                               MW  o/@,%\o   o/@,%\o   o/@,%\o   o/@,%\o   o/@,%\o   o/@,%\o   o/@,%\o  WM'
 								Escribir '                                               MW  /%;`@,\   /%;`@,\   /%;`@,\   /%;`@,\   /%;`@,\   /%;`@,\   /%;`@,\  WM'
-								Escribir '                                               MW o/@´%´,\o o/@´%´,\o o/@´%´,\o o/@´%´,\o o/@´%´,\o o/@´%´,\o o/@´%´,\o WM'
-								Escribir '                                               MW ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ ´^^^=^^^´ WM'
+								Escribir '                                               MW o/@Â´%Â´,\o o/@Â´%Â´,\o o/@Â´%Â´,\o o/@Â´%Â´,\o o/@Â´%Â´,\o o/@Â´%Â´,\o o/@Â´%Â´,\o WM'
+								Escribir '                                               MW Â´^^^=^^^Â´ Â´^^^=^^^Â´ Â´^^^=^^^Â´ Â´^^^=^^^Â´ Â´^^^=^^^Â´ Â´^^^=^^^Â´ Â´^^^=^^^Â´ WM'
 								Escribir '                                               WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW'
 								Escribir '                                                                                     Codigo creado para Laboratorio (2022)'
 								Escribir ' 0 = Atras'
@@ -3658,8 +3658,8 @@ Algoritmo new_menu
 								Escribir ''
 								Escribir '                                           Bulbhead es un juego de rol narrativo donde el usuario debera asumir el papel principal a lo largo de la historia. '
 								Escribir '                                        No hay un guion a seguir, ya que el desarrollo de la historia queda por completo sujeto a las decisiones del jugador.'
-								Escribir '                                                              El concepto básico es persiguir un fin común, resolver un misterio.'
-								Escribir '                                                Para poder interactuar deberás elegir mediante las teclas numerales, dependiendo de lo que desees.'
+								Escribir '                                                              El concepto bÃ¡sico es persiguir un fin comÃºn, resolver un misterio.'
+								Escribir '                                                Para poder interactuar deberÃ¡s elegir mediante las teclas numerales, dependiendo de lo que desees.'
 								Escribir '                                                                                           Pero recuerda: '
 								Escribir ""
 								Escribir '                                           ______/\\\______________/\\\\\\\\\___________________/\\\\\\\\\\_______________________/\\\____        '
@@ -3734,24 +3734,24 @@ Algoritmo new_menu
 							Escribir"                                                                                                [[__] |"
 							Escribir"                                                                               _________________||  |___"
 							Escribir"                                                                              /^^^^^^,-.^^^^^^^^\|__|^^^\"
-							Escribir"                                                                             /     ,´,-.`.               \"
-							Escribir"                                                                            /    ,´,´   ´.´.     ,-----.  \"
-							Escribir"                                                                           /___,´,´__   __`.`.__/_,´T´._\__\"
-							Escribir"                                                                            |=´-´||/\| |^^||`-`=|_|_|_|_|=|"
+							Escribir"                                                                             /     ,Â´,-.`.               \"
+							Escribir"                                                                            /    ,Â´,Â´   Â´.Â´.     ,-----.  \"
+							Escribir"                                                                           /___,Â´,Â´__   __`.`.__/_,Â´TÂ´._\__\"
+							Escribir"                                                                            |=Â´-Â´||/\| |^^||`-`=|_|_|_|_|=|"
 							Escribir"                                                                            |= = ||)(| |__||= ==|_|_|_|_|=|"
-							Escribir"                                                                            |= ==|´´´´ ´´´´ | = =____= =_==|"
+							Escribir"                                                                            |= ==|Â´Â´Â´Â´ Â´Â´Â´Â´ | = =____= =_==|"
 							Escribir"                                                                            |== =| __   __ |= =| [] | |^|=|"
 							Escribir"                                                                            |= ==||/\| |==||== |   o|=|_| |"
 							Escribir"                                                                            |== =||)(| |  || = | == | == =|"
-							Escribir"                                                                            |= ==|´´´´ ´´´´|== |____|= = =|"
-							Escribir"                                                                            ´´´´´|_________|´´´´==== ´´´´´´"
+							Escribir"                                                                            |= ==|Â´Â´Â´Â´ Â´Â´Â´Â´|== |____|= = =|"
+							Escribir"                                                                            Â´Â´Â´Â´Â´|_________|Â´Â´Â´Â´==== Â´Â´Â´Â´Â´Â´"
 							Escribir"                                                            __| |___________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________   __)"
 							Escribir"                                                              | |                                                           | |"
-							Escribir"                                                              | |   Han pasado 7 días desde que te mudaste a Buen Pastor.   | |"
-							Escribir"                                                              | |      Tu casa es promedio, muy similar a las demás y el    | |"
-							Escribir"                                                              | |      pueblo es pequeño, de casas bajas, exceptuando una   | |"
-							Escribir"                                                              | |        propiedad que llama la atención; Una mansión.      | |"
+							Escribir"                                                              | |   Han pasado 7 dÃ­as desde que te mudaste a Buen Pastor.   | |"
+							Escribir"                                                              | |      Tu casa es promedio, muy similar a las demÃ¡s y el    | |"
+							Escribir"                                                              | |      pueblo es pequeÃ±o, de casas bajas, exceptuando una   | |"
+							Escribir"                                                              | |        propiedad que llama la atenciÃ³n; Una mansiÃ³n.      | |"
 							Escribir"                                                              | |                                                           | |"
 							Escribir"                                                              | |                                                           | |"
 							Escribir"                                                            __| |___________________________________________________________| |__"
@@ -3764,30 +3764,30 @@ Algoritmo new_menu
 							Escribir""
 							Escribir""
 							Escribir"                                                                                        (IIIIIIIIIIIIIIIIIII)"
-							Escribir"                                                                                        )´.´.´.´:;:;:´.´.´.´("
-							Escribir"                                                                                        (´.´.´.;´  |`:.´.´.´)"
-							Escribir"                                                                                        )´.´.´;´   | `:´.´.´("
-							Escribir"                                                                                        (´.´.;|    |  `:.´.´)"
-							Escribir"                                                                                        )´.´;´|    |   `:´.´("
-							Escribir"                                                                                        (==@´ |    |    `@==)"
-							Escribir"                                                                                        )´.:__|  @()_____:.´("
-							Escribir"                                                                                        (´.´. | ()@()   .´.´)"
-							Escribir"                                                                                        )´.´. |()@()@)  .´.´("
-							Escribir"                                                                                        (´.´. | _\|/_   .´.´)"
-							Escribir"                                                                                        )´.´. ||-----|  .´.´("
-							Escribir"                                                                                        (´.´.___\___/___.´.´)"
-							Escribir"                                                                                        )´.´=============´.´("
-							Escribir"                                                                                        (´.´             ´.´)"
+							Escribir"                                                                                        )Â´.Â´.Â´.Â´:;:;:Â´.Â´.Â´.Â´("
+							Escribir"                                                                                        (Â´.Â´.Â´.;Â´  |`:.Â´.Â´.Â´)"
+							Escribir"                                                                                        )Â´.Â´.Â´;Â´   | `:Â´.Â´.Â´("
+							Escribir"                                                                                        (Â´.Â´.;|    |  `:.Â´.Â´)"
+							Escribir"                                                                                        )Â´.Â´;Â´|    |   `:Â´.Â´("
+							Escribir"                                                                                        (==@Â´ |    |    `@==)"
+							Escribir"                                                                                        )Â´.:__|  @()_____:.Â´("
+							Escribir"                                                                                        (Â´.Â´. | ()@()   .Â´.Â´)"
+							Escribir"                                                                                        )Â´.Â´. |()@()@)  .Â´.Â´("
+							Escribir"                                                                                        (Â´.Â´. | _\|/_   .Â´.Â´)"
+							Escribir"                                                                                        )Â´.Â´. ||-----|  .Â´.Â´("
+							Escribir"                                                                                        (Â´.Â´.___\___/___.Â´.Â´)"
+							Escribir"                                                                                        )Â´.Â´=============Â´.Â´("
+							Escribir"                                                                                        (Â´.Â´             Â´.Â´)"
 							Escribir "                                                                                         ~                 ~"
 							Escribir"                                                            __| |________________________________________________________________________| |__"
 							Escribir"                                                           (__   ________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                        | |"
-							Escribir"                                                              | |   Los días han sido tranquilos en tu nuevo hogar junto a tu gata Ceti. | |"
-							Escribir"                                                              | |         Pero un día al volver de tu trabajo te encuentras con una      | |"
+							Escribir"                                                              | |   Los dÃ­as han sido tranquilos en tu nuevo hogar junto a tu gata Ceti. | |"
+							Escribir"                                                              | |         Pero un dÃ­a al volver de tu trabajo te encuentras con una      | |"
 							Escribir"                                                              | |      ventana abierta. Te asomas a la ventana y escuchas un maullido.   | |"
-							Escribir"                                                              | |                 La gata podría haberse escapado.                       | |"
+							Escribir"                                                              | |                 La gata podrÃ­a haberse escapado.                       | |"
 							Escribir"                                                              | |                                                                        | |"
-							Escribir"                                                              | |                       ¿Qué decides hacer?                              | |"
+							Escribir"                                                              | |                       Â¿QuÃ© decides hacer?                              | |"
 							Escribir"                                                            __| |________________________________________________________________________| |__"
 							Escribir"                                                           (__   ________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                        | |"
@@ -3820,7 +3820,7 @@ Algoritmo new_menu
 										FinPara
 										Escribir""
 										Escribir ""
-										Escribir '                                                                      No parece estar por ningún sitio de la casa'
+										Escribir '                                                                      No parece estar por ningÃºn sitio de la casa'
 										Escribir""
 										Escribir '                                                               2 = Llamarla por su nombre | 3 = Buscarla en los alrededores'
 										Leer Respuesta1
@@ -3865,7 +3865,7 @@ Algoritmo new_menu
 											FinPara
 											Escribir""
 											Escribir""
-											Escribir '                                                                     No parece estar por ningún sitio de la casa'
+											Escribir '                                                                     No parece estar por ningÃºn sitio de la casa'
 											Escribir""
 											estado <- 3
 										Sino si Respuesta1 = 3
@@ -3910,11 +3910,11 @@ Algoritmo new_menu
 							Escribir"                                                           (__   ____________________________________________________________   __)"
 							Escribir"                                                              | |                                                            | |"
 							Escribir"                                                              | |        Inspeccionas el patio, no hay rastros de ella.      | |"
-							Escribir"                                                              | |          De repente vuelve a maullar, está vez oyes        | |"
-							Escribir"                                                              | |      la dirección de donde provino; La mansión vecina.     | |"
+							Escribir"                                                              | |          De repente vuelve a maullar, estÃ¡ vez oyes        | |"
+							Escribir"                                                              | |      la direcciÃ³n de donde provino; La mansiÃ³n vecina.     | |"
 							Escribir"                                                              | |                 Te acercas a la puerta.                    | |"
 							Escribir"                                                              | |                                                            | |"
-							Escribir"                                                              | |                    ¿Qué decides hacer?                     | |"
+							Escribir"                                                              | |                    Â¿QuÃ© decides hacer?                     | |"
 							Escribir"                                                            __| |____________________________________________________________| |__"
 							Escribir"                                                           (__   ____________________________________________________________   __)"
 							Escribir"                                                              | |                                                            | |"
@@ -3946,7 +3946,7 @@ Algoritmo new_menu
 											Escribir Gates(i)
 										FinPara
 										Escribir ""
-										Escribir '                                                                                   Nadie responde, al parecer no están en casa'
+										Escribir '                                                                                   Nadie responde, al parecer no estÃ¡n en casa'
 										Escribir""
 										Escribir '                                                                         2 =  Observar el patio detenidamente | 3 = Preguntar a los vecinos'
 										Leer Respuesta1
@@ -3957,7 +3957,7 @@ Algoritmo new_menu
 												Escribir Arbol(i)
 											FinPara
 											Escribir ""
-											Escribir '                                                                                 La mansión no solo es lujosa, también su patio.'
+											Escribir '                                                                                 La mansiÃ³n no solo es lujosa, tambiÃ©n su patio.'
 											Escribir "                                                                                    Parece un hogar sacado de una pelicula"
 											Escribir ""
 										Sino si Respuesta1 = 3 entonces
@@ -3970,7 +3970,7 @@ Algoritmo new_menu
 											Escribir Arbol(i)
 										FinPara
 										Escribir ""
-										Escribir '                                                                                 La mansión no solo es lujosa, también su patio.'
+										Escribir '                                                                                 La mansiÃ³n no solo es lujosa, tambiÃ©n su patio.'
 										Escribir "                                                                                    Parece un hogar sacado de una pelicula"
 										Escribir ""
 										Escribir "                                                                                1 = Tocar timbre | 3 = Preguntar a los vecinos"
@@ -3982,7 +3982,7 @@ Algoritmo new_menu
 											FinPara
 											Escribir""
 											Escribir""
-											Escribir '                                                                     Nadie responde, al parecer no están en casa'
+											Escribir '                                                                     Nadie responde, al parecer no estÃ¡n en casa'
 											estado <- 3
 										Sino si Respuesta1 = 3
 												estado <- 4
@@ -4019,11 +4019,11 @@ Algoritmo new_menu
 							Escribir"                                                                            |========| |____| |=========|"
 							Escribir"                                                                           (^^-^^^^^-|________|-^^^--^^^)"
 							Escribir"                                                                           (,, , ,, ,/________\,,,, ,, ,)"
-							Escribir"                                                                          ´,´´,,,,´ /__________\,,,´,´,;;"
+							Escribir"                                                                          Â´,Â´Â´,,,,Â´ /__________\,,,Â´,Â´,;;"
 							Escribir"                                                            __| |___________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________   __)"
 							Escribir"                                                              | |                                                           | |"
-							Escribir"                                                              | |                    DIRECCIÓN: LOS 30                      | |"
+							Escribir"                                                              | |                    DIRECCIÃ“N: LOS 30                      | |"
 							Escribir"                                                              | |           La casa continua se ve algo deteriorada,        | |"
 							Escribir"                                                              | |         tiene aspecto antiguo y el pasto no parece        | |"
 							Escribir"                                                              | |           haberse cortado de manera uniforme.             | |"
@@ -4116,27 +4116,27 @@ Algoritmo new_menu
 							Escribir"                                                                                                  .sSSSSSSSSSSSSSSSSs.               "
 							Escribir"                                                                                                .sSSS&&$$$$$$$$$$&&SSSs.             "
 							Escribir"                                                                                               sSSS&&$$$$$$$$$$$$$$&&SSSs.           "
-							Escribir"                                                                                             sSSS&&$$$88P^´  ´^T88$$$&&SSSs          "
-							Escribir"                                                                                            sSSS&$$8P´´          ´´T8$$&SSSs         "
-							Escribir"                                                                                           sSSS&$$$´.gfbn._  _.nfbs.´$$$&SSSs        "
+							Escribir"                                                                                             sSSS&&$$$88P^Â´  Â´^T88$$$&&SSSs          "
+							Escribir"                                                                                            sSSS&$$8PÂ´Â´          Â´Â´T8$$&SSSs         "
+							Escribir"                                                                                           sSSS&$$$Â´.gfbn._  _.nfbs.Â´$$$&SSSs        "
 							Escribir"                                                                                          sSSS&$$$8 ...__      __... 8$$$&SSSs       "
-							Escribir"                                                                                         !SSS&$$$$8 ´. o :    : o .´ 8$$$$&SSS!      "
-							Escribir"                                                                                         sSS&$$$$$8   ´-´   ´  ´-´   8$$$$$&SSs      "
+							Escribir"                                                                                         !SSS&$$$$8 Â´. o :    : o .Â´ 8$$$$&SSS!      "
+							Escribir"                                                                                         sSS&$$$$$8   Â´-Â´   Â´  Â´-Â´   8$$$$$&SSs      "
 							Escribir"                                                                                        !SS&$$$$$$!         :        !$$$$$$&SS!     "
-							Escribir"                                                                                        sSS&$$$$$8´          .       ´8$$$$$&SSs     "
-							Escribir"                                                                                       !SSS$$$$$$8        ._ ´        8$$$$$$SSS!    "
+							Escribir"                                                                                        sSS&$$$$$8Â´          .       Â´8$$$$$&SSs     "
+							Escribir"                                                                                       !SSS$$$$$$8        ._ Â´        8$$$$$$SSS!    "
 							Escribir"                                                                                       sSS&$$$$$$8                    8$$$$$$&SSs    "
 							Escribir"                                                                                       SSS&$$$$$8!       .=-._        !8$$$$$&SSS    "
-							Escribir"                                                                                      !SS&$$$$$88a       ´.-´´´        e88$$$$$&SS!   "
+							Escribir"                                                                                      !SS&$$$$$88a       Â´.-Â´Â´Â´        e88$$$$$&SS!   "
 							Escribir"                                                                                      sSS&$$$$P888p.-._          _.-.g888T$$$$&SSs   "
-							Escribir"                                                                                      SSS$$$$88888P´´-.´--.__.--´.-´´T88888$$$$&SS   "
-							Escribir"                                                                                       SSg$$$P88P^´     ´-.____.-´     ´^T88T$$$&SS   "
+							Escribir"                                                                                      SSS$$$$88888PÂ´Â´-.Â´--.__.--Â´.-Â´Â´T88888$$$$&SS   "
+							Escribir"                                                                                       SSg$$$P88P^Â´     Â´-.____.-Â´     Â´^T88T$$$&SS   "
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                              | |        De adentro escuchas la voz de lo que parece ser un hombre de edad adulta,          | |"
 							Escribir"                                                              | |          su grito es incomprensible. De repente, una mujer entreabre la puerta.             | |"
-							Escribir"                                                              | |      Vos te presentas y preguntas si han visto a tu gata por algún sitio.                 | |"
+							Escribir"                                                              | |      Vos te presentas y preguntas si han visto a tu gata por algÃºn sitio.                 | |"
 							Escribir"                                                              | |                      Ella finalmente abre por completo la puerta.                         | |"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
@@ -4150,33 +4150,33 @@ Algoritmo new_menu
 							Escribir""
 							Escribir ""
 							Escribir""
-							Escribir "                                                                                                __             _,-´~^´-."
-							Escribir "                                                                                              _// )      _,-´~`         `."
-							Escribir "                                                                                           .´ ( /`´-,-´`                 ;"
+							Escribir "                                                                                                __             _,-Â´~^Â´-."
+							Escribir "                                                                                              _// )      _,-Â´~`         `."
+							Escribir "                                                                                           .Â´ ( /`Â´-,-Â´`                 ;"
 							Escribir "                                                                                         / 6                             ;"
-							Escribir "                                                                                        /           ,             ,-´     ;"
+							Escribir "                                                                                        /           ,             ,-Â´     ;"
 							Escribir "                                                                                       (,__.--.      \           /        ;"
-							Escribir "                                                                                         //´   /`-.\   |          |         `._________"
-							Escribir "                                                                                            _.-´_/`  )  )--...,,,___\     \-----------,)"
-							Escribir "                                                                                         (((´~` _.-´.-´           __`-.   )         //"
-							Escribir "                                                                                               (((´`             (((---~´`         //"
+							Escribir "                                                                                         //Â´   /`-.\   |          |         `._________"
+							Escribir "                                                                                            _.-Â´_/`  )  )--...,,,___\     \-----------,)"
+							Escribir "                                                                                         (((Â´~` _.-Â´.-Â´           __`-.   )         //"
+							Escribir "                                                                                               (((Â´`             (((---~Â´`         //"
 							Escribir "                                                                                                                                  ((________________"
-							Escribir "                                                                                                                                 `----´´´´~~~~^^^```"
+							Escribir "                                                                                                                                 `----Â´Â´Â´Â´~~~~^^^```"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
-							Escribir"                                                              | |               -Vos sos el que se acaba de mudar del otro lado de la mansión.              | |"
-							Escribir"                                                              | |   Hace unos días te vimos llegar, el sonido del camión de mudanza no nos dejó dormir      | |"
+							Escribir"                                                              | |               -Vos sos el que se acaba de mudar del otro lado de la mansiÃ³n.              | |"
+							Escribir"                                                              | |   Hace unos dÃ­as te vimos llegar, el sonido del camiÃ³n de mudanza no nos dejÃ³ dormir      | |"
 							Escribir"                                                              | |       durante las tardes. Y no he visto a tu gata, seguro se ha ido a los bosques         | |"
-							Escribir"                                                              | |       persiguiendo algo. Hay muchos bichos y ratas. Y más con la mansión de al lado,      | |"
-							Escribir"                                                              | |                    solo pueden salir cosas asquerosas de ahí-                             | |"
+							Escribir"                                                              | |       persiguiendo algo. Hay muchos bichos y ratas. Y mÃ¡s con la mansiÃ³n de al lado,      | |"
+							Escribir"                                                              | |                    solo pueden salir cosas asquerosas de ahÃ­-                             | |"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir ""
 							Escribir ""
-							Escribir "                                                              1 = Preguntar por los propietarios.|| 2 = Preguntar su nombre || 3 = Preguntar más sobre la casa "
+							Escribir "                                                              1 = Preguntar por los propietarios.|| 2 = Preguntar su nombre || 3 = Preguntar mÃ¡s sobre la casa "
 							leer Respuesta0
 							Mientras (Respuesta0 > 3 o Respuesta0 < 1)
 								Escribir "Respuesta fuera de parametro"
@@ -4201,8 +4201,8 @@ Algoritmo new_menu
 										FinPara
 										Escribir ""
 										Escribir '                                                        - Te aconsejo que mejor no preguntes sobre la casa, solo encontraras horrores. '
-										Escribir "                                                 No se debe buscar al diablo, mejor huir de él. Esa familia solo podía terminar de una forma." 
-										Escribir "                                                              Dijo, mientras sostenía su collar con una cruz en su mano"
+										Escribir "                                                 No se debe buscar al diablo, mejor huir de Ã©l. Esa familia solo podÃ­a terminar de una forma." 
+										Escribir "                                                              Dijo, mientras sostenÃ­a su collar con una cruz en su mano"
 										Escribir ""
 										Escribir "                                                                           1 = Preguntar por los propietarios."
 										Leer Respuesta1
@@ -4219,10 +4219,10 @@ Algoritmo new_menu
 										FinPara
 										Escribir ""
 										Escribir "                                                                               -No tengo porque darte mi nombre-"
-										Escribir "                                                           De repente, se escucha que alguien grita desde adentro. *¡Rita, entra ahora mismo!*' 
-										Escribir "                                                                         Es la misma voz de anciano que habías escuchado antes'
+										Escribir "                                                           De repente, se escucha que alguien grita desde adentro. *Â¡Rita, entra ahora mismo!*' 
+										Escribir "                                                                         Es la misma voz de anciano que habÃ­as escuchado antes'
 										Escribir""
-										Escribir "                                                                  1 = Preguntar por los propietarios. | 3 = Preguntar más sobre la casa "
+										Escribir "                                                                  1 = Preguntar por los propietarios. | 3 = Preguntar mÃ¡s sobre la casa "
 										Leer Respuesta1
 										Si Respuesta1 = 3 Entonces
 											estado <- 1 
@@ -4238,8 +4238,8 @@ Algoritmo new_menu
 										FinPara
 										Escribir ""
 										Escribir '                                                        - Te aconsejo que mejor no preguntes sobre la casa, solo encontraras horrores. '
-										Escribir "                                                 No sé debe buscar al diablo, mejor huir de él. Esa familia solo podía terminar de una forma-"
-										Escribir "                                                              Dijo, mientras sostenía su collar con una cruz en su mano"
+										Escribir "                                                 No sÃ© debe buscar al diablo, mejor huir de Ã©l. Esa familia solo podÃ­a terminar de una forma-"
+										Escribir "                                                              Dijo, mientras sostenÃ­a su collar con una cruz en su mano"
 										Escribir ""
 										Escribir '                                                               1 = Preguntar por los propietarios. | 2 = Preguntar su nombre'
 										Leer Respuesta1
@@ -4256,23 +4256,23 @@ Algoritmo new_menu
 							
 							Borrar Pantalla
 							Escribir "                                                                              ._                                            ,"
-							Escribir "                                                                               (`)..                                    ,.-´)"
-							Escribir "                                                                                (´,.)-..                            ,.-(..`)         "
-							Escribir "                                                                                 (,.´ ,.)-..                    ,.-(. `.. )                    "
-							Escribir "                                                                                  (,.´ ..´ .)-..            ,.-( `.. `.. )                     "
-							Escribir "                                                                                   (,.´ ,.´  ..´)-.     ,.-( `. `.. `.. )                      "
-							Escribir "                                                                                    (,.´  ,.´ ,.´  )-.-(´   `. `.. `.. )                       "
-							Escribir "                                                                                     ( ,.´ ,.´    _== ==_     `.. `.. )                        "
-							Escribir "                                                                                      ( ,.´   _==´ ~  ~  `==_    `.. )                     "
-							Escribir "                                                                                       \  _==´   ----..----  `==_   )                     "
+							Escribir "                                                                               (`)..                                    ,.-Â´)"
+							Escribir "                                                                                (Â´,.)-..                            ,.-(..`)         "
+							Escribir "                                                                                 (,.Â´ ,.)-..                    ,.-(. `.. )                    "
+							Escribir "                                                                                  (,.Â´ ..Â´ .)-..            ,.-( `.. `.. )                     "
+							Escribir "                                                                                   (,.Â´ ,.Â´  ..Â´)-.     ,.-( `. `.. `.. )                      "
+							Escribir "                                                                                    (,.Â´  ,.Â´ ,.Â´  )-.-(Â´   `. `.. `.. )                       "
+							Escribir "                                                                                     ( ,.Â´ ,.Â´    _== ==_     `.. `.. )                        "
+							Escribir "                                                                                      ( ,.Â´   _==Â´ ~  ~  `==_    `.. )                     "
+							Escribir "                                                                                       \  _==Â´   ----..----  `==_   )                     "
 							Escribir "                                                                                    ,.-:    ,----___.  .___----.    -..                        "
-							Escribir "                                                                                ,.-´   (   _--====_  \/  _====--_   )  `-..                 "
-							Escribir "                                                                            ,.-´   .__.´`.  `-_I0_-´    `-_0I_-´  .´`.__.  `-..     "
-							Escribir "                                                                        ,.-´.´   .´      (          |  |          )      `.   `.-..  "
-							Escribir "                                                                    ,.-´    :    `___--- ´`.__.    / __ \    .__.´ `---___´    :   `-..      "
-							Escribir "                                                                  -´_________`-____________´__ \  (O)  (O)  / __`____________-´________`-     "
+							Escribir "                                                                                ,.-Â´   (   _--====_  \/  _====--_   )  `-..                 "
+							Escribir "                                                                            ,.-Â´   .__.Â´`.  `-_I0_-Â´    `-_0I_-Â´  .Â´`.__.  `-..     "
+							Escribir "                                                                        ,.-Â´.Â´   .Â´      (          |  |          )      `.   `.-..  "
+							Escribir "                                                                    ,.-Â´    :    `___--- Â´`.__.    / __ \    .__.Â´ `---___Â´    :   `-..      "
+							Escribir "                                                                  -Â´_________`-____________Â´__ \  (O)  (O)  / __`____________-Â´________`-     "
 							Escribir "                                                                                              \ . _  __  _ . /                               "
-							Escribir "                                                                                               \ `V-´  `-V´ |                                 "
+							Escribir "                                                                                               \ `V-Â´  `-VÂ´ |                                 "
 							Escribir "                                                                                                | \ \ | /  /                                 "
 							Escribir "                                                                                                 V \ ~| ~/V                                   "
 							Escribir "                                                                                                  |  \  /|                                    "
@@ -4282,10 +4282,10 @@ Algoritmo new_menu
 							Escribir"                                                           __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                          (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                             | |                                                                                           | |"
-							Escribir"                                                             | |           -Yo conocía a esa familia. Y solo te diré que eran muy extraños, desde          | |"
-							Escribir"                                                             | |  el padre hasta el hijo más chico. En especial, Damián, el padre y dueño de la casa.      | |"
-							Escribir"                                                             | |    La esposa fue arrastrada al infierno, y él no tuvo mejor idea que ir a buscarla.       | |"
-							Escribir"                                                             | |              Eso les pasa por jugar con el diablo, esa casa está maldita.-                | |"
+							Escribir"                                                             | |           -Yo conocÃ­a a esa familia. Y solo te dirÃ© que eran muy extraÃ±os, desde          | |"
+							Escribir"                                                             | |  el padre hasta el hijo mÃ¡s chico. En especial, DamiÃ¡n, el padre y dueÃ±o de la casa.      | |"
+							Escribir"                                                             | |    La esposa fue arrastrada al infierno, y Ã©l no tuvo mejor idea que ir a buscarla.       | |"
+							Escribir"                                                             | |              Eso les pasa por jugar con el diablo, esa casa estÃ¡ maldita.-                | |"
 							Escribir"                                                             | |                                                                                           | |"
 							Escribir"                                                           __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                          (__   ___________________________________________________________________________________________   __)"
@@ -4296,21 +4296,21 @@ Algoritmo new_menu
 							Borrar Pantalla
 							Escribir ""
 							Escribir ""
-							Escribir "                                                                                                          ;\ \_            _,-_,´"
+							Escribir "                                                                                                          ;\ \_            _,-_,Â´"
 							Escribir "                                                                                                          ::\_ \_        _/  ;;"
 							Escribir "                                                                                                          `;;;\  \_    _/  ,;;"
-							Escribir "                                                                                     _,-´´´´´´´´-.         `.;;;   :  /   ;:;"
-							Escribir "                                                                                 _,-´   ;´  ´ ;´ `´´`.__    :;;;: -----. /./"
-							Escribir "                                                                              ,-´          ;  ´ ´;  ´´´ ;`-._`.;;;´   .  ` ("
-							Escribir "                                                                             /;;´´,  ´-._   ;; ´  ´´;   ;     \,´/\ . .  `."
-							Escribir "                                                                          ,-´;;;; `, ,`, `-.   ;´   ´´   ;    ´ (O ) .    (O)"
-							Escribir "                                                                         /;;;;;;;  ` ` , ,  `.  ;´ ´´´  ;   .´   \/   .   `.;"
-							Escribir "                                                                       ,;; ;;;;;;;;  `,` ` , ,`,    ´´  ;  ; ;       ; :     `."
-							Escribir "                                                                       :;;;;;;;;;;;;;,`,  ,`,` ;  ´; ´   : ;: .  ...´___`... ;;"
-							Escribir "                                                                  ;`._ ;;;;; ;;;;;  ,` ` ,`,`, ´ ;´  ´´  : `.` .`.  ( V )  .´."
-							Escribir "                                                                  :´´,``;;;;;;;;;  ,``,  ` ` ,´   ´´´´   ;   `-.__`._`|´_.´_-´"
-							Escribir "                                                                   `;´, `-.;;;;;   ` ,`  _,-´_,-´~~~~~`-. ;´:     `--~´´~--´"
-							Escribir "                                                                    `-.´_,--`._ _____`,-´  ~`-._         `-._::::  `._  `-.__"
+							Escribir "                                                                                     _,-Â´Â´Â´Â´Â´Â´Â´Â´-.         `.;;;   :  /   ;:;"
+							Escribir "                                                                                 _,-Â´   ;Â´  Â´ ;Â´ `Â´Â´`.__    :;;;: -----. /./"
+							Escribir "                                                                              ,-Â´          ;  Â´ Â´;  Â´Â´Â´ ;`-._`.;;;Â´   .  ` ("
+							Escribir "                                                                             /;;Â´Â´,  Â´-._   ;; Â´  Â´Â´;   ;     \,Â´/\ . .  `."
+							Escribir "                                                                          ,-Â´;;;; `, ,`, `-.   ;Â´   Â´Â´   ;    Â´ (O ) .    (O)"
+							Escribir "                                                                         /;;;;;;;  ` ` , ,  `.  ;Â´ Â´Â´Â´  ;   .Â´   \/   .   `.;"
+							Escribir "                                                                       ,;; ;;;;;;;;  `,` ` , ,`,    Â´Â´  ;  ; ;       ; :     `."
+							Escribir "                                                                       :;;;;;;;;;;;;;,`,  ,`,` ;  Â´; Â´   : ;: .  ...Â´___`... ;;"
+							Escribir "                                                                  ;`._ ;;;;; ;;;;;  ,` ` ,`,`, Â´ ;Â´  Â´Â´  : `.` .`.  ( V )  .Â´."
+							Escribir "                                                                  :Â´Â´,``;;;;;;;;;  ,``,  ` ` ,Â´   Â´Â´Â´Â´   ;   `-.__`._`|Â´_.Â´_-Â´"
+							Escribir "                                                                   `;Â´, `-.;;;;;   ` ,`  _,-Â´_,-Â´~~~~~`-. ;Â´:     `--~Â´Â´~--Â´"
+							Escribir "                                                                    `-.Â´_,--`._ _____`,-Â´  ~`-._         `-._::::  `._  `-.__"
 							Escribir "                                                                       ~~      `-.______,-._)_)_)            `-._:::: `-.____`--,"
 							Escribir "                                                                                  ~~~~~~   ~ ~ ~                 `-. _______-`;~"
 							Escribir "                                                                                                                    `~~~~~~~~~"
@@ -4318,19 +4318,19 @@ Algoritmo new_menu
 							Escribir"                                                          __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                         (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                            | |                                                                                           | |"
-							Escribir"                                                            | |       -Prefiero no nombrarlos más, solo te dire, cuidado con la mansión y en especial,    | |"
-							Escribir"                                                            | |      con los vecinos de Los 33, eran muy amigos de la familia, y no dudo que podrían      | |"
-							Escribir"                                                            | |           ir por el mismo camino. Son los que viven al lado mío, por desgracia.           | |"
+							Escribir"                                                            | |       -Prefiero no nombrarlos mÃ¡s, solo te dire, cuidado con la mansiÃ³n y en especial,    | |"
+							Escribir"                                                            | |      con los vecinos de Los 33, eran muy amigos de la familia, y no dudo que podrÃ­an      | |"
+							Escribir"                                                            | |           ir por el mismo camino. Son los que viven al lado mÃ­o, por desgracia.           | |"
 							Escribir"                                                            | |     No te recomiendo que hables con ellos, pero si buscas a tu gato y no lo encuentras    | |"
-							Escribir"                                                            | |   por ningún sitio, podría ser que ellos lo tengan. El hijo menor siempre juega con los   | |"
-							Escribir"                                                            | |      bichos del bosque. No me sorprendería que hasta usen a tu gato en un sacrificio.-    | |"
+							Escribir"                                                            | |   por ningÃºn sitio, podrÃ­a ser que ellos lo tengan. El hijo menor siempre juega con los   | |"
+							Escribir"                                                            | |      bichos del bosque. No me sorprenderÃ­a que hasta usen a tu gato en un sacrificio.-    | |"
 							Escribir"                                                            | |                                                                                           | |"
 							Escribir"                                                          __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                         (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                            | |                                                                                           | |"
 							Escribir""
 							Escribir""
-							Escribir "                                                                     1 = Preguntar más | 2 = Ir a la casa de Los 33 | 3 = Agradecer y retirarse "
+							Escribir "                                                                     1 = Preguntar mÃ¡s | 2 = Ir a la casa de Los 33 | 3 = Agradecer y retirarse "
 							leer Respuesta0
 							
 							Mientras (Respuesta0 > 3 o Respuesta0 < 1)
@@ -4359,7 +4359,7 @@ Algoritmo new_menu
 											Escribir Chau(i)
 										FinPara
 										Escribir ""
-										Escribir '                                                                             *Muchas gracias. Debo seguir con la búsqueda*"
+										Escribir '                                                                             *Muchas gracias. Debo seguir con la bÃºsqueda*"
 										Escribir "                                                                                            -DE NADA-"
 										Escribir "                                                                              Intentas darle la mano, pero ella no la toma."
 										Escribir ""
@@ -4376,23 +4376,23 @@ Algoritmo new_menu
 										Escribir"                                                                                                  .sSSSSSSSSSSSSSSSSs.               "
 										Escribir"                                                                                                .sSSS&&$$$$$$$$$$&&SSSs.             "
 										Escribir"                                                                                               sSSS&&$$$$$$$$$$$$$$&&SSSs.           "
-										Escribir"                                                                                             sSSS&&$$$88P^´  ´^T88$$$&&SSSs          "
-										Escribir"                                                                                            sSSS&$$8P´´          ´´T8$$&SSSs         "
-										Escribir"                                                                                           sSSS&$$$´.gfbn._  _.nfbs.´$$$&SSSs        "
+										Escribir"                                                                                             sSSS&&$$$88P^Â´  Â´^T88$$$&&SSSs          "
+										Escribir"                                                                                            sSSS&$$8PÂ´Â´          Â´Â´T8$$&SSSs         "
+										Escribir"                                                                                           sSSS&$$$Â´.gfbn._  _.nfbs.Â´$$$&SSSs        "
 										Escribir"                                                                                          sSSS&$$$8 ...__      __... 8$$$&SSSs       "
-										Escribir"                                                                                         !SSS&$$$$8 ´. o :    : o .´ 8$$$$&SSS!      "
-										Escribir"                                                                                         sSS&$$$$$8   ´-´   ´  ´-´   8$$$$$&SSs      "
+										Escribir"                                                                                         !SSS&$$$$8 Â´. o :    : o .Â´ 8$$$$&SSS!      "
+										Escribir"                                                                                         sSS&$$$$$8   Â´-Â´   Â´  Â´-Â´   8$$$$$&SSs      "
 										Escribir"                                                                                        !SS&$$$$$$!         :        !$$$$$$&SS!     "
-										Escribir"                                                                                        sSS&$$$$$8´          .       ´8$$$$$&SSs     "
-										Escribir"                                                                                       !SSS$$$$$$8        ._ ´        8$$$$$$SSS!    "
+										Escribir"                                                                                        sSS&$$$$$8Â´          .       Â´8$$$$$&SSs     "
+										Escribir"                                                                                       !SSS$$$$$$8        ._ Â´        8$$$$$$SSS!    "
 										Escribir"                                                                                       sSS&$$$$$$8                    8$$$$$$&SSs    "
 										Escribir"                                                                                       SSS&$$$$$8!       .=-._        !8$$$$$&SSS    "
-										Escribir"                                                                                      !SS&$$$$$88a       ´.-´´´        e88$$$$$&SS!   "
+										Escribir"                                                                                      !SS&$$$$$88a       Â´.-Â´Â´Â´        e88$$$$$&SS!   "
 										Escribir"                                                                                      sSS&$$$$P888p.-._          _.-.g888T$$$$&SSs   "
-										Escribir"                                                                                      SSS$$$$88888P´´-.´--.__.--´.-´´T88888$$$$&SS   "
-										Escribir"                                                                                       SSg$$$P88P^´     ´-.____.-´     ´^T88T$$$&SS   "
+										Escribir"                                                                                      SSS$$$$88888PÂ´Â´-.Â´--.__.--Â´.-Â´Â´T88888$$$$&SS   "
+										Escribir"                                                                                       SSg$$$P88P^Â´     Â´-.____.-Â´     Â´^T88T$$$&SS   "
 										Escribir ""
-										Escribir "                                                                               -TE HE DICHO QUE NO QUIERO HABLAR MÁS DEL TEMA. YA VETE-"
+										Escribir "                                                                               -TE HE DICHO QUE NO QUIERO HABLAR MÃS DEL TEMA. YA VETE-"
 										Escribir""
 										Escribir "                                                                                 2 = Ir a la casa de Los 33 | 3 = Agradecer y retirarse"
 										Leer Respuesta1
@@ -4413,11 +4413,11 @@ Algoritmo new_menu
 											Escribir Chau(i)
 										FinPara
 										Escribir""
-										Escribir '                                                                               *Muchas gracias. Debo seguir con la búsqueda*"
+										Escribir '                                                                               *Muchas gracias. Debo seguir con la bÃºsqueda*"
 										Escribir "                                                                                                -DE NADA-"
 										Escribir "                                                                                Intentas darle la mano, pero ella no la toma."
 										Escribir ""
-										Escribir '                                                                                1 = Preguntar más  | 2 = Ir a la casa de Los 33'
+										Escribir '                                                                                1 = Preguntar mÃ¡s  | 2 = Ir a la casa de Los 33'
 										Leer Respuesta1
 										Si Respuesta1 = 1 Entonces
 											estado <- 2
@@ -4453,11 +4453,11 @@ Algoritmo new_menu
 							Escribir"                                                          __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                         (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                            | |                                                                                           | |"
-							Escribir"                                                            | |                                 DIRECCIÓN: LOS 33.                                        | |"
+							Escribir"                                                            | |                                 DIRECCIÃ“N: LOS 33.                                        | |"
 							Escribir"                                                            | |          Te diriges a la siguiente casa. Al ingresar al patio notas su aspecto.           | |"
 							Escribir"                                                            | |     Tiene juegos en la parte de adelante, ropa tendida en sogas, juguetes tirados         | |"
-							Escribir"                                                            | |   en la entrada. Se podría decir que luce muy familiar la escena, como si la hubieses.    | |"
-							Escribir"                                                            | |                                visto en alguna película.                                  | |"
+							Escribir"                                                            | |   en la entrada. Se podrÃ­a decir que luce muy familiar la escena, como si la hubieses.    | |"
+							Escribir"                                                            | |                                visto en alguna pelÃ­cula.                                  | |"
 							Escribir"                                                            | |                                                                                           | |"
 							Escribir"                                                          __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                         (__   ___________________________________________________________________________________________   __)"
@@ -4470,40 +4470,40 @@ Algoritmo new_menu
 							Escribir ""
 							Escribir ""
 							Escribir ""
-							Escribir "                                                                                             ,-´```´,--´```-."
-							Escribir "                                                                                         ,-`      `         `´,"
+							Escribir "                                                                                             ,-Â´```Â´,--Â´```-."
+							Escribir "                                                                                         ,-`      `         `Â´,"
 							Escribir "                                                                                      ,`                      `."
 							Escribir "                                                                                     ,                          `,"
 							Escribir "                                                                                    ,               /`.           \"
 							Escribir "                                                                                    |              /   `\          |"
-							Escribir "                                                                                    |      ,.    ,´      `\        \"
+							Escribir "                                                                                    |      ,.    ,Â´      `\        \"
 							Escribir "                                                                                    /     / (  ,/          `\       |"
 							Escribir "                                                                                   |     / . | ,     _\    ,-\      /"
-							Escribir "                                                                                   |     | | \ /   ,´(_>  `,``|    |"
+							Escribir "                                                                                   |     | | \ /   ,Â´(_>  `,``|    |"
 							Escribir "                                                                                   |     \  \ ||    ``      \ \   /"
-							Escribir "                                                                                   \      `.` `´         ,   ) \  |"
-							Escribir "                                                                                    |      `,            ´-``   | /"
+							Escribir "                                                                                   \      `.` `Â´         ,   ) \  |"
+							Escribir "                                                                                    |      `,            Â´-``   | /"
 							Escribir "                                                                                     \       )                 /||"
-							Escribir "                                                                                      |     /    .      ----´ | ``"
+							Escribir "                                                                                      |     /    .      ----Â´ | ``"
 							Escribir "                                                                                      |     |     `.          |         "
 							Escribir "                                                                                      \     |       `.        /"
-							Escribir "                                                                                       \    /         `-.....´"
+							Escribir "                                                                                       \    /         `-.....Â´"
 							Escribir "                                                                                        |   |          /"
 							Escribir ""
 							Escribir"                                                          __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                         (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                            | |                                                                                           | |"
-							Escribir"                                                            | |          Tocas el timbre, luego de unos segundos asoma un niño a la ventana.              | |"
-							Escribir"                                                            | |                     -¿Hola, están tus papás de casualidad?                                | |"
-							Escribir"                                                            | |           El niño automaticmente grita *Pamii* y se aleja de la ventana.                  | |"
-							Escribir"                                                            | |  Abre la puerta un hombre, parecería tener unos 35 años, sostiene un bebe en sus brazos.  | |"
-							Escribir"                                                            | |       Informas que eres su vecino y luego, -¿De casualidad no vieron a una gata blanca?   | |"
+							Escribir"                                                            | |          Tocas el timbre, luego de unos segundos asoma un niÃ±o a la ventana.              | |"
+							Escribir"                                                            | |                     -Â¿Hola, estÃ¡n tus papÃ¡s de casualidad?                                | |"
+							Escribir"                                                            | |           El niÃ±o automaticmente grita *Pamii* y se aleja de la ventana.                  | |"
+							Escribir"                                                            | |  Abre la puerta un hombre, parecerÃ­a tener unos 35 aÃ±os, sostiene un bebe en sus brazos.  | |"
+							Escribir"                                                            | |       Informas que eres su vecino y luego, -Â¿De casualidad no vieron a una gata blanca?   | |"
 							Escribir"                                                            | |                            -Hola, disculpa, no.                                           | |"
 							Escribir"                                                          __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                         (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                            | |                                                                                           | |"
 							Escribir ""
-							Escribir "                                                      1 = Pregunta por el niño | 2 = Comentar lo que dijo la vecina de LOS 30. | 3 = Pregunta por la casa. "
+							Escribir "                                                      1 = Pregunta por el niÃ±o | 2 = Comentar lo que dijo la vecina de LOS 30. | 3 = Pregunta por la casa. "
 							leer Respuesta0
 							Mientras (Respuesta0 > 3 o Respuesta0 < 1)
 								Escribir "Respuesta fuera de parametro"
@@ -4531,8 +4531,8 @@ Algoritmo new_menu
 											Escribir Nene(i)
 										FinPara
 										Escribir ""
-										Escribir '                                                                          -¿Puede ser posible que su hijo la haya visto?'
-										Escribir"                                                              -No, él no sale nunca y tiene prohibido jugar con animales de la calle."
+										Escribir '                                                                          -Â¿Puede ser posible que su hijo la haya visto?'
+										Escribir"                                                              -No, Ã©l no sale nunca y tiene prohibido jugar con animales de la calle."
 										Escribir ""
 										Escribir '                                                              2 = Comentar lo que dijeron los vecinos de Los 30.  | 3 = Pregunta por la casa.'
 										Leer Respuesta1
@@ -4544,13 +4544,13 @@ Algoritmo new_menu
 											Escribir ""
 											Escribir ""
 											Para i<-1 hasta 19 con paso 1 Hacer
-												Escribir Muñeco(i)
+												Escribir MuÃ±eco(i)
 											FinPara
 											Escribir""
 											Escribir""
-											Escribir "                                                           -Los vecinos que viven acá al lado me dijeron que su hijo a veces juega con los animales que ve.-"
-											Escribir "                                                                    -Ja. No sabe en que más meterse. No le prestes atención."
-											Escribir "                                                                              Él solo juega con muñecos y peluches.-"
+											Escribir "                                                           -Los vecinos que viven acÃ¡ al lado me dijeron que su hijo a veces juega con los animales que ve.-"
+											Escribir "                                                                    -Ja. No sabe en que mÃ¡s meterse. No le prestes atenciÃ³n."
+											Escribir "                                                                              Ã‰l solo juega con muÃ±ecos y peluches.-"
 										Sino si Respuesta1 = 3 entonces
 												estado <- 4
 											FinSi
@@ -4561,14 +4561,14 @@ Algoritmo new_menu
 										Escribir ""
 										Escribir ""
 										Para i<-1 hasta 19 con paso 1 Hacer
-											Escribir Muñeco(i)
+											Escribir MuÃ±eco(i)
 										FinPara
 										Escribir""
-										Escribir "                                                           Los vecinos que viven acá al lado me dijeron que su hijo a veces juega con los animales que ve"
-										Escribir "                                                                    Ja. No sabe en que más meterse. No le prestes atención."
-										Escribir "                                                                              Él solo juega con muñecos y peluches.-"
+										Escribir "                                                           Los vecinos que viven acÃ¡ al lado me dijeron que su hijo a veces juega con los animales que ve"
+										Escribir "                                                                    Ja. No sabe en que mÃ¡s meterse. No le prestes atenciÃ³n."
+										Escribir "                                                                              Ã‰l solo juega con muÃ±ecos y peluches.-"
 										Escribir""
-										Escribir "                                                                    1 = Pregunta por el niño  | 3 = Pregunta por la casa."
+										Escribir "                                                                    1 = Pregunta por el niÃ±o  | 3 = Pregunta por la casa."
 										Leer Respuesta1    
 										Si Respuesta1 = 1 Entonces
 											Borrar Pantalla
@@ -4581,7 +4581,7 @@ Algoritmo new_menu
 										
 									3: 
 										Escribir ""
-										Escribir '                                                                      Entonces tal vez podrías saber algo de los propietarios. '
+										Escribir '                                                                      Entonces tal vez podrÃ­as saber algo de los propietarios. '
 										Escribir""
 										Escribir "                                                                                    3 = Pregunta por la casa."
 										Leer Respuesta1
@@ -4617,7 +4617,7 @@ Algoritmo new_menu
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                              | |                    -Hace mucho que se fueron y no se nada del tema.                       | |"
 							Escribir"                                                              | |             Y si me disculpas, ahora mismo estoy muy ocupado con el bebe.-                | |"
-							Escribir"                                                              | |                      Después de decir eso, cierra la puerta.                              | |"
+							Escribir"                                                              | |                      DespuÃ©s de decir eso, cierra la puerta.                              | |"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
@@ -4634,9 +4634,9 @@ Algoritmo new_menu
 							Escribir "                                                                                            |==/UUUU|.---.---.---.|UUU\"
 							Escribir "                                                                                            |=/UUUUU||___|___|___||UUUU\"
 							Escribir "                                                                                            |/UUUUUU||___|___|___||UUUUU\"
-							Escribir "                                                                                            /UUUUUUU´=============´UUUUUU\"
+							Escribir "                                                                                            /UUUUUUUÂ´=============Â´UUUUUU\"
 							Escribir "                                                                                           /UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\__"
-							Escribir "                                                                                           |´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´|="
+							Escribir "                                                                                           |Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´Â´|="
 							Escribir "                                                                                           |== ===  = =  ==   ==  == =  ==|-"
 							Escribir "                                                                                           |= _______________ =  _______ =|="
 							Escribir "                                                                                           |=|:::|:::|:::|:::| =|.-----.|=|-"
@@ -4644,22 +4644,22 @@ Algoritmo new_menu
 							Escribir "                                                                                           |=|---+---+---+---| =|||_|_|||=|="
 							Escribir "                                                                                           |=|   |   |   |   |= ||     ||=|-"
 							Escribir "                                                                                           |=|___|___|___|___| =|| == O||=|="
-							Escribir "                                                                                           |=´´´´o|,@%8o´´´´  ´´||    ´||=|-"
+							Escribir "                                                                                           |=Â´Â´Â´Â´o|,@%8oÂ´Â´Â´Â´  Â´Â´||    Â´||=|-"
 							Escribir "                                                                                           |= =.o%&hjw8@&o.== ==||_____||=|-"
-							Escribir "                                                                                           ´´´´|__________|´´´´´/_______\´´´"
-							Escribir "                                                                                                                ´´´´´´´´´"
+							Escribir "                                                                                           Â´Â´Â´Â´|__________|Â´Â´Â´Â´Â´/_______\Â´Â´Â´"
+							Escribir "                                                                                                                Â´Â´Â´Â´Â´Â´Â´Â´Â´"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
-							Escribir"                                                              | |                                 DIRECCIÓN: LOS 36                                         | |"
+							Escribir"                                                              | |                                 DIRECCIÃ“N: LOS 36                                         | |"
 							Escribir"                                                              | |               De repente se ve que en la casa del al lado se estaciona un auto,           | |"
 							Escribir"                                                              | |                        y una chica sale de adentro. Te acercas al auto.                   | |"
-							Escribir"                                                              | |                    -Hola, hace unos días me mude a un par de casas de acá.                | |"
-							Escribir"                                                              | |                               -¡Hola! Cierto, te vi llegar. ¡Bienvenido!                  | |"
+							Escribir"                                                              | |                    -Hola, hace unos dÃ­as me mude a un par de casas de acÃ¡.                | |"
+							Escribir"                                                              | |                               -Â¡Hola! Cierto, te vi llegar. Â¡Bienvenido!                  | |"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir ""
-							Escribir "                                                           1 = Preguntar por los propietarios de la mansión | 2 = Comentar de los vecinos | 3 = Preguntar por la gata."
+							Escribir "                                                           1 = Preguntar por los propietarios de la mansiÃ³n | 2 = Comentar de los vecinos | 3 = Preguntar por la gata."
 							leer Respuesta0
 							
 							Mientras (Respuesta0 > 3 o Respuesta0 < 1)
@@ -4690,7 +4690,7 @@ Algoritmo new_menu
 										Escribir '                                                                                    -Pareces ser la unica vecina amigable que me encuentro-"
 										Escribir "                                                                     -Imagino que te asustaron un poco, todos tienen algo peculiar desde los ojos de otros.-"
 										Escribir ""
-										Escribir "                                                                                     1 = Preguntar por los propietarios de la mansión"
+										Escribir "                                                                                     1 = Preguntar por los propietarios de la mansiÃ³n"
 										Leer Respuesta1
 										Si Respuesta1 = 1 entonces
 											estado <- 4
@@ -4710,10 +4710,10 @@ Algoritmo new_menu
 										FinPara
 										Escribir ""
 										Escribir "                                                                             -Tuve el descuido de dejar abierta una ventana y se escapo mi gata."
-										Escribir "                                                                                       ¿De casualidad no la viste? Es blanca-"
+										Escribir "                                                                                       Â¿De casualidad no la viste? Es blanca-"
 										Escribir "                                                                                              -Que pena, no la vi-"
 										Escribir""
-										Escribir "                                                                    1 = Preguntar por los propietarios de la mansión | 2 = Comentar de los vecinos."
+										Escribir "                                                                    1 = Preguntar por los propietarios de la mansiÃ³n | 2 = Comentar de los vecinos."
 										Leer Respuesta1
 										Si Respuesta1 = 2 Entonces
 											estado <- 1 
@@ -4734,7 +4734,7 @@ Algoritmo new_menu
 										Escribir '                                                                               -Pareces ser la unica vecina amigable que me encuentro.-'
 										Escribir "                                                                 -Imagino que te asustaron un poco, todos tenemos algo peculiar desde los ojos de otros.-" 
 										Escribir ""
-										Escribir '                                                                     1 = Preguntar por los propietarios de la mansión | 3 = Preguntar por la gata.'
+										Escribir '                                                                     1 = Preguntar por los propietarios de la mansiÃ³n | 3 = Preguntar por la gata.'
 										Leer Respuesta1
 										Si Respuesta1 = 3 Entonces
 											estado <- 2
@@ -4757,25 +4757,25 @@ Algoritmo new_menu
 							Escribir "                                                                                                      \`*-.                    "
 							Escribir "                                                                                                      )  _`-.                 "
 							Escribir "                                                                                                     .  : `. .                "
-							Escribir "                                                                                                     : _   ´  \               "
+							Escribir "                                                                                                     : _   Â´  \               "
 							Escribir "                                                                                                     ; *` _.   `*-._          "
-							Escribir "                                                                                                     `-.-´          `-.       "
+							Escribir "                                                                                                     `-.-Â´          `-.       "
 							Escribir "                                                                                                         ;       `       `.     "
 							Escribir "                                                                                                         :.       .        \    "
-							Escribir "                                                                                                         . \  .   :   .-´   .   "
-							Escribir "                                                                                                         ´  `+.;  ;  ´      :   "
-							Escribir "                                                                                                         :  ´  |  | ;       ;-. "
-							Escribir "                                                                                                         ; ´   : :` :     _.`* ;"
-							Escribir "                                                                                                      .*´ /  .*´ ; .*`- +´  `*´ "
-							Escribir "                                                                                                     `*-*   `*-*  `*-*´"
+							Escribir "                                                                                                         . \  .   :   .-Â´   .   "
+							Escribir "                                                                                                         Â´  `+.;  ;  Â´      :   "
+							Escribir "                                                                                                         :  Â´  |  | ;       ;-. "
+							Escribir "                                                                                                         ; Â´   : :` :     _.`* ;"
+							Escribir "                                                                                                      .*Â´ /  .*Â´ ; .*`- +Â´  `*Â´ "
+							Escribir "                                                                                                     `*-*   `*-*  `*-*Â´"
 							Escribir ""
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                              | |      -Creo que no es un buen sitio para perder una mascota. Me asusta la idea de que      | |"
-							Escribir"                                                              | |       esté en la mansión de al lado. Me dijeron que esta maldita. ¿Es verdad?             | |"
-							Escribir"                                                              | |          -JAJA, Claro que no. Ya sé quien te lo dijo; Rita                                | |  "              
-							Escribir"                                                              | |            Entonces si vive gente ahí, creí por un momento que estaba desocupada.         | |"
+							Escribir"                                                              | |       estÃ© en la mansiÃ³n de al lado. Me dijeron que esta maldita. Â¿Es verdad?             | |"
+							Escribir"                                                              | |          -JAJA, Claro que no. Ya sÃ© quien te lo dijo; Rita                                | |  "              
+							Escribir"                                                              | |            Entonces si vive gente ahÃ­, creÃ­ por un momento que estaba desocupada.         | |"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
@@ -4801,10 +4801,10 @@ Algoritmo new_menu
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
-							Escribir"                                                              | |      -Bueno, por desgracia, eso es cierto. Hace un año no sé sabe nada de ellos.          | |"
-							Escribir"                                                              | |               -Pero, ¿Qué pasó? Nadie me contó de esto antes de mudarme.                  | |"
+							Escribir"                                                              | |      -Bueno, por desgracia, eso es cierto. Hace un aÃ±o no sÃ© sabe nada de ellos.          | |"
+							Escribir"                                                              | |               -Pero, Â¿QuÃ© pasÃ³? Nadie me contÃ³ de esto antes de mudarme.                  | |"
 							Escribir"                                                              | |          -Supongo que te ocultaron algunos detalles a la hora de venderte la casa.        | |  "              
-							Escribir"                                                              | |                    Es un misterio para todos lo que pasó. Veras..                         | |"
+							Escribir"                                                              | |                    Es un misterio para todos lo que pasÃ³. Veras..                         | |"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
@@ -4839,11 +4839,11 @@ Algoritmo new_menu
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
-							Escribir"                                                              | |       -En esa mansión vivía una familia. Estaba el padre de familia Damian, su esposa     | |"
-							Escribir"                                                              | |       Veronica, y sus dos hijos. Pero, en 2020 la vida de ellos cambió rotundamente,      | |"
-							Escribir"                                                              | |          Veronica falleció. Desde entonces Damian se recluyó y comenzo a desarrollar      | |  "              
-							Escribir"                                                              | |        una extraña obsesión por la seguridad. Instaló camarás en los jardines y           | |"
-							Escribir"                                                              | |           contrató guardias para que custodiaran las entradas las 24 horas.               | |"
+							Escribir"                                                              | |       -En esa mansiÃ³n vivÃ­a una familia. Estaba el padre de familia Damian, su esposa     | |"
+							Escribir"                                                              | |       Veronica, y sus dos hijos. Pero, en 2020 la vida de ellos cambiÃ³ rotundamente,      | |"
+							Escribir"                                                              | |          Veronica falleciÃ³. Desde entonces Damian se recluyÃ³ y comenzo a desarrollar      | |  "              
+							Escribir"                                                              | |        una extraÃ±a obsesiÃ³n por la seguridad. InstalÃ³ camarÃ¡s en los jardines y           | |"
+							Escribir"                                                              | |           contratÃ³ guardias para que custodiaran las entradas las 24 horas.               | |"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
@@ -4858,37 +4858,37 @@ Algoritmo new_menu
 							Escribir "                                                                                                                                  __--~~"
 							Escribir "                                                                                _-~~--__---__                               __--~~"
 							Escribir "                                                                               /             ~-_                         _-~    ."
-							Escribir "                                                                                  .      ´`  ´  \       __--~~~---___   /      :"
+							Escribir "                                                                                  .      Â´`  Â´  \       __--~~~---___   /      :"
 							Escribir "                                                                                    ::    .,`.   \__-~~~             ~~/      :    ."
 							Escribir "                                                                                       .         | ~~~~---~~~----___--/      :    ."
-							Escribir "                                                                                .´`.       `.    \ ^  ^   ^^   ^   ^ /      :     ´"
-							Escribir "                                                                                    `        `    \ ^  ^   ^  ^ ^   /      ´     ;"
-							Escribir "                                                                                      `    `. .    |  ^   ^    ^   /       ´    ´"
-							Escribir "                                                                                     .  .      .   \. . . . . . . /       ´    ´"
+							Escribir "                                                                                .Â´`.       `.    \ ^  ^   ^^   ^   ^ /      :     Â´"
+							Escribir "                                                                                    `        `    \ ^  ^   ^  ^ ^   /      Â´     ;"
+							Escribir "                                                                                      `    `. .    |  ^   ^    ^   /       Â´    Â´"
+							Escribir "                                                                                     .  .      .   \. . . . . . . /       Â´    Â´"
 							Escribir "                                                                                                   |_____________/"
 							Escribir "                                                                                            __--~~~/      :  ___ \~~~~~----______"
-							Escribir "                                                                                    ___--~~~  .   /       : /___\ \ ´            ~~~~---"
+							Escribir "                                                                                    ___--~~~  .   /       : /___\ \ Â´            ~~~~---"
 							Escribir "                                                                                ~~~~      .      /        :(o   o) \    `           `"
-							Escribir "                                                                                     ,       `  /         :||~~~||  \        ´  ."
-							Escribir "                                                                                 `        `    /          :          \    `           ´"
-							Escribir "                                                                                              ´                       `                 "
+							Escribir "                                                                                     ,       `  /         :||~~~||  \        Â´  ."
+							Escribir "                                                                                 `        `    /          :          \    `           Â´"
+							Escribir "                                                                                              Â´                       `                 "
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
-							Escribir"                                                              | |       -Sin embargo, sin dar muchas señales y en silencio en 2021 tantó él como sus hijos  | |"
+							Escribir"                                                              | |       -Sin embargo, sin dar muchas seÃ±ales y en silencio en 2021 tantÃ³ Ã©l como sus hijos  | |"
 							Escribir"                                                              | |                                         se fueron.                                        | |"
-							Escribir"                                                              | |                     -Pero, ¿Cómo es posible? ¿Qué pasó con ellos?                         | |  "              
-							Escribir"                                                              | |    -Nadie sabe, al principio solo pensamos que se habían ido de vacaciones y que después  | |"
-							Escribir"                                                              | |                            volverían, pero nunca lo hicieron.                             | |"
+							Escribir"                                                              | |                     -Pero, Â¿CÃ³mo es posible? Â¿QuÃ© pasÃ³ con ellos?                         | |  "              
+							Escribir"                                                              | |    -Nadie sabe, al principio solo pensamos que se habÃ­an ido de vacaciones y que despuÃ©s  | |"
+							Escribir"                                                              | |                            volverÃ­an, pero nunca lo hicieron.                             | |"
 							Escribir"                                                              | |                Pasaron meses hasta que se hizo la denuncia de desaparicion.               | |"
-							Escribir"                                                              | |       Cuando la policia ingreso a la propiedad encontró que todo estaba en su sitio,      | |"
+							Escribir"                                                              | |       Cuando la policia ingreso a la propiedad encontrÃ³ que todo estaba en su sitio,      | |"
 							Escribir"                                                              | |                               no se llevaron sus pertenencias.                            | |"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir ""
-							Escribir "                                                             1 = Preguntar más del tema | 2 = Preguntar por ella | 3 = Volver a casa y revisar si Ceti volvío"
+							Escribir "                                                             1 = Preguntar mÃ¡s del tema | 2 = Preguntar por ella | 3 = Volver a casa y revisar si Ceti volvÃ­o"
 							Leer Respuesta0
 							
 							Mientras (Respuesta0 > 3 o Respuesta0 < 1)
@@ -4915,10 +4915,10 @@ Algoritmo new_menu
 											Escribir Quest(i)
 										FinPara
 										Escribir ""
-										Escribir '                                                                           -¿Y qué más se sabe de la familia desaparecida?-'
+										Escribir '                                                                           -Â¿Y quÃ© mÃ¡s se sabe de la familia desaparecida?-'
 										Escribir"                                                                          -Por desgracia, eso solo. Para todos es un misterio.-"
 										Escribir ""
-										Escribir '                                                                   2 = Preguntar por ella | 3 = Volver a casa y revisar si Ceti volvío'
+										Escribir '                                                                   2 = Preguntar por ella | 3 = Volver a casa y revisar si Ceti volvÃ­o'
 										Leer Respuesta1
 										Si Respuesta1 = 2 Entonces
 											estado <- 3
@@ -4934,9 +4934,9 @@ Algoritmo new_menu
 											FinPara
 											Escribir ""
 											Escribir""
-											Escribir "                                                                                  -¿Eras amiga de la familia?"
-											Escribir "                                                                        -No, desaparecieron solo un mes después de que me mudé"
-											Escribir "                                                                              Dijo, mientrás encendía un cigarrillo."
+											Escribir "                                                                                  -Â¿Eras amiga de la familia?"
+											Escribir "                                                                        -No, desaparecieron solo un mes despuÃ©s de que me mudÃ©"
+											Escribir "                                                                              Dijo, mientrÃ¡s encendÃ­a un cigarrillo."
 										Sino si Respuesta1 = 3 entonces
 												estado <- 4
 											FinSi
@@ -4954,11 +4954,11 @@ Algoritmo new_menu
 										FinPara
 										Escribir ""
 										Escribir""
-										Escribir "                                                                                       -¿Eras amiga de la familia?"
-										Escribir "                                                                              -No, desaparecieron solo un mes después de que me mudé"
-										Escribir "                                                                                 Dijo, mientrás encendía un cigarrillo."
+										Escribir "                                                                                       -Â¿Eras amiga de la familia?"
+										Escribir "                                                                              -No, desaparecieron solo un mes despuÃ©s de que me mudÃ©"
+										Escribir "                                                                                 Dijo, mientrÃ¡s encendÃ­a un cigarrillo."
 										Escribir""
-										Escribir "                                                                1 = Preguntar más del tema de la mansión| 3 = Volver a casa y revisar si Ceti volvío"
+										Escribir "                                                                1 = Preguntar mÃ¡s del tema de la mansiÃ³n| 3 = Volver a casa y revisar si Ceti volvÃ­o"
 										Leer Respuesta1
 										Si Respuesta1 = 1 Entonces
 											Borrar Pantalla
@@ -4968,7 +4968,7 @@ Algoritmo new_menu
 												Escribir Quest(i)
 											FinPara
 											Escribir ""
-											Escribir '                                                                           -¿Y qué más se sabe de la familia desaparecida?-'
+											Escribir '                                                                           -Â¿Y quÃ© mÃ¡s se sabe de la familia desaparecida?-'
 											Escribir"                                                                          -Por desgracia, eso solo. Para todos es un misterio.-"
 											Escribir ""
 											estado <- 3
@@ -4978,9 +4978,9 @@ Algoritmo new_menu
 										FinSi
 										
 									3: 
-										Escribir '                                                               Tal vez tu gata ya volvio a casa. Por las dudas deberías ir, ya está oscureciendo.-'
+										Escribir '                                                               Tal vez tu gata ya volvio a casa. Por las dudas deberÃ­as ir, ya estÃ¡ oscureciendo.-'
 										Escribir""
-										Escribir "                                                                              3 = Volver a casa y revisar si Ceti volvío"
+										Escribir "                                                                              3 = Volver a casa y revisar si Ceti volvÃ­o"
 										Leer Respuesta1
 										Si Respuesta1 = 3 entonces
 											estado <- 4
@@ -4994,44 +4994,44 @@ Algoritmo new_menu
 							Borrar Pantalla
 							Escribir"                                                                                           ,"
 							Escribir"                                                                                           \`-._           __"
-							Escribir"                                                                                            \\  `-..____,.´  `."
+							Escribir"                                                                                            \\  `-..____,.Â´  `."
 							Escribir"                                                                                             :`.         /    \`."
 							Escribir"                                                                                             :  )       :      : \"
 							Escribir"                                                                                              ;'        '   ;  |  :"
 							Escribir"                                                                                              )..      .. .:.`.;  :"
 							Escribir"                                                                             miau            /::...  .:::...   ` ;"
-							Escribir"                                                                                             ; _ ´    __        /:\"
+							Escribir"                                                                                             ; _ Â´    __        /:\"
 							Escribir"                                                                                             `:o>   /\o_>      ;:. `."
 							Escribir"                                                                    miau                    `-`.__ ;   __..--- /:.   \"
-							Escribir"                                                                                            === \_/   ;=====_.´:.     ;"
-							Escribir"                                                                                             ,/´`--´...`--....        ;"
+							Escribir"                                                                                            === \_/   ;=====_.Â´:.     ;"
+							Escribir"                                                                                             ,/Â´`--Â´...`--....        ;"
 							Escribir"                                                                                                  ;                    ;"
-							Escribir"                                                                                                .´                      ;"
-							Escribir"                                                                                              .´                        ;"
-							Escribir"                                                                                 miau       .´     ..     ,      .       ;"
+							Escribir"                                                                                                .Â´                      ;"
+							Escribir"                                                                                              .Â´                        ;"
+							Escribir"                                                                                 miau       .Â´     ..     ,      .       ;"
 							Escribir"                                                                                           :       ::..  /      ;::.     |"
 							Escribir"                                                                                          /      `.;::.  |       ;:..    ;"
 							Escribir"                                                                                         :         |:.   :       ;:.    ;"
 							Escribir"                                                                                         :         ::     ;:..   |.    ;"
 							Escribir"                                                                                          :       :;      :::....|     |"
 							Escribir"                                                                                          /\     ,/ \      ;:::::;     ;"
-							Escribir"                                                                                        .:. \:..|    :     ; ´.--|     ;"
-							Escribir"                                                                                       ::.  :´´  `-.,,;     ;´   ;     ;"
-							Escribir"                                                                                    .-´. _.´\      / `;      \,__:      \"
-							Escribir"                                                                                    `---´    `----´   ;      /    \,.,,,/"
+							Escribir"                                                                                        .:. \:..|    :     ; Â´.--|     ;"
+							Escribir"                                                                                       ::.  :Â´Â´  `-.,,;     ;Â´   ;     ;"
+							Escribir"                                                                                    .-Â´. _.Â´\      / `;      \,__:      \"
+							Escribir"                                                                                    `---Â´    `----Â´   ;      /    \,.,,,/"
 							Escribir"                                                                                                       `----`            "
 							Escribir""
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
-							Escribir"                                                              | |              Mientras vuelves y al pasar por enfrente de la mansión escuchas algo.        | |"
-							Escribir"                                                              | |          Su maullido. Es ella. Y estás seguro, proviene de dentro de la mansión.          | |"
+							Escribir"                                                              | |              Mientras vuelves y al pasar por enfrente de la mansiÃ³n escuchas algo.        | |"
+							Escribir"                                                              | |          Su maullido. Es ella. Y estÃ¡s seguro, proviene de dentro de la mansiÃ³n.          | |"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir ""
-							Escribir "                                                           1 = Saltar las rejas | 2 = Intentar abrir el candado de la mansión | 3 = Fijarse si hay otra entrada."
+							Escribir "                                                           1 = Saltar las rejas | 2 = Intentar abrir el candado de la mansiÃ³n | 3 = Fijarse si hay otra entrada."
 							leer Respuesta0
 							
 							Mientras (Respuesta0 > 3 o Respuesta0 < 1)
@@ -5091,9 +5091,9 @@ Algoritmo new_menu
 											Escribir Gates(i)
 										FinPara
 										Escribir ""
-										Escribir '                                                                           No hay más entradas a la vista, solo hay una puerta con rejas.'
+										Escribir '                                                                           No hay mÃ¡s entradas a la vista, solo hay una puerta con rejas.'
 										Escribir ""
-										Escribir '                                                                       1 = Saltar las rejas | 2 = Intentar abrir el candado de la mansión'
+										Escribir '                                                                       1 = Saltar las rejas | 2 = Intentar abrir el candado de la mansiÃ³n'
 										Leer Respuesta1
 										Si Respuesta1 = 2 Entonces
 											estado <- 1
@@ -5111,8 +5111,8 @@ Algoritmo new_menu
 							Escribir "                                                                                                                  _______________________      |      "
 							Escribir "                                                                                                                 |  ________   ________  |     |      "
 							Escribir "                                                                                                                 | |        | |    ___ | |     |      "
-							Escribir "                                                                                                                 | |        | |  ,´,.(`| |     |      "
-							Escribir "                                                                                                                 | |        | | :  `´  | |     |      "
+							Escribir "                                                                                                                 | |        | |  ,Â´,.(`| |     |      "
+							Escribir "                                                                                                                 | |        | | :  `Â´  | |     |      "
 							Escribir "                                                                                                                 | |        | | :) _  (| |     |      "
 							Escribir "                                                                                                                 | |        | |  `:_)_,| |     |      "
 							Escribir "                                                                                                                 | |________| |________| |     |      "
@@ -5128,19 +5128,19 @@ Algoritmo new_menu
 							Escribir "                                                                                                                                               `.     "
 							Escribir "                                                                                                       .::.                                      `.   "
 							Escribir "                                                                                                    .:::::::.                                      `. "
-							Escribir "                                                                                                 .:::::::::´ .:.                                     `"
-							Escribir "                                                                                               ::::::::::´ .::::.                                     "
-							Escribir "                                                                                          .::. `:::::::´ .:::::::.                                  "
-							Escribir "                                                                                        .::::::.  `::::´ .::::::::::                                "
-							Escribir "                                                                                     .:::::::::::.  `:´ .::::::::::´                                "
+							Escribir "                                                                                                 .:::::::::Â´ .:.                                     `"
+							Escribir "                                                                                               ::::::::::Â´ .::::.                                     "
+							Escribir "                                                                                          .::. `:::::::Â´ .:::::::.                                  "
+							Escribir "                                                                                        .::::::.  `::::Â´ .::::::::::                                "
+							Escribir "                                                                                     .:::::::::::.  `:Â´ .::::::::::Â´                                "
 							Escribir "                                                                                  .::::::::::::::::.    :::::::::::                                 "
-							Escribir "                                                                                .::::::::::::::::::::´ .  `::::::::´                                 "
+							Escribir "                                                                                .::::::::::::::::::::Â´ .  `::::::::Â´                                 "
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                              | |     Logras saltar las rejas. El patio apenas se logra ver, la oscuridad de la noche       | |"
 							Escribir"                                                              | |                              no te permite tener buena vision                             | |"
-							Escribir"                                                              | |           Te asomas a la ventana más proxima, resulta que el vidrió esta roto.            | |"
+							Escribir"                                                              | |           Te asomas a la ventana mÃ¡s proxima, resulta que el vidriÃ³ esta roto.            | |"
 							Escribir"                                                              | |         Introduciendo la mano por el hueco, finalmente logras abrir la ventana            | |"
 							Escribir"                                                              | |                        luego de sacar el seguro de la ventana                             | |"
 							Escribir"                                                              | |                                                                                           | |"
@@ -5158,13 +5158,13 @@ Algoritmo new_menu
 							Escribir "                                                                          |__]\% % % | : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : |"
 							Escribir "                                                                          |___]\% % %|: :______ : : : : : : : : : : : : : : : : : : : : :___: : : :|"
 							Escribir "                                                                          |____]\% % | :|======| :_: : : : : : . : : : : : :_: : : : : :/   \: : : |"
-							Escribir "                                                                          |_____]\% %|: ||\|||||:/_\: :,: : :.´o´.: : :,: :/_\: : : : :|//   |: : :|"
+							Escribir "                                                                          |_____]\% %|: ||\|||||:/_\: :,: : :.Â´oÂ´.: : :,: :/_\: : : : :|//   |: : :|"
 							Escribir "                                                                          |______]\% | :|======| =|= __#_____|___|_____#__ =|= : : : : | ,*, | : : |"
 							Escribir "                                                                          |_______]\%|: |______|: ^ :[___]           [___]: ^ : : : : : \*;*/ : : :|"
 							Escribir "                                                                          |________]\| :|__  __| : : [_|_] o  `(,  o [_|_] : : : : :_____(_)_____: |"
 							Escribir "                                                                          |_________]\: | .||. |: : :[___] |  ( )  | [___]: : :_!_: ||   .|.   || :|"
 							Escribir "                                                                          |__________]==|__||__|====_[_|_]/!\_@@@_/!\[_|_]_===/___\=||____|____||==|"
-							Escribir "                                                                               _                    ´=====================´     | _                |"
+							Escribir "                                                                               _                    Â´=====================Â´     | _                |"
 							Escribir "                                                                              |_)         __.;;.__      _______________         |( |               |"
 							Escribir "                                                                              /_\__      / ;(;;); \    (               )       _|_)|               |"
 							Escribir "                                                                            ~=_|_ _)====/__________\==(\               /)=====(____|========~      |"
@@ -5177,14 +5177,14 @@ Algoritmo new_menu
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                              | |                         Al ingresar te encuentras en el living.                           | |"
-							Escribir"                                                              | |                     El tiempo parece haberse detenido en está mansión.                    | |"
-							Escribir"                                                              | |                Nunca habías visto una casa abandonada tan bien conservada.                | |"
+							Escribir"                                                              | |                     El tiempo parece haberse detenido en estÃ¡ mansiÃ³n.                    | |"
+							Escribir"                                                              | |                Nunca habÃ­as visto una casa abandonada tan bien conservada.                | |"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir""
-							Escribir"                                                                              1 = Revisar la cocina | 2 = Subir las escaleras | 3 = Revisar el baño "
+							Escribir"                                                                              1 = Revisar la cocina | 2 = Subir las escaleras | 3 = Revisar el baÃ±o "
 							
 							Leer Respuesta0
 							Mientras (Respuesta0 > 3 o Respuesta0 < 1)
@@ -5207,10 +5207,10 @@ Algoritmo new_menu
 										Borrar Pantalla
 										Escribir ""
 										Para i<-1 Hasta 18 Con Paso 1 Hacer
-											Escribir Baño(i)
+											Escribir BaÃ±o(i)
 										FinPara
 										Escribir ""
-										Escribir '                                                            No parecer estar Ceti acá. Pero notas que los cepillos de dientes están en su lugar."
+										Escribir '                                                            No parecer estar Ceti acÃ¡. Pero notas que los cepillos de dientes estÃ¡n en su lugar."
 										Escribir "                                                                                        2 = Subir las escaleras"
 										Leer Respuesta1
 										Si Respuesta1 = 2 entonces
@@ -5225,7 +5225,7 @@ Algoritmo new_menu
 										Escribir "                                                                               Entras a la cocina. Hay platos en el lavavajillas. "
 										Escribir "                                                                         Los sartenes y las ollas aun tienen rastros de la ultima comida"
 										Escribir ""
-										Escribir "                                                                               2 = Subir las escaleras | 3 = Revisar el baño"
+										Escribir "                                                                               2 = Subir las escaleras | 3 = Revisar el baÃ±o"
 										Leer Respuesta1
 										Si Respuesta1 = 2 Entonces
 											estado <- 4
@@ -5237,10 +5237,10 @@ Algoritmo new_menu
 									3: Borrar Pantalla
 										Escribir ""
 										Para i<-1 Hasta 18 Con Paso 1 Hacer
-											Escribir Baño(i)
+											Escribir BaÃ±o(i)
 										FinPara
 										Escribir ""
-										Escribir '                                                         No parecer estar Ceti acá. Pero notas que los cepillos de dientes están en su lugar."
+										Escribir '                                                         No parecer estar Ceti acÃ¡. Pero notas que los cepillos de dientes estÃ¡n en su lugar."
 										Escribir ""
 										Escribir '                                                                       1 = Revisar la cocina  | 2 = Subir las escaleras'
 										Leer Respuesta1
@@ -5266,9 +5266,9 @@ Algoritmo new_menu
 							Escribir "                                                                 :::::V:::--*V      %%%%%%%%%%%,;                        :V--VV:::"
 							Escribir "                                                                 :::::V:::--*V     %%%%%%%%%%%%%                         :VV-:V:::"
 							Escribir "                                                                 :::::V:V-*VV      %%%@)%%%@)%%%                         ::V-:V:::"
-							Escribir "                                                                 :::::V:V:-*V,%%%%%%`%%%%%%%%%%´                         ::VV::V:V"
-							Escribir "                                                                 ::::VV:V:-,%%%%%%%%%`%%\/%%%,´                          ::VV::V:V"
-							Escribir "                                                                 ::::VV:V,%%%%%%%%%%%%`´%%%´                             ::VV::V:V"
+							Escribir "                                                                 :::::V:V:-*V,%%%%%%`%%%%%%%%%%Â´                         ::VV::V:V"
+							Escribir "                                                                 ::::VV:V:-,%%%%%%%%%`%%\/%%%,Â´                          ::VV::V:V"
+							Escribir "                                                                 ::::VV:V,%%%%%%%%%%%%`Â´%%%Â´                             ::VV::V:V"
 							Escribir "                                                                 ::::VV,%%%%%%%%%%%%%%%%                                 :::V::V::"
 							Escribir "                                                                 ::::V,%%%%%%%%%%%%%%%%%%                                :::V::V::"
 							Escribir "                                                                 ::::V,%%%%%%%%%%%%%%%%%%%%                              :::V::V::"
@@ -5292,7 +5292,7 @@ Algoritmo new_menu
 							Escribir "                                                                                              %%%"
 							Escribir "                                                                                               %%"
 							Escribir ""
-							Escribir "                                                                Al subir las escaleras y entrar a una habitación la encuentras."
+							Escribir "                                                                Al subir las escaleras y entrar a una habitaciÃ³n la encuentras."
 							Escribir "                                                                            Ceti esta asomada a una ventana."
 							Escribir "                                                                        -Gata traviesa, al fin te encuentro-  "
 							Escribir ""
@@ -5301,37 +5301,37 @@ Algoritmo new_menu
 							Borrar Pantalla
 							Escribir "                                                                  .==============================================."
 							Escribir "                                                                  |                                              |"
-							Escribir "                                                                  |    DIARIO                 .´\                |"
+							Escribir "                                                                  |    DIARIO                 .Â´\                |"
 							Escribir "                                                                  |                          //  ;               |"
-							Escribir "                                                                  |                         /´   |               |"
+							Escribir "                                                                  |                         /Â´   |               |"
 							Escribir "                                                                  |        .----..._    _../ |   \               |"
-							Escribir "                                                                  |         \´---._ `.-´      `  .´              |"
-							Escribir "                                                                  |          `.    ´              `.             |"
-							Escribir "                                                                  |            :            _,.    ´.            |"
-							Escribir "                                                                  |            |     ,_    (() ´    |            |"
-							Escribir "                                                                  |            ;   .´(().  ´      _/__..-        |"
-							Escribir "                                                                  |            \ _ ´       __  _.-´--._          |"
-							Escribir "                                                                  |            ,´.´...____´::-´  \     `´        |"
+							Escribir "                                                                  |         \Â´---._ `.-Â´      `  .Â´              |"
+							Escribir "                                                                  |          `.    Â´              `.             |"
+							Escribir "                                                                  |            :            _,.    Â´.            |"
+							Escribir "                                                                  |            |     ,_    (() Â´    |            |"
+							Escribir "                                                                  |            ;   .Â´(().  Â´      _/__..-        |"
+							Escribir "                                                                  |            \ _ Â´       __  _.-Â´--._          |"
+							Escribir "                                                                  |            ,Â´.Â´...____Â´::-Â´  \     `Â´        |"
 							Escribir "                                                                  |           / |   /         .---.              |"
-							Escribir "                                                                  |     .-.  ´  ´  / ,---.   (     )             |"
-							Escribir "                                                                  |    / /       ,´ (     )---`-`-`-.._          |"
-							Escribir "                                                                  |   : ´       /  ´-`-`-`..........--´\         |"
-							Escribir "                                                                  |   ´ :      /  /                     ´.       |"
-							Escribir "                                                                  |   :  \    |  .´         o             \      |"
-							Escribir "                                                                  |    \  ´  .´ /          o       .       ´     |"
-							Escribir "                                                                  |     \  `.|  :      ,    : _o--´.\      |     |"
-							Escribir "                                                                  |      `. /  ´       ))    (   )  \>     |     |"
+							Escribir "                                                                  |     .-.  Â´  Â´  / ,---.   (     )             |"
+							Escribir "                                                                  |    / /       ,Â´ (     )---`-`-`-.._          |"
+							Escribir "                                                                  |   : Â´       /  Â´-`-`-`..........--Â´\         |"
+							Escribir "                                                                  |   Â´ :      /  /                     Â´.       |"
+							Escribir "                                                                  |   :  \    |  .Â´         o             \      |"
+							Escribir "                                                                  |    \  Â´  .Â´ /          o       .       Â´     |"
+							Escribir "                                                                  |     \  `.|  :      ,    : _o--Â´.\      |     |"
+							Escribir "                                                                  |      `. /  Â´       ))    (   )  \>     |     |"
 							Escribir "                                                                  |        ;   |      ((      \ /    \___  |     |"
-							Escribir "                                                                  |        ;   |      _))      `´.-´. ,-´` ´     |"
+							Escribir "                                                                  |        ;   |      _))      `Â´.-Â´. ,-Â´` Â´     |"
 							Escribir "                                                                  |        |    `.   ((`            |/    /      |"
-							Escribir "                                                                  |        \     ).  .))            ´    .       |"
-							Escribir "                                                                  |     ----`-´-´  `´´.::.________:::mx´´ ---    |"
+							Escribir "                                                                  |        \     ).  .))            Â´    .       |"
+							Escribir "                                                                  |     ----`-Â´-Â´  `Â´Â´.::.________:::mxÂ´Â´ ---    |"
 							Escribir "                                                                  |                                              |"
 							Escribir "                                                                  |                     MILI                     |"
 							Escribir "                                                                  |                                              |"
-							Escribir "                                                                  ´==============================================´"
+							Escribir "                                                                  Â´==============================================Â´"
 							Escribir ""
-							Escribir "                                                                  A la vez que quieras tomar a Ceti te fijas en donde está sentada." 
+							Escribir "                                                                  A la vez que quieras tomar a Ceti te fijas en donde estÃ¡ sentada." 
 							Escribir "                                                           Parece ser un diario personal, en su portada tiene la imagen de un gato blanco."
 							Escribir ""
 							Escribir "                                                                                     ENTER = Continuar "
@@ -5343,35 +5343,35 @@ Algoritmo new_menu
 							Escribir ""
 							Escribir ""
 							Escribir "                                                                                             .__....._             _.....__,"
-							Escribir "                                                                                               .´: o :´:         ;´: o :´."
-							Escribir "                                                                                               `. `-´ .´.       .´. `-´ .´"
-							Escribir "                                                                                                 `---´             `---´"
+							Escribir "                                                                                               .Â´: o :Â´:         ;Â´: o :Â´."
+							Escribir "                                                                                               `. `-Â´ .Â´.       .Â´. `-Â´ .Â´"
+							Escribir "                                                                                                 `---Â´             `---Â´"
 							Escribir ""
 							Escribir "                                                                                       _...----...      ...   ...      ...----..._"
-							Escribir "                                                                                    .-´__..-´´´----    `.  `´`  .´    ----´´´-..__`-."
-							Escribir "                                                                                   ´.-´   _.--´´´´       `-._.-´       ´´´´--._   `-.`"
-							Escribir "                                                                                   ´  .-´´                  :                  `´-.  `"
-							Escribir "                                                                                     ´   `.              _.´´´._              .´   `"
-							Escribir "                                                                                           `.       ,.-´´       ´´-.,       .´"
-							Escribir "                                                                                             `.                           .´"
-							Escribir "                                                                                               `-._                   _.-´"
-							Escribir "                                                                                                 `´´--...___...--´´`"
+							Escribir "                                                                                    .-Â´__..-Â´Â´Â´----    `.  `Â´`  .Â´    ----Â´Â´Â´-..__`-."
+							Escribir "                                                                                   Â´.-Â´   _.--Â´Â´Â´Â´       `-._.-Â´       Â´Â´Â´Â´--._   `-.`"
+							Escribir "                                                                                   Â´  .-Â´Â´                  :                  `Â´-.  `"
+							Escribir "                                                                                     Â´   `.              _.Â´Â´Â´._              .Â´   `"
+							Escribir "                                                                                           `.       ,.-Â´Â´       Â´Â´-.,       .Â´"
+							Escribir "                                                                                             `.                           .Â´"
+							Escribir "                                                                                               `-._                   _.-Â´"
+							Escribir "                                                                                                 `Â´Â´--...___...--Â´Â´`"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                              | |                   Finalmente, tomas a Ceti y te diriges a la salida.                      | |"
 							Escribir"                                                              | |               Pero, de las sombras, sale una figura con aspecto de hombre.                | |"
-							Escribir"                                                              | |              Por el shock del encuentro, caes hacia atrás y soltas a Ceti.                | |"
-							Escribir"                                                              | |  Tras el susto lo distingues mejor, solo es un hombre con aspecto andrajoso y desaliñado. | |"
+							Escribir"                                                              | |              Por el shock del encuentro, caes hacia atrÃ¡s y soltas a Ceti.                | |"
+							Escribir"                                                              | |  Tras el susto lo distingues mejor, solo es un hombre con aspecto andrajoso y desaliÃ±ado. | |"
 							Escribir"                                                              | |                            Tras unos segundos, pregunta:                                  | |"
 							Escribir"                                                              | |                                                                                           | |"
-							Escribir"                                                              | |                                   -¿Es tu gata?                                           | |"
+							Escribir"                                                              | |                                   -Â¿Es tu gata?                                           | |"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir ""
-							Escribir "                                                                      1 = Correr hacia la salida. | 2 = Preguntar quien es él | 3 = Responder que sí"
+							Escribir "                                                                      1 = Correr hacia la salida. | 2 = Preguntar quien es Ã©l | 3 = Responder que sÃ­"
 							leer Respuesta0
 							
 							Mientras (Respuesta0 > 3 o Respuesta0 < 1)
@@ -5398,10 +5398,10 @@ Algoritmo new_menu
 											Escribir Correr(i)
 										FinPara
 										Escribir ""
-										Escribir '                                                                            Al intentar levantarte y correr; él te impide el paso.'
-										Escribir"                                                                                           -¡Te hice una pregunta!"
+										Escribir '                                                                            Al intentar levantarte y correr; Ã©l te impide el paso.'
+										Escribir"                                                                                           -Â¡Te hice una pregunta!"
 										Escribir ""
-										Escribir '                                                                           2 = Preguntar quien es él | 3 = Responder que sí'
+										Escribir '                                                                           2 = Preguntar quien es Ã©l | 3 = Responder que sÃ­'
 										Leer Respuesta1
 										Si Respuesta1 = 2 Entonces
 											estado <- 3
@@ -5413,8 +5413,8 @@ Algoritmo new_menu
 												Escribir Sujeto(i)
 											FinPara
 											Escribir""
-											Escribir "                                                                                        -¿Quién sos? ¿Qué haces acá?"
-											Escribir "                                                                                               -¿Es tu gata?"
+											Escribir "                                                                                        -Â¿QuiÃ©n sos? Â¿QuÃ© haces acÃ¡?"
+											Escribir "                                                                                               -Â¿Es tu gata?"
 										Sino si Respuesta1 = 3 entonces
 												estado <- 4
 											FinSi
@@ -5429,10 +5429,10 @@ Algoritmo new_menu
 											Escribir Sujeto(i)
 										FinPara
 										Escribir""
-										Escribir "                                                                                           -¿Quién sos? ¿Qué haces acá?"
-										Escribir "                                                                                                   -¿Es tu gata?"
+										Escribir "                                                                                           -Â¿QuiÃ©n sos? Â¿QuÃ© haces acÃ¡?"
+										Escribir "                                                                                                   -Â¿Es tu gata?"
 										Escribir""
-										Escribir "                                                                              1 = Correr hacia la salida | 3 = Responder que sí"
+										Escribir "                                                                              1 = Correr hacia la salida | 3 = Responder que sÃ­"
 										Leer Respuesta1
 										Si Respuesta0 = 1 Entonces
 											Borrar Pantalla
@@ -5443,7 +5443,7 @@ Algoritmo new_menu
 											FinPara
 											Escribir ""
 											Escribir '                                                                            Al intentar levantarte y correr el te impide el paso.'
-											Escribir"                                                                                           -¡Te hice una pregunta!"
+											Escribir"                                                                                           -Â¡Te hice una pregunta!"
 											estado <- 3
 										Sino si Respuesta1 = 3
 												estado <- 4
@@ -5451,9 +5451,9 @@ Algoritmo new_menu
 										FinSi
 										
 									3: 
-										Escribir '                                                                                    Él continua: -Solo quiero que me contestes eso.'
+										Escribir '                                                                                    Ã‰l continua: -Solo quiero que me contestes eso.'
 										Escribir""
-										Escribir "                                                                                             3 = Responder que sí"
+										Escribir "                                                                                             3 = Responder que sÃ­"
 										Leer Respuesta1
 										Si Respuesta0 = 3 entonces
 											estado <- 4
@@ -5477,16 +5477,16 @@ Algoritmo new_menu
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
-							Escribir"                                                              | |                                -Sí, es mi gata.                                           | |"
-							Escribir"                                                              | |          Él continua: -No sabía que tenía dueño. Hace poco la vi por la zona, pense       | |"
-							Escribir"                                                              | |                        que había salido del bosque.                                       | |"
-							Escribir"                                                              | |                 ¿Qué haces acá? ¿Entraste a buscar a la gata?                             | |"
+							Escribir"                                                              | |                                -SÃ­, es mi gata.                                           | |"
+							Escribir"                                                              | |          Ã‰l continua: -No sabÃ­a que tenÃ­a dueÃ±o. Hace poco la vi por la zona, pense       | |"
+							Escribir"                                                              | |                        que habÃ­a salido del bosque.                                       | |"
+							Escribir"                                                              | |                 Â¿QuÃ© haces acÃ¡? Â¿Entraste a buscar a la gata?                             | |"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir ""
-							Escribir "                                                                  1 = Correrlo de la casa | 2 = Preguntar por que está en la casa | 3 = Presentarse"
+							Escribir "                                                                  1 = Correrlo de la casa | 2 = Preguntar por que estÃ¡ en la casa | 3 = Presentarse"
 							leer Respuesta0
 							
 							Mientras (Respuesta0 > 3 o Respuesta0 < 1)
@@ -5514,7 +5514,7 @@ Algoritmo new_menu
 										Escribir ""
 										Escribir '                                                                            Solo entre a buscar a mi gata. Me acabo de mudar."
 										Escribir ""
-										Escribir "                                                                                  2 = Preguntar por que está en la casa"
+										Escribir "                                                                                  2 = Preguntar por que estÃ¡ en la casa"
 										Leer Respuesta1
 										Si Respuesta1 = 2 entonces
 											estado <- 4
@@ -5528,17 +5528,17 @@ Algoritmo new_menu
 											Escribir Pelea(i)
 										FinPara
 										Escribir ""
-										Escribir "                                                                        -No te voy a responder nada. No deberías estar acá."
+										Escribir "                                                                        -No te voy a responder nada. No deberÃ­as estar acÃ¡."
 										EScribir ""
-										Escribir "                                                               -Vos tampoco deberías estar acá. Te conviene tener cuidado con lo que dices"
+										Escribir "                                                               -Vos tampoco deberÃ­as estar acÃ¡. Te conviene tener cuidado con lo que dices"
 										Escribir ""
-										Escribir "                                                      -¿Por qué?. Seguro solo sos un ladrón que entró a robar acá. Por que debería darte mi información."
+										Escribir "                                                      -Â¿Por quÃ©?. Seguro solo sos un ladrÃ³n que entrÃ³ a robar acÃ¡. Por que deberÃ­a darte mi informaciÃ³n."
 										Escribir""
 										Escribir "                                                                        -NO SOY UN LADRON! MEJOR TENE CUIDADO CON LO QUE DECIS"
 										Escribir ""
-										Escribir "                                                                         -Si no te vas de está casa, voy a llamar a la policia."
+										Escribir "                                                                         -Si no te vas de estÃ¡ casa, voy a llamar a la policia."
 										Escribir ""
-										Escribir "                                                                                   -YA ME CANSÉ DE QUE HABLES"
+										Escribir "                                                                                   -YA ME CANSÃ‰ DE QUE HABLES"
 										Escribir ""
 										Escribir ""
 										Escribir "                                                                                        ENTER = Continuar"
@@ -5548,7 +5548,7 @@ Algoritmo new_menu
 										Escribir ""
 										Escribir ""
 										Para i<-1 Hasta 20 Con Paso 1 Hacer
-											Escribir Puño(i)
+											Escribir PuÃ±o(i)
 										FinPara
 										Escribir ""
 										Escribir "                                                                       El hombre se abalanza sobre vos, y comienzan a pelear. "
@@ -5572,7 +5572,7 @@ Algoritmo new_menu
 											FinPara
 											Escribir ""
 											Escribir "                                                                                        -Espera, no quiero pelear."
-											Escribir "                                                                             Él retoma -¿Entonces me vas a decir que haces acá?"
+											Escribir "                                                                             Ã‰l retoma -Â¿Entonces me vas a decir que haces acÃ¡?"
 											Escribir ""
 											Escribir "                                                                                                3 = Presentarse"
 											leer Respuesta1
@@ -5584,25 +5584,25 @@ Algoritmo new_menu
 												Escribir ""
 												Escribir ""
 												Escribir "                                                                                    ..,,;;;;;;,,,,"
-												Escribir "                                                                              .,;´´;;,..,;;;,,,,,.´´´;;,.."
-												Escribir "                                                                           ,,´´                    ´´;;;;,;´´"
-												Escribir "                                                                          ;´    ,;@@;´  ,@@;, @@, ´;;;@@;,;´;."
-												Escribir "                                                                         ´´  ,;@@@@@´  ;@@@@; ´´    ;;@@@@@;;;;"
-												Escribir "                                                                            ;;@@@@@;    ´´´     .,,;;;@@@@@@@;;;"
-												Escribir "                                                                           ;;@@@@@@;           , ´;;;@@@@@@@@;;;."
-												Escribir "                                                                            ´´;@@@@@,.  ,   .   ´,;;;@@@@@@;;;;;;"
-												Escribir "                                                                               .   ´´;;;;;;;;;,;;;;@@@@@;;´ ,.:;´"
-												Escribir "                                                                                 ´´..,,     ´´´´    ´  .,;´"
-												Escribir "                                                                                      ´´´´´´::´´´´´´´"
+												Escribir "                                                                              .,;Â´Â´;;,..,;;;,,,,,.Â´Â´Â´;;,.."
+												Escribir "                                                                           ,,Â´Â´                    Â´Â´;;;;,;Â´Â´"
+												Escribir "                                                                          ;Â´    ,;@@;Â´  ,@@;, @@, Â´;;;@@;,;Â´;."
+												Escribir "                                                                         Â´Â´  ,;@@@@@Â´  ;@@@@; Â´Â´    ;;@@@@@;;;;"
+												Escribir "                                                                            ;;@@@@@;    Â´Â´Â´     .,,;;;@@@@@@@;;;"
+												Escribir "                                                                           ;;@@@@@@;           , Â´;;;@@@@@@@@;;;."
+												Escribir "                                                                            Â´Â´;@@@@@,.  ,   .   Â´,;;;@@@@@@;;;;;;"
+												Escribir "                                                                               .   Â´Â´;;;;;;;;;,;;;;@@@@@;;Â´ ,.:;Â´"
+												Escribir "                                                                                 Â´Â´..,,     Â´Â´Â´Â´    Â´  .,;Â´"
+												Escribir "                                                                                      Â´Â´Â´Â´Â´Â´::Â´Â´Â´Â´Â´Â´Â´"
 												Escribir "                                                                                                          ,;"
 												Escribir "                                                                                                         .;;"
 												Escribir "                                                                                                        ,;;;"
 												Escribir "                                                                                                      ,;;;;:"
 												Escribir "                                                                                                   ,;@@   .;"
-												Escribir "                                                                                                  ;;@@´  ,;"
-												Escribir "                                                                                                  ´;;, ,;´"
+												Escribir "                                                                                                  ;;@@Â´  ,;"
+												Escribir "                                                                                                  Â´;;, ,;Â´"
 												Escribir ""
-												Escribir "                                                        Al intentar tomar un cuadro detras tuyo, él se apresura y pone sus manos en tu cuello."
+												Escribir "                                                        Al intentar tomar un cuadro detras tuyo, Ã©l se apresura y pone sus manos en tu cuello."
 												Escribir "                                                            No tienes escapatoria. El aire se agota en tus pulmones, y tras unos segundos.."
 												Escribir ""
 												Escribir ""
@@ -5620,7 +5620,7 @@ Algoritmo new_menu
 										Escribir ""
 										Escribir '                                                                                         Solo entre a buscar a mi gata. Me acabo de mudar."
 										Escribir ""
-										Escribir '                                                                                1 = Correrlo de la casa  | 2 = Preguntar por que está en la casa'
+										Escribir '                                                                                1 = Correrlo de la casa  | 2 = Preguntar por que estÃ¡ en la casa'
 										Leer Respuesta1
 										Si Respuesta1 = 1 Entonces
 											estado <- 2
@@ -5661,10 +5661,10 @@ Algoritmo new_menu
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                              | |        -Soy un vecino de la zona. Cada tanto vengo a ver a un amigo del barrio.           | |"
-							Escribir"                                                              | |          Entré solo porque había oído un ruido. Creí que alguien había entrado a robar.   | |"
-							Escribir"                                                              | |                  Y me encontré con vos, supuestamente buscando a tu gata.                 | |"
+							Escribir"                                                              | |          EntrÃ© solo porque habÃ­a oÃ­do un ruido. CreÃ­ que alguien habÃ­a entrado a robar.   | |"
+							Escribir"                                                              | |                  Y me encontrÃ© con vos, supuestamente buscando a tu gata.                 | |"
 							Escribir"                                                              | |                                                                                           | |"
-							Escribir"                                                              | |                     -Es cierto lo que te dije, solo entré por eso.                        | |"
+							Escribir"                                                              | |                     -Es cierto lo que te dije, solo entrÃ© por eso.                        | |"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
@@ -5702,8 +5702,8 @@ Algoritmo new_menu
 											Escribir Tool(i)
 										FinPara
 										Escribir ""
-										Escribir '                                                                                         -¿Por qué te ves así?"
-										Escribir "                                                                        -Trabajo de mecanico, solo uso está ropa para trabajar."
+										Escribir '                                                                                         -Â¿Por quÃ© te ves asÃ­?"
+										Escribir "                                                                        -Trabajo de mecanico, solo uso estÃ¡ ropa para trabajar."
 										Escribir "                                                                                2 = Preguntar si era amigo de la familia."
 										Leer Respuesta1
 										Si Respuesta1 = 2 entonces
@@ -5720,15 +5720,15 @@ Algoritmo new_menu
 										Escribir ""
 										Escribir "                                                                 -No te creo, seguro solo entraste a robar o a usurpar la casa"
 										Escribir ""
-										Escribir "                                                                           Lo mejor será que llame a la policia."
+										Escribir "                                                                           Lo mejor serÃ¡ que llame a la policia."
 										Escribir ""
-										Escribir "                                                       -Claro que no, no te dejaré. Vos también estás en este lugar sin autorización."
+										Escribir "                                                       -Claro que no, no te dejarÃ©. Vos tambiÃ©n estÃ¡s en este lugar sin autorizaciÃ³n."
 										Escribir ""
 										Escribir "                                                                   -NO SOY UN LADRON! MEJOR TENE CUIDADO CON LO QUE DECIS"
 										Escribir ""
-										Escribir "                                                                    -Si no te vas de está casa, voy a llamar a la policia."
+										Escribir "                                                                    -Si no te vas de estÃ¡ casa, voy a llamar a la policia."
 										Escribir ""
-										Escribir "                                                                               -YA ME CANSÉ DE QUE HABLES"
+										Escribir "                                                                               -YA ME CANSÃ‰ DE QUE HABLES"
 										Escribir ""
 										Escribir ""
 										Escribir "                                                                                    ENTER = Continuar"
@@ -5738,12 +5738,12 @@ Algoritmo new_menu
 										Escribir ""
 										Escribir ""
 										Para i<-1 Hasta 20 Con Paso 1 Hacer
-											Escribir Puño(i)
+											Escribir PuÃ±o(i)
 										FinPara
 										Escribir ""
 										Escribir ""
 										Escribir "                                                                           El hombre se abalanza sobre vos, y comienza a golpearte. "
-										Escribir "                                                                   Después de mucho forcejeo, logra empujarte hasta el vidrio de la ventana."
+										Escribir "                                                                   DespuÃ©s de mucho forcejeo, logra empujarte hasta el vidrio de la ventana."
 										Escribir ""
 										Escribir "                                                                          1 = Parar la pelea | 3 = Buscar un objeto para golpearlo"
 										leer Respuesta1
@@ -5762,7 +5762,7 @@ Algoritmo new_menu
 												Escribir Stop(i)
 											FinPara
 											Escribir ""
-											Escribir "                                                                              -Basta, esto es peligroso. No deberíamos pelear."
+											Escribir "                                                                              -Basta, esto es peligroso. No deberÃ­amos pelear."
 											Escribir ""
 											Escribir "                                                                                      -Vos sos el que no me cree."
 											Escribir ""
@@ -5777,8 +5777,8 @@ Algoritmo new_menu
 													Escribir Sorpresa(i)
 												FinPara
 												Escribir ""
-												Escribir "                                                                  Antes de que puedas tomar algo, él te vuelve a dar un empujon hacía el vidrio."
-												Escribir "                                                                 Está vez, el vidrió de la ventana detras tuyo se rompé y caes del segundo piso."
+												Escribir "                                                                  Antes de que puedas tomar algo, Ã©l te vuelve a dar un empujon hacÃ­a el vidrio."
+												Escribir "                                                                 EstÃ¡ vez, el vidriÃ³ de la ventana detras tuyo se rompÃ© y caes del segundo piso."
 												Escribir ""
 												Escribir "                                                                                                ENTER = Continuar"
 												leer Respuesta1
@@ -5797,8 +5797,8 @@ Algoritmo new_menu
 											Escribir Tool(i)
 										FinPara
 										Escribir ""
-										Escribir '                                                                                               -¿Por qué te ves así?"
-										Escribir "                                                                                 -Trabajo de mecanico, solo uso está ropa para trabajar."
+										Escribir '                                                                                               -Â¿Por quÃ© te ves asÃ­?"
+										Escribir "                                                                                 -Trabajo de mecanico, solo uso estÃ¡ ropa para trabajar."
 										Escribir ""
 										Escribir '                                                                        1 = Correrlo de la casa  | 2 = Preguntar si era amigo de la familia.'
 										Leer Respuesta1
@@ -5832,36 +5832,36 @@ Algoritmo new_menu
 							Escribir ""
 							Escribir ""
 							Escribir ""
-							Escribir"                                                                                @@@@@@@@@@@@@@@@@@@@@@@@@@@@@,´´´´´´@@@@@@@@@@@@"
-							Escribir"                                                                                @@@@@@@@@@@@´-    ´@@@@@@@@@@       ´@@@@@@@@@@@"
-							Escribir"                                                                                @@@@@@@@@@@(   ^^^ )@@@@@@@@@      ´ @@@@@@@@@@@"
+							Escribir"                                                                                @@@@@@@@@@@@@@@@@@@@@@@@@@@@@,Â´Â´Â´Â´Â´Â´@@@@@@@@@@@@"
+							Escribir"                                                                                @@@@@@@@@@@@Â´-    Â´@@@@@@@@@@       Â´@@@@@@@@@@@"
+							Escribir"                                                                                @@@@@@@@@@@(   ^^^ )@@@@@@@@@      Â´ @@@@@@@@@@@"
 							Escribir"                                                                                @@@@@@@@@@@(  (    0@@@@@@@@@,      (@@@@@@@@@@@"
-							Escribir"                                                                                @@@@@@@@@@@)  )  _/@@@@@@@@@@@m       ´@@@@@@@@@"
-							Escribir"                                                                                @@@@@@@@@@(__/  (@@@@@@@@@@@@@´         @@@@@@@@"
-							Escribir"                                                                                @@@@@@@@@@´       )@@@@@@@@@@´          @@@@@@@@"
-							Escribir"                                                                                @@@@@@@@@´         \@@@@@@@@´           @@@@@@@@"
-							Escribir"                                                                                @@@@@@@@@´          )@@@@@@´   A        @@@@@@@@"
-							Escribir"                                                                                @@@@@@@@@         ,@@@@@@@´  /@@        @@@@@@@@"
-							Escribir"                                                                                @@@@@@@@@,        @_____´  =,           @@@@@@@@"
-							Escribir"                                                                                @@@@@@@@@@               :´,@@@@        `@@@@@@@"
-							Escribir"                                                                                @@@@@@@@@´       @@@@@@@@@@@@@@@         M@@@@@@"
-							Escribir"                                                                                @@@@@@@@´        `@@@@@@@@@@@@@´        ,@@@@@@@"
-							Escribir"                                                                                @@@@@@@@          @@@@@@@@@@@@´      /  @@@@@@@@"
-							Escribir"                                                                                @@@@@@@@          @@@@@@@@@@@´          @@@@@@@@"
-							Escribir"                                                                                @@@@@@@@|         @@@@@@@@@@´      /    @@@@@@@@"
-							Escribir"                                                                                @@@@@@@@|         @@@@@@@@@´     ,´    .@@@@@@@@"
-							Escribir"                                                                                @@@@@@@@|         @@@@@@@@´    .@@     `@@@@@@@@"
+							Escribir"                                                                                @@@@@@@@@@@)  )  _/@@@@@@@@@@@m       Â´@@@@@@@@@"
+							Escribir"                                                                                @@@@@@@@@@(__/  (@@@@@@@@@@@@@Â´         @@@@@@@@"
+							Escribir"                                                                                @@@@@@@@@@Â´       )@@@@@@@@@@Â´          @@@@@@@@"
+							Escribir"                                                                                @@@@@@@@@Â´         \@@@@@@@@Â´           @@@@@@@@"
+							Escribir"                                                                                @@@@@@@@@Â´          )@@@@@@Â´   A        @@@@@@@@"
+							Escribir"                                                                                @@@@@@@@@         ,@@@@@@@Â´  /@@        @@@@@@@@"
+							Escribir"                                                                                @@@@@@@@@,        @_____Â´  =,           @@@@@@@@"
+							Escribir"                                                                                @@@@@@@@@@               :Â´,@@@@        `@@@@@@@"
+							Escribir"                                                                                @@@@@@@@@Â´       @@@@@@@@@@@@@@@         M@@@@@@"
+							Escribir"                                                                                @@@@@@@@Â´        `@@@@@@@@@@@@@Â´        ,@@@@@@@"
+							Escribir"                                                                                @@@@@@@@          @@@@@@@@@@@@Â´      /  @@@@@@@@"
+							Escribir"                                                                                @@@@@@@@          @@@@@@@@@@@Â´          @@@@@@@@"
+							Escribir"                                                                                @@@@@@@@|         @@@@@@@@@@Â´      /    @@@@@@@@"
+							Escribir"                                                                                @@@@@@@@|         @@@@@@@@@Â´     ,Â´    .@@@@@@@@"
+							Escribir"                                                                                @@@@@@@@|         @@@@@@@@Â´    .@@     `@@@@@@@@"
 							Escribir"                                                                                @@@@@@@@|         @@@@@@@@m    `@@@,    @@@@@@@@"
 							Escribir"                                                                                @@@@@@@@|        :@@@@@@@@@m    )@@.   )@@@@@@@@"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
-							Escribir"                                                              | |               -Los conocía de paso. Parecían buena gente. Todos lo eran.                  | |"
-							Escribir"                                                              | |                                 -´Lo eran?´                                               | |"
-							Escribir"                                                              | |            -Bueno, antes de que se fueran. Tenían una madre muy buena.                    | |"
-							Escribir"                                                              | |                           -Es muy triste lo que les pasó.                                 | |"
-							Escribir"                                                              | |                     -Tal vez deberías irte de la casa, ya es muy tarde.                   | |"
-							Escribir"                                                              | |                                 -Sí, vos también.                                         | |"
+							Escribir"                                                              | |               -Los conocÃ­a de paso. ParecÃ­an buena gente. Todos lo eran.                  | |"
+							Escribir"                                                              | |                                 -Â´Lo eran?Â´                                               | |"
+							Escribir"                                                              | |            -Bueno, antes de que se fueran. TenÃ­an una madre muy buena.                    | |"
+							Escribir"                                                              | |                           -Es muy triste lo que les pasÃ³.                                 | |"
+							Escribir"                                                              | |                     -Tal vez deberÃ­as irte de la casa, ya es muy tarde.                   | |"
+							Escribir"                                                              | |                                 -SÃ­, vos tambiÃ©n.                                         | |"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
@@ -5894,8 +5894,8 @@ Algoritmo new_menu
 											Escribir Pasillo(i)
 										FinPara
 										Escribir ""
-										Escribir '                                                            -Bueno, no has respondido a casi ninguna de mis perguntas. Ni siquiera sé tu nombre.'
-										Escribir "                                                                                     Lo mejor será irnos."
+										Escribir '                                                            -Bueno, no has respondido a casi ninguna de mis perguntas. Ni siquiera sÃ© tu nombre.'
+										Escribir "                                                                                     Lo mejor serÃ¡ irnos."
 										Escribir ""
 										Escribir "                                                                                  1 = Preguntar donde vive"
 										Leer Respuesta1
@@ -5911,7 +5911,7 @@ Algoritmo new_menu
 											Escribir Quest(i)
 										FinPara
 										Escribir ""
-										Escribir "                                                                            -¿Cúal es tu nombre? Tal vez algun vecino te nombro.'
+										Escribir "                                                                            -Â¿CÃºal es tu nombre? Tal vez algun vecino te nombro.'
 										Escribir "                                                                       -No lo creo, no hablo con ninguno de esta cuadra. Solo pasaba. ' 
 										Escribir""
 										Escribir "                                                                          1 = Preguntar donde vive | 3 = Insistir que debe irse"
@@ -5931,8 +5931,8 @@ Algoritmo new_menu
 											Escribir Pasillo(i)
 										FinPara
 										Escribir ""
-										Escribir '                                                            -Bueno, no has respondido a casi ninguna de mis perguntas. Ni siquiera sé tu nombre.'
-										Escribir "                                                                                     Lo mejor será irnos."
+										Escribir '                                                            -Bueno, no has respondido a casi ninguna de mis perguntas. Ni siquiera sÃ© tu nombre.'
+										Escribir "                                                                                     Lo mejor serÃ¡ irnos."
 										Escribir '                                                                    1 = Preguntar donde vive | 2 = Preguntar su nombre'
 										Leer Respuesta1
 										Si Respuesta1 = 2 Entonces
@@ -5980,15 +5980,15 @@ Algoritmo new_menu
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
-							Escribir"                                                              | |        -Vivo a unos kilometros de acá con mi familia. Ahora ellos están de viaje.         | |"
-							Escribir"                                                              | |                     Eso me recuerda.. ¿Hace mucho tenes a la gata?                        | |"
+							Escribir"                                                              | |        -Vivo a unos kilometros de acÃ¡ con mi familia. Ahora ellos estÃ¡n de viaje.         | |"
+							Escribir"                                                              | |                     Eso me recuerda.. Â¿Hace mucho tenes a la gata?                        | |"
 							Escribir"                                                              | |                  Es hermosa. Mi hija siempre quiso una gata blanca.                       | |"
-							Escribir"                                                              | |                  Pero nunca se lo permitió Vero, es decir, mi esposa.                     | |"
-							Escribir"                                                              | |                                  ¿Podría adoptarla?                                       | |"
+							Escribir"                                                              | |                  Pero nunca se lo permitiÃ³ Vero, es decir, mi esposa.                     | |"
+							Escribir"                                                              | |                                  Â¿PodrÃ­a adoptarla?                                       | |"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
-							Escribir "                                                                              1 = Negarse | 2 = Hacer más preguntas | 3 = Irse "
+							Escribir "                                                                              1 = Negarse | 2 = Hacer mÃ¡s preguntas | 3 = Irse "
 							leer Respuesta0
 							
 							Mientras (Respuesta0 > 3 o Respuesta0 < 1)
@@ -6019,8 +6019,8 @@ Algoritmo new_menu
 											Escribir Mirada(i)
 										FinPara
 										Escribir ""
-										Escribir '                                                                             -Me siento incomodo. Será mejor que me vaya.'
-										Escribir "                                                            -No te vayas. Perdón si fui grosero. Solo que es la gata ideal para la familia"
+										Escribir '                                                                             -Me siento incomodo. SerÃ¡ mejor que me vaya.'
+										Escribir "                                                            -No te vayas. PerdÃ³n si fui grosero. Solo que es la gata ideal para la familia"
 										Escribir ""
 										Escribir "                                                                                          1 = Negarse "
 										Leer Respuesta1
@@ -6037,9 +6037,9 @@ Algoritmo new_menu
 											Escribir Caja(i)
 										FinPara
 										Escribir""
-										Escribir "                                                                                  -¿Cómo sé que puedo confiar en vos?'
+										Escribir "                                                                                  -Â¿CÃ³mo sÃ© que puedo confiar en vos?'
 										Escribir "                                                                       -No te hice nada malo. Y como ves, no vine a robar nada.'
-										Escribir "                                                                          Solo tengo buenas intenciones. Mi hija la adoraría.-"
+										Escribir "                                                                          Solo tengo buenas intenciones. Mi hija la adorarÃ­a.-"
 										Escribir""
 										Escribir "                                                                                       1 = Negarse | 3 = Irse"
 										Leer Respuesta1
@@ -6064,10 +6064,10 @@ Algoritmo new_menu
 											Escribir Mirada(i)
 										FinPara
 										Escribir ""
-										Escribir '                                                                       -Me siento incomodo. Será mejor que me vaya.'
-										Escribir "                                                            -No te vayas. Perdón si fui grosero. Solo que es la gata ideal para la familia"
+										Escribir '                                                                       -Me siento incomodo. SerÃ¡ mejor que me vaya.'
+										Escribir "                                                            -No te vayas. PerdÃ³n si fui grosero. Solo que es la gata ideal para la familia"
 										Escribir ""
-										Escribir '                                                                           1 = Negarse | 2 = Hacer más preguntas'
+										Escribir '                                                                           1 = Negarse | 2 = Hacer mÃ¡s preguntas'
 										Leer Respuesta1
 										Si Respuesta1 = 2 Entonces
 											estado <- 2
@@ -6096,11 +6096,11 @@ Algoritmo new_menu
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
 							Escribir"                                                              | |                                                                                           | |"
-							Escribir"                                                              | |        -Perdón. Ceti es mi unica compañia. Tal vez tengas suerte en algun refugio.        | |"
-							Escribir"                                                              | |                         Por cierto, ¿A que amigo vienes a ver?                            | |"
-							Escribir"                                                              | |                      -¿Y si solo me la prestas por unos días?                             | |"
-							Escribir"                                                              | |     Tengo que ir a buscar a mi hija y le encantará que la reciba con una gatita.          | |"
-							Escribir"                                                              | |                      Solo será como bienvenida, luego te la traeré.                       | |"
+							Escribir"                                                              | |        -PerdÃ³n. Ceti es mi unica compaÃ±ia. Tal vez tengas suerte en algun refugio.        | |"
+							Escribir"                                                              | |                         Por cierto, Â¿A que amigo vienes a ver?                            | |"
+							Escribir"                                                              | |                      -Â¿Y si solo me la prestas por unos dÃ­as?                             | |"
+							Escribir"                                                              | |     Tengo que ir a buscar a mi hija y le encantarÃ¡ que la reciba con una gatita.          | |"
+							Escribir"                                                              | |                      Solo serÃ¡ como bienvenida, luego te la traerÃ©.                       | |"
 							Escribir"                                                              | |                                                                                           | |"
 							Escribir"                                                            __| |___________________________________________________________________________________________| |__"
 							Escribir"                                                           (__   ___________________________________________________________________________________________   __)"
@@ -6136,10 +6136,10 @@ Algoritmo new_menu
 											Escribir DNI(i)
 										FinPara
 										Escribir ""
-										Escribir '                                                                         -Bueno, está bien. Pero solo por un par de días. '
-										Escribir "                                                                          Tenes que dejarme tu documento, como garantía."
+										Escribir '                                                                         -Bueno, estÃ¡ bien. Pero solo por un par de dÃ­as. '
+										Escribir "                                                                          Tenes que dejarme tu documento, como garantÃ­a."
 										Escribir ""
-										Escribir"                                                                          -Muchas gracias. Te prometo que te la traeré."
+										Escribir"                                                                          -Muchas gracias. Te prometo que te la traerÃ©."
 										Escribir ""
 										Escribir "                                                                                     ENTER = Continuar"
 										Leer a_3
@@ -6151,9 +6151,9 @@ Algoritmo new_menu
 											Escribir Hogar(i)
 										FinPara
 										Escribir ""
-										Escribir "                                                            Decides volver a casa mientras lo ves a él irse con Ceti en brazos."
+										Escribir "                                                            Decides volver a casa mientras lo ves a Ã©l irse con Ceti en brazos."
 										Escribir ""
-										Escribir "                                                                  Pasan los días, ninguno de los dos aparece."
+										Escribir "                                                                  Pasan los dÃ­as, ninguno de los dos aparece."
 										Escribir ""
 										Escribir "                                                            1 = Preguntar a los vecinos. | 2 = Informar a la policia."
 										Leer RespuestaFinal
@@ -6175,12 +6175,12 @@ Algoritmo new_menu
 												Escribir ""
 												Escribir ""
 												Escribir "                                                                           Te diriges a hablar con la vecina de LOS 36."
-												Escribir "                                                       Tras llamar a la puerta, sale la misma chica que antes había hablado con vos."
+												Escribir "                                                       Tras llamar a la puerta, sale la misma chica que antes habÃ­a hablado con vos."
 												Escribir "                                                                              Apenas ve que sos vos exclama:"
 												Escribir ""
-												Escribir "                                                                    -Hola!! ¿Te enteraste? ¿No es demasiada casualidad?-"
+												Escribir "                                                                    -Hola!! Â¿Te enteraste? Â¿No es demasiada casualidad?-"
 												Escribir ""
-												Escribir "                                                                                  -Hola, ¿Casualidad?"
+												Escribir "                                                                                  -Hola, Â¿Casualidad?"
 												Escribir ""
 												Escribir ""
 												Escribir "                                                                                     ENTER = Continuar"
@@ -6194,14 +6194,14 @@ Algoritmo new_menu
 												FinPara
 												Escribir ""
 												Escribir""
-												Escribir "                                                              -Sí, justo hace unos días llegas y te comento del tema."
-												Escribir "                                                          Lo han encontrado, al dueño de la casa. Al parecer, se suicido."
+												Escribir "                                                              -SÃ­, justo hace unos dÃ­as llegas y te comento del tema."
+												Escribir "                                                          Lo han encontrado, al dueÃ±o de la casa. Al parecer, se suicido."
 												Escribir ""
-												Escribir "                                                           -¿Qué? ¿En serio? ¿Todo este tiempo estuvo muerto? ¿Y su familia?"
+												Escribir "                                                           -Â¿QuÃ©? Â¿En serio? Â¿Todo este tiempo estuvo muerto? Â¿Y su familia?"
 												Escribir ""
-												Escribir "                                    -No, lo encontraron hoy a la mañana. Nadie sabe donde estuvo todo este tiempo, pero al parecer, solo él quedó."
-												Escribir "                                     Su cuerpo estaba a un kilometro de aquí, se degolló. Lo peor es que había una gata blanca al lado suyo, también muerta."
-												Escribir "                                                      Anda a saber que le pasaba por la cabeza.Por cierto, ¿Ya encontraste a tu gata?"
+												Escribir "                                    -No, lo encontraron hoy a la maÃ±ana. Nadie sabe donde estuvo todo este tiempo, pero al parecer, solo Ã©l quedÃ³."
+												Escribir "                                     Su cuerpo estaba a un kilometro de aquÃ­, se degollÃ³. Lo peor es que habÃ­a una gata blanca al lado suyo, tambiÃ©n muerta."
+												Escribir "                                                      Anda a saber que le pasaba por la cabeza.Por cierto, Â¿Ya encontraste a tu gata?"
 												Leer a_3
 												estado <- 4
 											2: Borrar Pantalla
@@ -6214,8 +6214,8 @@ Algoritmo new_menu
 													Escribir Llamado(i)
 												FinPara
 												Escribir ""
-												Escribir "                                           Llamas a la policia. Informas que hace pocos días viste entrar un hombre a la mansión."
-												Escribir "                          Tras explicar la situación, y dar el nombre que figuraba en el docuemto,comentas que se fue llevandose a tu gata en brazos"
+												Escribir "                                           Llamas a la policia. Informas que hace pocos dÃ­as viste entrar un hombre a la mansiÃ³n."
+												Escribir "                          Tras explicar la situaciÃ³n, y dar el nombre que figuraba en el docuemto,comentas que se fue llevandose a tu gata en brazos"
 												Escribir ""
 												Escribir ""
 												Escribir "                                                                             ENTER = Continuar"
@@ -6230,19 +6230,19 @@ Algoritmo new_menu
 												Escribir ""
 												Escribir ""
 												Escribir ""
-												Escribir "                                                             -Señor, ¿me confirmaría el color del animal secuestrado?-"
+												Escribir "                                                             -SeÃ±or, Â¿me confirmarÃ­a el color del animal secuestrado?-"
 												Escribir ""    
 												Escribir "                                                                            -Es una gata blanca."
 												Escribir ""
-												Escribir "                                                                 -Señor, le ruego que se acerqué a la comisaria."
+												Escribir "                                                                 -SeÃ±or, le ruego que se acerquÃ© a la comisaria."
 												Escribir ""
-												Escribir "                                                                          -¿La comisaría? ¿Por qué?"
+												Escribir "                                                                          -Â¿La comisarÃ­a? Â¿Por quÃ©?"
 												Escribir ""
-												Escribir "                               -Está mañana fue encontrado un gato blanco en posesión de quién se cree, es el dueño de la mansión a la que se refiere."
+												Escribir "                               -EstÃ¡ maÃ±ana fue encontrado un gato blanco en posesiÃ³n de quiÃ©n se cree, es el dueÃ±o de la mansiÃ³n a la que se refiere."
 												Escribir ""
-												Escribir "                                              -Dios mio, ¿era él? Entonces el documento que me dió; era falso. ¿Y mi gata está bien?"
+												Escribir "                                              -Dios mio, Â¿era Ã©l? Entonces el documento que me diÃ³; era falso. Â¿Y mi gata estÃ¡ bien?"
 												Escribir ""
-												Escribir "                                                           -Deberá acercarse a la comisaria para más información."
+												Escribir "                                                           -DeberÃ¡ acercarse a la comisaria para mÃ¡s informaciÃ³n."
 												Escribir ""
 												Escribir ""
 												Escribir ""
@@ -6259,8 +6259,8 @@ Algoritmo new_menu
 												FinPara
 												Escribir ""
 												Escribir ""
-												Escribir "                                                             Tras llegar a la comisaría te confirman sus defunciones."
-												Escribir "                                                                Si era él. Sí pudo regalarle la gata a su hija..."
+												Escribir "                                                             Tras llegar a la comisarÃ­a te confirman sus defunciones."
+												Escribir "                                                                Si era Ã©l. SÃ­ pudo regalarle la gata a su hija..."
 												Leer b_3
 												estado <- 4
 										FinSegun
@@ -6276,11 +6276,11 @@ Algoritmo new_menu
 										FinPara
 										Escribir""
 										Escribir""
-										Escribir "                                                                       -Bueno, si queres te la puedo prestar un par de días."
-										Escribir "                                                                     Pero hoy no, debe tener hambre. No comió en todo el día."
-										Escribir "                                                                    Podrías pasar por mi casa en la semana y la podes llevar."
+										Escribir "                                                                       -Bueno, si queres te la puedo prestar un par de dÃ­as."
+										Escribir "                                                                     Pero hoy no, debe tener hambre. No comiÃ³ en todo el dÃ­a."
+										Escribir "                                                                    PodrÃ­as pasar por mi casa en la semana y la podes llevar."
 										Escribir ""
-										Escribir "                                                                         -Pero la necesito para mañana a la mañana-"
+										Escribir "                                                                         -Pero la necesito para maÃ±ana a la maÃ±ana-"
 										Escribir ""
 										Escribir""
 										Escribir "                                                                                       ENTER = Continuar"
@@ -6296,11 +6296,11 @@ Algoritmo new_menu
 										Para i<-1 Hasta 19 Con Paso 1 Hacer
 											Escribir Police(i)
 										FinPara
-										Escribir "                                                                                    -Podes pasar mañana por casa, hoy no."
+										Escribir "                                                                                    -Podes pasar maÃ±ana por casa, hoy no."
 										Escribir ""
-										Escribir "                                                                                       -Está bien, pasaré mañana"
+										Escribir "                                                                                       -EstÃ¡ bien, pasarÃ© maÃ±ana"
 										Escribir ""
-										Escribir "                                                                   Crees que eso será suficientes, si aparece mañana llamarás a la policia"
+										Escribir "                                                                   Crees que eso serÃ¡ suficientes, si aparece maÃ±ana llamarÃ¡s a la policia"
 										Escribir ""
 										Escribir ""
 										Escribir "                                                                                             ENTER = Continuar"
@@ -6313,11 +6313,11 @@ Algoritmo new_menu
 											Escribir Alto(i)
 										FinPara
 										Escribir ""
-										Escribir "                                                                          Pero una vez afuera de la mansión comienzas a analizar lo sucedido."
+										Escribir "                                                                          Pero una vez afuera de la mansiÃ³n comienzas a analizar lo sucedido."
 										Escribir ""
-										Escribir "                                                                             Un hombre entra a la mansión sin un motivo especial."
+										Escribir "                                                                             Un hombre entra a la mansiÃ³n sin un motivo especial."
 										Escribir "                                                      No parece estar interesado en robar nada a pesar de su aspecto necesitado, pero si parece ansioso de tener a la gata."
-										Escribir "                                                                                -¿Por qué estaría tan interesado en la gata?"
+										Escribir "                                                                                -Â¿Por quÃ© estarÃ­a tan interesado en la gata?"
 										Escribir ""
 										Escribir ""
 										Escribir "                                                                                            ENTER = Continuar"
@@ -6326,42 +6326,42 @@ Algoritmo new_menu
 										Escribir ""
 										Escribir "                                                                  .==============================================."
 										Escribir "                                                                  |                                              |"
-										Escribir "                                                                  |    DIARIO                 .´\                |"
+										Escribir "                                                                  |    DIARIO                 .Â´\                |"
 										Escribir "                                                                  |                          //  ;               |"
-										Escribir "                                                                  |                         /´   |               |"
+										Escribir "                                                                  |                         /Â´   |               |"
 										Escribir "                                                                  |        .----..._    _../ |   \               |"
-										Escribir "                                                                  |         \´---._ `.-´      `  .´              |"
-										Escribir "                                                                  |          `.    ´              `.             |"
-										Escribir "                                                                  |            :            _,.    ´.            |"
-										Escribir "                                                                  |            |     ,_    (() ´    |            |"
-										Escribir "                                                                  |            ;   .´(().  ´      _/__..-        |"
-										Escribir "                                                                  |            \ _ ´       __  _.-´--._          |"
-										Escribir "                                                                  |            ,´.´...____´::-´  \     `´        |"
+										Escribir "                                                                  |         \Â´---._ `.-Â´      `  .Â´              |"
+										Escribir "                                                                  |          `.    Â´              `.             |"
+										Escribir "                                                                  |            :            _,.    Â´.            |"
+										Escribir "                                                                  |            |     ,_    (() Â´    |            |"
+										Escribir "                                                                  |            ;   .Â´(().  Â´      _/__..-        |"
+										Escribir "                                                                  |            \ _ Â´       __  _.-Â´--._          |"
+										Escribir "                                                                  |            ,Â´.Â´...____Â´::-Â´  \     `Â´        |"
 										Escribir "                                                                  |           / |   /         .---.              |"
-										Escribir "                                                                  |     .-.  ´  ´  / ,---.   (     )             |"
-										Escribir "                                                                  |    / /       ,´ (     )---`-`-`-.._          |"
-										Escribir "                                                                  |   : ´       /  ´-`-`-`..........--´\         |"
-										Escribir "                                                                  |   ´ :      /  /                     ´.       |"
-										Escribir "                                                                  |   :  \    |  .´         o             \      |"
-										Escribir "                                                                  |    \  ´  .´ /          o       .       ´     |"
-										Escribir "                                                                  |     \  `.|  :      ,    : _o--´.\      |     |"
-										Escribir "                                                                  |      `. /  ´       ))    (   )  \>     |     |"
+										Escribir "                                                                  |     .-.  Â´  Â´  / ,---.   (     )             |"
+										Escribir "                                                                  |    / /       ,Â´ (     )---`-`-`-.._          |"
+										Escribir "                                                                  |   : Â´       /  Â´-`-`-`..........--Â´\         |"
+										Escribir "                                                                  |   Â´ :      /  /                     Â´.       |"
+										Escribir "                                                                  |   :  \    |  .Â´         o             \      |"
+										Escribir "                                                                  |    \  Â´  .Â´ /          o       .       Â´     |"
+										Escribir "                                                                  |     \  `.|  :      ,    : _o--Â´.\      |     |"
+										Escribir "                                                                  |      `. /  Â´       ))    (   )  \>     |     |"
 										Escribir "                                                                  |        ;   |      ((      \ /    \___  |     |"
-										Escribir "                                                                  |        ;   |      _))      `´.-´. ,-´` ´     |"
+										Escribir "                                                                  |        ;   |      _))      `Â´.-Â´. ,-Â´` Â´     |"
 										Escribir "                                                                  |        |    `.   ((`            |/    /      |"
-										Escribir "                                                                  |        \     ).  .))            ´    .       |"
-										Escribir "                                                                  |     ----`-´-´  `´´.::.________:::mx´´ ---    |"
+										Escribir "                                                                  |        \     ).  .))            Â´    .       |"
+										Escribir "                                                                  |     ----`-Â´-Â´  `Â´Â´.::.________:::mxÂ´Â´ ---    |"
 										Escribir "                                                                  |                                              |"
 										Escribir "                                                                  |                     MILI                     |"
 										Escribir "                                                                  |                                              |"
-										Escribir "                                                                  ´==============================================´"
+										Escribir "                                                                  Â´==============================================Â´"
 										Escribir ""
-										Escribir "                                                     De repente, un pantallazo te viene a la mente. El diario que viste en la habitación."
+										Escribir "                                                     De repente, un pantallazo te viene a la mente. El diario que viste en la habitaciÃ³n."
 										Escribir "                                                                           El diario del gato blanco."
 										Escribir ""
 										Escribir "                                                                         -NO PUEDE SER. ES IMPOSIBLE."
 										Escribir ""
-										Escribir "                                    1= Llamar a la policía inmediatamente. | 2 = Ir a casa y olvidarse del asunto | 3 = Volver a adentro a confrontarlo."
+										Escribir "                                    1= Llamar a la policÃ­a inmediatamente. | 2 = Ir a casa y olvidarse del asunto | 3 = Volver a adentro a confrontarlo."
 										Escribir ""
 										Escribir ""
 										Leer Final0
@@ -6378,12 +6378,12 @@ Algoritmo new_menu
 												Escribir ""
 												Escribir ""
 												Escribir "                                                                Llamas a la policia. A los pocos minutos llegan los patrulleros."
-												Escribir "                                                                           Al ingresar a la mansión no lo encuentran."
-												Escribir "                                                                                     El sujeto desapareció."
+												Escribir "                                                                           Al ingresar a la mansiÃ³n no lo encuentran."
+												Escribir "                                                                                     El sujeto desapareciÃ³."
 												Escribir "                                                 Tras describirlo al hombre a la policia y tomar sus huellas de la ventana se descubre quien es."
-												Escribir "                                                                            Damian Sares. El dueño de la mansión."
+												Escribir "                                                                            Damian Sares. El dueÃ±o de la mansiÃ³n."
 												Escribir ""
-												Escribir "                                                                   -Algo me dice que no se lo volverá a ver nunca más."
+												Escribir "                                                                   -Algo me dice que no se lo volverÃ¡ a ver nunca mÃ¡s."
 												Leer a_3
 												estado <- 4
 											2: Borrar Pantalla
@@ -6413,9 +6413,9 @@ Algoritmo new_menu
 												Escribir ""
 												Escribir "                                                       Por la madrugada algo te despierta, piensas que es la gata en la cocina."
 												Escribir "                                                            Cuando intentas levantarte para corroborar la cocina lo notas."
-												Escribir "                                                            No te puedes mover. Estás atado. Alguien entró a la casa."
-												Escribir "                                                                Intentas gritar.. También estás amordazado"
-												Escribir "                                                   Finalmente, aparece. Es él. Y no viene solo, tiene un arma en la mano."
+												Escribir "                                                            No te puedes mover. EstÃ¡s atado. Alguien entrÃ³ a la casa."
+												Escribir "                                                                Intentas gritar.. TambiÃ©n estÃ¡s amordazado"
+												Escribir "                                                   Finalmente, aparece. Es Ã©l. Y no viene solo, tiene un arma en la mano."
 												Leer a_3
 												estado <- 3
 											3:
@@ -6423,8 +6423,8 @@ Algoritmo new_menu
 												Escribir "                                                                                                                  _______________________      |      "
 												Escribir "                                                                                                                 |  ________   ________  |     |      "
 												Escribir "                                                                                                                 | |        | |    ___ | |     |      "
-												Escribir "                                                                                                                 | |        | |  ,´,.(`| |     |      "
-												Escribir "                                                                                                                 | |        | | :  `´  | |     |      "
+												Escribir "                                                                                                                 | |        | |  ,Â´,.(`| |     |      "
+												Escribir "                                                                                                                 | |        | | :  `Â´  | |     |      "
 												Escribir "                                                                                                                 | |        | | :) _  (| |     |      "
 												Escribir "                                                                                                                 | |        | |  `:_)_,| |     |      "
 												Escribir "                                                                                                                 | |________| |________| |     |      "
@@ -6440,19 +6440,19 @@ Algoritmo new_menu
 												Escribir "                                                                                                                                               `.     "
 												Escribir "                                                                                                       .::.                                      `.   "
 												Escribir "                                                                                                    .:::::::.                                      `. "
-												Escribir "                                                                                                 .:::::::::´ .:.                                     `"
-												Escribir "                                                                                               ::::::::::´ .::::.                                     "
-												Escribir "                                                                                          .::. `:::::::´ .:::::::.                                  "
-												Escribir "                                                                                        .::::::.  `::::´ .::::::::::                                "
-												Escribir "                                                                                     .:::::::::::.  `:´ .::::::::::´                                "
+												Escribir "                                                                                                 .:::::::::Â´ .:.                                     `"
+												Escribir "                                                                                               ::::::::::Â´ .::::.                                     "
+												Escribir "                                                                                          .::. `:::::::Â´ .:::::::.                                  "
+												Escribir "                                                                                        .::::::.  `::::Â´ .::::::::::                                "
+												Escribir "                                                                                     .:::::::::::.  `:Â´ .::::::::::Â´                                "
 												Escribir "                                                                                  .::::::::::::::::.    :::::::::::                                 "
-												Escribir "                                                                                .::::::::::::::::::::´ .  `::::::::´                                 "
+												Escribir "                                                                                .::::::::::::::::::::Â´ .  `::::::::Â´                                 "
 												Escribir ""
 												Escribir ""
 												Escribir "                                                                               -Debo detenerlo antes de que escape.'
-												Escribir "                                                                             Vuelves a saltar la reja de la mansión.'
+												Escribir "                                                                             Vuelves a saltar la reja de la mansiÃ³n.'
 												Escribir "                                                         Ingresas nuevamente a la casa por la ventana, pero esta vez no corres la misma suerte que antes."
-												Escribir"                                                                         Un golpe te derriba. Para ya nunca más despertar."
+												Escribir"                                                                         Un golpe te derriba. Para ya nunca mÃ¡s despertar."
 												Leer a_3
 												estado <- 3
 										FinSegun
@@ -6497,9 +6497,9 @@ Algoritmo new_menu
 							FinPara
 							Escribir ""
 							Escribir "                                                       Llamas a la policia. A los pocos minutos llegan los patrulleros."
-							Escribir "                       El tipo aún seguía adentro, apenas escucha que derriban la puerta intenta uir, corre y decide saltar por la ventana tras verse arrinconado."
+							Escribir "                       El tipo aÃºn seguÃ­a adentro, apenas escucha que derriban la puerta intenta uir, corre y decide saltar por la ventana tras verse arrinconado."
 							Escribir "                                                            Salta y cae mal parado. Es detenido abajo por agentes."
-							Escribir "                             Tras interrogarlo y encontrar en sus bolsillos su verdadera documentación se descubre que es el dueño de la casa, Damian Sares."
+							Escribir "                             Tras interrogarlo y encontrar en sus bolsillos su verdadera documentaciÃ³n se descubre que es el dueÃ±o de la casa, Damian Sares."
 							Escribir ""
 							Escribir "                                         Las pericias correspondientes se hacen y tras un arduo interrogatorio se descubre la verdad."
 							Escribir ""
@@ -6510,13 +6510,13 @@ Algoritmo new_menu
 								Escribir Sujeto2(i)
 							FinPara
 							Escribir ""
-							Escribir "                                                         -Damian :No lo pude soportar. Todo lo que quería era tener a la familia unida."
+							Escribir "                                                         -Damian :No lo pude soportar. Todo lo que querÃ­a era tener a la familia unida."
 							Escribir ""
-							Escribir "                                                                             -Agente : ¿Como ocurrió?"
+							Escribir "                                                                             -Agente : Â¿Como ocurriÃ³?"
 							Escribir ""
 							Escribir "                                                        -Damian : Les dije que ibamos a dar un paseo, por eso salimos sin llevarnos nada."
 							Escribir""
-							Escribir "                                                           -Agente : A pasado más de un año, ¿Donde ha estado todo este tiempo?"
+							Escribir "                                                           -Agente : A pasado mÃ¡s de un aÃ±o, Â¿Donde ha estado todo este tiempo?"
 							Escribir ""
 							Escribir "                                                                          -Damian : Estuve con ellos."
 							Escribir ""
@@ -6537,13 +6537,13 @@ Algoritmo new_menu
 							FinPara
 							Escribir ""
 							Escribir ""
-							Escribir "                                             Agente = ¿Qué hizo luego de que hundiera el auto en ese barranco? ¿Jamas sacó los cuerpos de ahí?"
+							Escribir "                                             Agente = Â¿QuÃ© hizo luego de que hundiera el auto en ese barranco? Â¿Jamas sacÃ³ los cuerpos de ahÃ­?"
 							Escribir ""
-							Escribir "                                                                           -Damian : No, ellos aún siguen ahí."
+							Escribir "                                                                           -Damian : No, ellos aÃºn siguen ahÃ­."
 							Escribir ""
-							Escribir "                                                  -Agente : El vecino que lo denunció dijo que usted le pidio si podía quedarse con su mascota."
+							Escribir "                                                  -Agente : El vecino que lo denunciÃ³ dijo que usted le pidio si podÃ­a quedarse con su mascota."
 							Escribir ""
-							Escribir "                                                                    Agente : ¿Con que proposito la necesitaba?"
+							Escribir "                                                                    Agente : Â¿Con que proposito la necesitaba?"
 							eSCRIBIR ""
 							Escribir "                                                                                   Enter = Continuar"
 							Leer a_3
@@ -6556,20 +6556,20 @@ Algoritmo new_menu
 							FinPara
 							Escribir ""
 							Escribir ""
-							Escribir "                            -Damian : Mi hija siempre adoró a esa gatita blanca de los dibujitos. Hace poco volví a casa a buscar unas cosas, y entonces la ví."
-							Escribir "                                                           Estaba en mi patio. Sola. Practicamente parecía un regalo a Mili.'
+							Escribir "                            -Damian : Mi hija siempre adorÃ³ a esa gatita blanca de los dibujitos. Hace poco volvÃ­ a casa a buscar unas cosas, y entonces la vÃ­."
+							Escribir "                                                           Estaba en mi patio. Sola. Practicamente parecÃ­a un regalo a Mili.'
 							Escribir ""
-							Escribir "                                                           -Agente : ¿Iba a llevarse a la dirección donde estaban los cuerpos?"
+							Escribir "                                                           -Agente : Â¿Iba a llevarse a la direcciÃ³n donde estaban los cuerpos?"
 							Escribir ""
-							Escribir "                      -Damian : Por poco lo pude hacer, ese día al fin había entrado a casa. Pero no me dió tiempo de matarla. Aparecio el vecino al poco tiempo."
+							Escribir "                      -Damian : Por poco lo pude hacer, ese dÃ­a al fin habÃ­a entrado a casa. Pero no me diÃ³ tiempo de matarla. Aparecio el vecino al poco tiempo."
 							Escribir ""
-							Escribir "                                                                       -Agente : ¿Por qué la quería matar?"
+							Escribir "                                                                       -Agente : Â¿Por quÃ© la querÃ­a matar?"
 							Escribir ""
 							Escribir "                                                                     -Damian : Ya le dije, era un regalo para mi hija."
 							Escribir ""
-							Escribir "                                                 -Agente : ¿Usted quería matar a la gata para que estuviera con su hija, acaso, en la otra vida?"
+							Escribir "                                                 -Agente : Â¿Usted querÃ­a matar a la gata para que estuviera con su hija, acaso, en la otra vida?"
 							Escribir ""
-							Escribir "                                                     -Damian :Todos ibamos a reunirnos está noche. Si hubiera tenido un poco más de tiempo.."
+							Escribir "                                                     -Damian :Todos ibamos a reunirnos estÃ¡ noche. Si hubiera tenido un poco mÃ¡s de tiempo.."
 							Leer Ultima
 							
 						Finsi
